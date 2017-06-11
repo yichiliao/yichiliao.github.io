@@ -16,7 +16,7 @@ Selected Projects
 ======
 
 **ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.**
-[Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. <br>
+<small>[Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small><br>
 <img src="/images/thirdhand.png" width="200" height="200"> <br>
 
 
