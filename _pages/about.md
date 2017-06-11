@@ -15,7 +15,7 @@ I am a HCI research assistant at CMLab, National Taiwan University with [Prof. B
 Selected Projects
 ======
 
-**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
+**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.** In Proc. Siggraph Asia'15 Emerging Technology.<br>
 
 <img src="/images/thirdhand.png" width="200" height="200"> <br>
 <small>[Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
