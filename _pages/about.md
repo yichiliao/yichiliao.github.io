@@ -25,9 +25,18 @@ Wearing a Robotic Arm to Experience Rich Force Feedback<br>
 Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display <br>
 <img src="/images/edgevib.png" width="200" height="200"> <br>
 
+<br>
+
 Professional Activities
 ======
 <br>
 
+**Paper Review**
+CHI: 2016, 2017
+MobileHCI: 2017 
+TEI: 2017
+Augmented Human: 2016
+ISWC: 2017
 
-
+**Student Volunteer**
+Siggraph Aisa: 2016
