@@ -30,20 +30,20 @@ Selected Projects
 <br>
 ------
 
-Professional Activities
+
+Paper Review
 ======
 
-
-**Paper Review** <br>
-<small>CHI: 2016, 2017<br>
+CHI: 2016, 2017<br>
 MobileHCI: 2017 <br>
 TEI: 2017<br>
 Augmented Human: 2016<br>
-ISWC: 2017</small>
+ISWC: 2017
 
-**Student Volunteer**<br>
-<small>Siggraph Aisa: 2016<br></small>
+<br>
+------
 
-**Organizing**<br>
-<small>OpenHCI: 2016<br>
-HoCuIn: 2017</small>
+Other Activities
+======
+I was **Student Volunteering:** at Siggraph Aisa 2016. <br>
+I also co-organized the biggest HCI workshop in Taiwan, OpenHCI'16, and founded the other HCI workshop, HoCuIn'17, to introduce more research-oriented perspectives HCI to gruaduate students.
