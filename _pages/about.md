@@ -7,19 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br>
 I am a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). My previous research projects incude tactile display, force-feedback device and haptic-augmented touch. Currently, I am looking for new ideas combining human and robotics in a more smooth way and also seeking research topics about brain user interface. 
 
 Selected Projects
 ======
-
-##ThirdHand
+<br>
+## ThirdHand
 Wearing a Robotic Arm to Experience Rich Force Feedback<br>
 <img src="/images/thirdhand.png" width="200" height="200"> <br>
 
 
 ------
-##EdgeVib
+## EdgeVib
 Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display
 <img src="/images/edgevib.png" width="200" height="200"> <br>
 
