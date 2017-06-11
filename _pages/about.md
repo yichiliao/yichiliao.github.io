@@ -15,9 +15,10 @@ Currently, I am looking for new ideas combining human and robotics in a more smo
 Selected Works
 ======
 
-![ThirdHand](/images/thirdhand.png) tttttttttt
+<img src="/images/thirdhand.png" width="100" height="100"> tttt
 
-![EdgeVib](/images/edgevib.png) ttttttttttt
+<img src="/images/edgevib.png" width="100" height="100"> tttt
+
 
 
 Create content & metadata
