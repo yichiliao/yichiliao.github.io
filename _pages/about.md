@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Yi-Chi Liao"
+title: "Hello, I'm Yi-Chi Liao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-#Hello, I am Yi-Chi.
-
-------
-I am a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). My previous research projects incude tactile display, force-feedback device and haptic-augmented touch.
-
-Currently, I am looking for new ideas combining human and robotics in a more smooth way and also seeking research topics about brain user interface. 
+I am a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). My previous research projects incude tactile display, force-feedback device and haptic-augmented touch. Currently, I am looking for new ideas combining human and robotics in a more smooth way and also seeking research topics about brain user interface. 
 
 Selected Projects
 ======
 
 <img src="/images/thirdhand.png" width="100" height="100"> tttt
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
 
 <img src="/images/edgevib.png" width="100" height="100"> tttt
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="168" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 
 Create content & metadata
