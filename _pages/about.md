@@ -33,11 +33,15 @@ Professional Activities
 
 
 **Paper Review** <br>
-CHI: 2016, 2017
-MobileHCI: 2017 
-TEI: 2017
-Augmented Human: 2016
+CHI: 2016, 2017<br>
+MobileHCI: 2017 <br>
+TEI: 2017<br>
+Augmented Human: 2016<br>
 ISWC: 2017
 
 **Student Volunteer**<br>
-Siggraph Aisa: 2016
+Siggraph Aisa: 2016<br>
+
+**Organizing**<br>
+OpenHCI: 2016<br>
+HoCuIn: 2017
