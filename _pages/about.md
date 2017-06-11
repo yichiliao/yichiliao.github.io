@@ -13,10 +13,12 @@ I am a HCI research assistant at CMLab, National Taiwan University with [Prof. B
 Selected Projects
 ======
 
-<img src="/images/thirdhand.png" width="20" height="250"> 
+<img src="/images/thirdhand.png" width="200" height="200"> <br>
 ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback
 
-<img src="/images/edgevib.png" width="250" height="250"> 
+------
+
+<img src="/images/edgevib.png" width="200" height="200"> <br>
 EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display
 
 
