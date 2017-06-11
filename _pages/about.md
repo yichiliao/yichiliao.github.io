@@ -24,7 +24,7 @@ Selected Projects
 ------
 **EdgeVib:** Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display. <br>
 <img src="/images/edgevib.png" width="200" height="200"> <br>
-<small>In Proc. UIST'16. <br>
+<small>In Proc. UIST'16, 6-page paper. <br>
 [Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
 <br>
@@ -45,5 +45,4 @@ ISWC: 2017
 
 Other Activities
 ======
-I was **Student Volunteering:** at Siggraph Aisa 2016. <br>
-I also co-organized the biggest HCI workshop in Taiwan, OpenHCI'16, and founded the other HCI workshop, HoCuIn'17, to introduce more research-oriented perspectives HCI to gruaduate students.
+I was **Student Volunteering:** at Siggraph Aisa 2016. I also co-organized the biggest HCI workshop in Taiwan, OpenHCI'16, and founded the other workshop, HoCuIn'17, to introduce more research-oriented HCI to gruaduate students.
