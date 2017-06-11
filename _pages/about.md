@@ -30,7 +30,7 @@ Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display <br>
 
 Professional Activities
 ======
-<br>
+
 
 **Paper Review**
 CHI: 2016, 2017
