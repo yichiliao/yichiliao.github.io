@@ -24,6 +24,8 @@ Selected Projects
 ------
 **EdgeVib:** Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display. <br>
 <img src="/images/edgevib.png" width="200" height="200"> <br>
+<small>In Proc. UIST'16. <br>
+[Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
 <br>
 ------
@@ -33,15 +35,15 @@ Professional Activities
 
 
 **Paper Review** <br>
-CHI: 2016, 2017<br>
+<small>CHI: 2016, 2017<br>
 MobileHCI: 2017 <br>
 TEI: 2017<br>
 Augmented Human: 2016<br>
-ISWC: 2017
+ISWC: 2017</small>
 
 **Student Volunteer**<br>
-Siggraph Aisa: 2016<br>
+<small>Siggraph Aisa: 2016<br></small>
 
 **Organizing**<br>
-OpenHCI: 2016<br>
-HoCuIn: 2017
+<small>OpenHCI: 2016<br>
+HoCuIn: 2017</small>
