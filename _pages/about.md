@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Yi-Chi Liao"
+title: "Yi-Chi Liao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
