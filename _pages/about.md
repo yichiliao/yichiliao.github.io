@@ -10,8 +10,9 @@ redirect_from:
 
 I am a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). My previous research projects incude tactile display, force-feedback device and haptic-augmented touch.
 
+Currently, I am looking for new ideas combining human and robotics in a more smooth way and also seeking research topics about brain user interface. 
 
-A data-driven personal website
+Selected Works
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
