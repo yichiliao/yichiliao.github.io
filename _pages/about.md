@@ -20,7 +20,7 @@ Selected Projects
 
 
 ------
-**EdgeVib:** Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display <br>
+**EdgeVib:** Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display. [Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf), [Video]. <br>
 <img src="/images/edgevib.png" width="200" height="200"> <br>
 
 <br>
