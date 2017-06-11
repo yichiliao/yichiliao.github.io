@@ -32,12 +32,12 @@ Professional Activities
 ======
 
 
-**Paper Review**
+**Paper Review** <br>
 CHI: 2016, 2017
 MobileHCI: 2017 
 TEI: 2017
 Augmented Human: 2016
 ISWC: 2017
 
-**Student Volunteer**
+**Student Volunteer**<br>
 Siggraph Aisa: 2016
