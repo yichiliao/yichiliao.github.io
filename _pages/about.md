@@ -20,7 +20,7 @@ Wearing a Robotic Arm to Experience Rich Force Feedback<br>
 
 ------
 **EdgeVib** <br>
-Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display
+Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display <br>
 <img src="/images/edgevib.png" width="200" height="200"> <br>
 
 
