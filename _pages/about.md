@@ -22,12 +22,11 @@ Selected Projects
 [Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
 ------
-**EdgeVib:** Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display. <br>
+**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display. **<br>
 <img src="/images/edgevib.png" width="200" height="200"> <br>
 <small>In Proc. UIST'16, 6-page paper. <br>
 [Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
-<br>
 ------
 
 
@@ -40,7 +39,6 @@ TEI: 2017<br>
 Augmented Human: 2016<br>
 ISWC: 2017
 
-<br>
 ------
 
 Other Activities
