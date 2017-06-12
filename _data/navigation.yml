@@ -8,9 +8,6 @@ main:
 
   - title: "Talks & Teaching"
     url: /talks/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /files/edgevib_uist16.pdf
