@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-11-02-thirdhand
 excerpt: 'This work presents ThirdHand, a wearable robotic arm which provide 5-DOF force feedback to enrich gaming experiences.'
 date: 2015-11-02
-venue: 'Siggraph Asia 2015, Emerging Technology'
+venue: 'Siggraph Asia, Emerging Technology'
 paperurl: 'https://yichiliao.github.io/files/thirdhand_sa15.pdf'
 ---
 
