@@ -1,6 +1,6 @@
 ---
 title: "Transferring Force Feedback by Wearing a Robot-arm"
-excerpt: "testtest<br/><img src='/images/thirdhand_hand.png'>"
+excerpt: "This work presents ThirdHand, a wearable robotic arm which provide 5-DOF force feedback to enrich gaming experiences.<br/><img src='/images/thirdhand_hand.png'>"
 collection: portfolio
 ---
 
