@@ -1,6 +1,6 @@
 ---
 title: "EMS Air Guitar"
-excerpt: "We propose “EMS Air Guitar,” an air guitar assistant using electrical muscle stimulation (EMS), which impulses the user’s arm to generate the strumming motion on the right time.<br/><img src='/images/ems.png'>"
+excerpt: "We propose “EMS Air Guitar,” an air guitar assistant using electrical muscle stimulation (EMS), which impulses the user’s arm to generate the strumming motion on the right time.<br/><img src='/images/ems.png'><br>"
 collection: portfolio
 ---
 
