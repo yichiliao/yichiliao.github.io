@@ -10,6 +10,13 @@ Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen <b
 In Proc. UIST 2016, page 595 - 601. </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/portfolio-1/)] , [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)] , [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)] , [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)] , [[Slide](https://goo.gl/mpHQ70)]</small>
 
+<br><br>
+
+<small>**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
+Yi-Chi Liao, Shun-Yao YangRong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
+In Proc. Siggraph Asia 2015 Emerging Technology, page 1. </small><br>
+<small>[[Project Page]] , [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)] , [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)] , [[Presentation]] , [[Slide]]</small>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
