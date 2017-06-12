@@ -1,6 +1,6 @@
 ---
-title: "EdgeVib: Delivering Alphanumeric Patterns Using a Tactile Display"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/edgevib_hand2.png'>"
+title: "Delivering Alphanumeric Patterns Using a Tactile Display"
+excerpt: "We used 2x2 vibrotactile array to display EdgeWrite-based alphanumeric patterns on the wrist-worn tactile display to deliver rich and easy-to-learn information.<br/><img src='/images/edgevib_hand2.png'>"
 collection: portfolio
 ---
 
