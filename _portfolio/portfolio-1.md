@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "EdgeVib: Delivering Alphanumeric Patterns Using a Tactile Display"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/edgevib_hand.png'>"
 collection: portfolio
 ---
 
