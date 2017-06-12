@@ -17,7 +17,7 @@ Selected Projects
 
 
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
-<img src="/images/edgevib.png" width="200" height="200"> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 <small>In Proc. UIST'16, 6-page paper. <br>
 [Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
@@ -25,7 +25,7 @@ Selected Projects
 
 **ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.**<br> 
 
-<img src="/images/thirdhand.png" width="200" height="200"> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
 <small>In Proc. Siggraph Asia'15 Emerging Technology.<br>
 [Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
