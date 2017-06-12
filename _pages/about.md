@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). My previous research projects incude tactile display, force-feedback device and haptic-augmented touch. Currently, I am looking for new ideas combining human and robotics in a more smooth way and also seeking research topics about brain user interface. 
+I am a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). My previous research projects incude tactile display, force-feedback device and haptic-augmented touch. Currently, I am looking for new ideas combining human and robotics smoothly through haptic channel and also seeking research topics about brain user interface. 
 
 ------
 
