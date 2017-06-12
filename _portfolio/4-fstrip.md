@@ -11,6 +11,5 @@ collection: portfolio
 
 <small>
 **Publication:**<br> 
-UbiComp 2015 poster <br>
-[[Paper](http://dl.acm.org/citation.cfm?id=2800883&CFID=944733130&CFTOKEN=32899269)]
+UbiComp 2015, poster // [[Paper](http://dl.acm.org/citation.cfm?id=2800883&CFID=944733130&CFTOKEN=32899269)]
 </small>
