@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[Yi-Chi Liao]"
+title                    : "[ Yi-Chi Liao ]"
 title_separator          : "-"
 name                     : &name "Yi-Chi Liao"
 description              : &description "HCI Research Assistant at CMLab, NTU. Focusing on novel interaction, such as haptics, touch, gesture & human-robot interacion."
