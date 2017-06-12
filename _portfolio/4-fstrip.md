@@ -1,6 +1,6 @@
 ---
-title: "fStrip: "
-excerpt: "We used 2x2 vibrotactile array to display EdgeWrite-based alphanumeric patterns on the wrist-worn tactile display to deliver rich and easy-to-learn information.<br/><img src='/images/edgevib_hand2.png'>"
+title: "fStrip: a Malleable Shape-retaining Wearable Strip for Interface On-demand"
+excerpt: "This paper presents fStrip, a wearable device, which enables the use of tangible-and-deformable interface on-demand for mobile tasks.<br/><img src='/images/fStrip.png'>"
 collection: portfolio
 ---
 
