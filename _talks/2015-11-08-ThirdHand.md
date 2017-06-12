@@ -1,7 +1,7 @@
 ---
-title: "ThirdHand Presentation @ Siggraph Asia 2015"
+title: "Conference Talk: ThirdHand Presentation @ Siggraph Asia 2015"
 collection: talks
-type: "Presentation"
+type: "Conference Proceeding Talk"
 permalink: /talks/2015-11-08-ThirdHand
 venue: "UIST"
 date: 2015-11-08
