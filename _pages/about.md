@@ -46,4 +46,4 @@ ISWC: 2017
 
 Other Activities
 ======
-I was student volunteering at **Siggraph Aisa 2016**. I also co-organized the biggest HCI workshop in Taiwan, **[OpenHCI'16](http://www.openhci.com/2016/index.html)**, and founded the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
+I was student volunteering at **Siggraph Aisa 2016**. I also held the biggest HCI workshop in Taiwan, **[OpenHCI'16](http://www.openhci.com/2016/index.html) and [OpenHCI'15](http://www.openhci.com/2015/index.html)**. After that, I founded the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
