@@ -1,7 +1,7 @@
 ---
 title: "EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display"
 excerpt: "We used 2x2 vibrotactile array to display EdgeWrite-based alphanumeric patterns on the wrist-worn tactile display to deliver rich and easy-to-learn information.<br/><img src='/images/edgevib_hand2.png'>
-------"
+<br>"
 collection: portfolio
 ---
 
