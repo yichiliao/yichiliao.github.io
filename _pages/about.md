@@ -15,6 +15,14 @@ I am a HCI research assistant at CMLab, National Taiwan University with [Prof. B
 Selected Projects
 ======
 
+
+**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
+<img src="/images/edgevib.png" width="200" height="200"> <br>
+<small>In Proc. UIST'16, 6-page paper. <br>
+[Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
+
+------
+
 **ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.**<br> 
 
 <img src="/images/thirdhand.png" width="200" height="200"> <br>
@@ -23,12 +31,6 @@ Selected Projects
 
 ------
 
-**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
-<img src="/images/edgevib.png" width="200" height="200"> <br>
-<small>In Proc. UIST'16, 6-page paper. <br>
-[Project Description], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
-
-------
 
 
 Paper Review
