@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<br>
 #EdgeVib#
 Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display**<br>
 <small>**Yi-Chi Liao**, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen <br>
