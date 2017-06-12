@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Haptics @ NCTU"
+title: "Invited Talk: Introduction to Haptics @ NCTU"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-05-24-Intro-to-Haptics
@@ -8,4 +8,6 @@ date: 2017-05-24
 location: "Hsinchu City, Taiwan"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Invited by Prof. Liwei Chan, I was glad to talk about basic haptics at Future Interface Design of National Chiao-Tung University for two hours.
+
+<img src='/images/intro_to_haptics_1.jpg'>
