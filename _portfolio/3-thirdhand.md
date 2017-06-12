@@ -11,9 +11,9 @@ collection: portfolio
 
 <small>
 **Publication:** <br> 
-Siggraph Asia 2015 Emerging Technology** <br>
-[[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)] , [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]
-
+Siggraph Asia 2015 Emerging Technology<br>
+[[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)] , [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
+<small>
 **Recommended Citation:** <br>
 Pedro Lopes and Patrick Baudisch. (2017). &quot;EMS-Based Actuation and Mechanical Actuation: two sides of the same coin?&quot; <i>CHI 2017 workshop</i>.
 </small>
