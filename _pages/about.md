@@ -15,7 +15,7 @@ I am a research assistant at CMLab, National Taiwan University and doing HCI res
 Selected Projects
 ======
 
-
+<br>
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 <small>In Proc. UIST'16, 6-page paper. <br>
