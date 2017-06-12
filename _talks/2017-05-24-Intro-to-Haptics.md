@@ -8,9 +8,9 @@ date: 2017-05-24
 location: "Hsinchu City, Taiwan"
 ---
 
-Invited by Prof. Liwei Chan, I was glad to share some basic knowledge about haptics at the Future Interface Design course of National Chiao-Tung University.
-
 <img src='/images/intro_to_haptics_1.jpg'>
+
+Invited by Prof. Liwei Chan, I was glad to share some basic knowledge about haptics at the Future Interface Design course of National Chiao-Tung University.
 
 There five parts compose of the whole 2-hr talk; including: human haptics, social / emotional touch, haptic illusions, haptic UI and trend of haptic technology.
 
