@@ -1,7 +1,7 @@
 ---
-title: "EdgeVib"
+title: "EdgeVib: Effective...."
 collection: publications
-permalink: /publication/2016-11-01-edgevib
+permalink: /publication/edgevib-uist16
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
