@@ -14,5 +14,3 @@ collection: portfolio
 **Publication:** <br> 
 UIST 2016 6-page Paper<br>
 [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)] , [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)] , [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)] , [[Slide](https://goo.gl/mpHQ70)]</small>
-<br>
-<small>[Chinese CHI 2016](http://chchi2016.icachi.org/) Poster</small>
