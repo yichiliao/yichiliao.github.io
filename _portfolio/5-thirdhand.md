@@ -1,6 +1,6 @@
 ---
 title: "ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback"
-excerpt: "This work presents a wearable robotic arm which provide 5-DOF force feedback to enrich gaming experiences.<br/><img src='/images/thirdhand_hand.png'>"
+excerpt: "This work presents a wearable robotic arm which provide 5-DOF force feedback to enrich gaming experiences.<br/><img src='/images/thirdhand_hand.png'><br><br>"
 collection: portfolio
 ---
 
