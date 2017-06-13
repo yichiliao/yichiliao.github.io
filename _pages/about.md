@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). 
 
-During my masters, I was primarily focusing on exploring the blend of the humans and computers through haptic sense. My ultimate goal is to eliminate the boundaries of human body and machine, and design fluid interface for future technology. Previous projects including [wearable force-feedback devices](https://yichiliao.github.io/portfolio/5-thirdhand/), [EMS-based music interface](https://yichiliao.github.io/portfolio/4-emsairguitar/), [alphanumeric tactile displays](https://yichiliao.github.io/portfolio/3-edgevib/) and **augmenting touch with haptic feedback**.
+During my masters, I was primarily focusing on exploring the blend of the humans and computers through haptic sense. Previous projects including [wearable force-feedback devices](https://yichiliao.github.io/portfolio/5-thirdhand/), [EMS-based music interface](https://yichiliao.github.io/portfolio/4-emsairguitar/), [alphanumeric tactile displays](https://yichiliao.github.io/portfolio/3-edgevib/) and **augmenting touch with haptic feedback**. My ultimate goal is to eliminate the boundaries of human body and machine, and design fluid interface for future technology. 
 
 ------
 
