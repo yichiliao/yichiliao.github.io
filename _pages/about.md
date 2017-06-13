@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "We're here to go."
-excerpt: "We're here to go"
+title: "Haptical Human-Computer Integration"
+excerpt: "Haptical Human-Computer Integration"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 <br>
-Hello, I am Yi-Chi Liao, a HCI research assistant at CMLab, National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). I've done projects including **force-feedback device**, **tactile display** and **haptic-augmented touch** during my MBA education. Currently, I am looking for new ideas combining human and robotics smoothly through haptic channel and also seeking research topics about brain user interface. 
+Hello, I am **Yi-Chi Liao**, a research assistant at National Taiwan University doing HCI projects with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). During master's education, I focused on exploring **haptical human-computer integration**, including ** wearable force-feedback devices**, **expressive tactile displays** and **augmenting touch with haptics**. Recently, my interests have turned to human-robot integration and brain user interface.
 
 ------
 
@@ -47,6 +47,6 @@ ISWC: 2017
 Other Activities
 ======
 
-From February 2016 to June 2016, I was a teaching assistant of **Introduction to HCI**, which was lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) in National Taiwan University.
+During my master's years, I've been a teaching assistant of **Introduction to HCI** (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and **Computer Architecture** (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
 
 I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. Recently, I founded the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
