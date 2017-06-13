@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-Hello, I am **Yi-Chi Liao**, a research assistant at National Taiwan University doing HCI projects with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). During my master's education, I focused on exploring **haptical human-computer integration**, including **wearable force-feedback devices**, **expressive tactile displays** and **augmenting touch with haptics**. Recently, my interests have turned to human-robot integration and brain user interface.
+Hello, I am Yi-Chi Liao, a research assistant at National Taiwan University doing HCI projects with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). During my master's education, I focused on exploring **haptical human-computer integration**, including **wearable force-feedback devices**, **expressive tactile displays** and **augmenting touch with haptics**. Recently, my interests have turned to human-robot integration and brain user interface.
 
 ------
 
