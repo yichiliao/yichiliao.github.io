@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University doing HCI projects with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). 
 
-I focused on exploring the blend of the humans and computers through through haptic sense during my master's education. Previous projects including [wearable force-feedback devices](https://yichiliao.github.io/portfolio/5-thirdhand/), [EMS-based music interface](https://yichiliao.github.io/portfolio/4-emsairguitar/), [alphanumeric tactile displays](https://yichiliao.github.io/portfolio/3-edgevib/) and augmenting touch with haptics. Recently, I've turned my interests to human-robot integration and brain user interface.
+I focused on exploring the blend of the humans and computers through  haptic sense during my master's education. Previous projects including [wearable force-feedback devices](https://yichiliao.github.io/portfolio/5-thirdhand/), [EMS-based music interface](https://yichiliao.github.io/portfolio/4-emsairguitar/), [alphanumeric tactile displays](https://yichiliao.github.io/portfolio/3-edgevib/) and **augmenting touch with haptic feedback**.
 
 ------
 
