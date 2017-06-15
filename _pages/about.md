@@ -21,7 +21,7 @@ Selected Publications
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 <small>In Proc. UIST'16, 6-page paper. <br>
-[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
+[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)] , [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
 
 ------
 
@@ -29,7 +29,7 @@ Selected Publications
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
 <small>In Proc. Siggraph Asia'15 Emerging Technology.<br>
-[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [Video]. </small>
+[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)] , [Video]. </small>
 
 ------
 
