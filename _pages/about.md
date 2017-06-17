@@ -24,6 +24,10 @@ Selected Publications
 This work aimed at tackling an important problem in the development of tactile displays: "how to deliver expressive messages while remaining the recognition rates on the wrist-worn form?" We presents EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to Graffiti ones (15min), while the recognition rates achived 85.9% and 88.6% for alphabet and digits respectively.
 </small>
 
+<small>
+I am the leading author of this project, contributing on the main idea, hardware prototyping, study interface implementation, paper writing and organizing the research team.
+</small>
+
 <small>In Proc. UIST'16, 6-page paper // 
 [[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
 
