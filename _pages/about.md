@@ -19,15 +19,18 @@ Selected Publications
 <br>
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
-<small>In Proc. UIST'16, 6-page paper.
+<small>In Proc. UIST'16, 6-page paper // 
 [[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
+
+<small>
+In this work
 
 ------
 
 **ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.**<br> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
-<small>In Proc. Siggraph Asia'15 Emerging Technology.
+<small>In Proc. Siggraph Asia'15 Emerging Technology // 
 [[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=--0zCqyv7tE)]. </small>
 
 ------
