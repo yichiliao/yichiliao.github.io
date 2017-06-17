@@ -47,9 +47,9 @@ ISWC: 2017
 
 ------
 
-Other Activities
+Other Professional Activities
 ======
 
 During 2014 to 2016, I've been a teaching assistant of **Introduction to HCI** (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and **Computer Architecture** (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
 
-I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. Recently, I founded the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
+I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. Recently, I founded and organized the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
