@@ -19,12 +19,13 @@ Selected Publications
 <br>
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
-<small>In Proc. UIST'16, 6-page paper // 
-[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
 
 <small>
 This work aimed at tackling an important problem in the development of tactile displays: "how to deliver expressive messages while remaining the recognition rates on the wrist-worn form?" We presents EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to Graffiti ones (15min), while the recognition rates achived 85.9% and 88.6% for alphabet and digits respectively.
 </small>
+
+<small>In Proc. UIST'16, 6-page paper // 
+[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
 
 ------
 
