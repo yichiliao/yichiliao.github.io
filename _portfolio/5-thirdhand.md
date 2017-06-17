@@ -11,7 +11,7 @@ collection: portfolio
 
 <small>
 **Publication:** <br> 
-Siggraph Asia 2015, Emerging Technology // [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)] , [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
+Siggraph Asia 2015, Emerging Technology // [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
 <br><br>
 <small>
 **Recommended Citation:** <br>
