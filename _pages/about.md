@@ -28,7 +28,7 @@ Selected Publications
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
 <small>In Proc. Siggraph Asia'15 Emerging Technology.
-[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video(https://www.youtube.com/watch?v=--0zCqyv7tE)]]. </small>
+[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=--0zCqyv7tE)]. </small>
 
 ------
 
