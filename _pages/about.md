@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 <br>
-<small>
+<font size="12">
 Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I explored the blend of humans and computers using haptic channel. Inspired by [Andy Clark's extended mind](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment humanity and fuse the boundaries between physical body and digital computing by creating seamless interfaces. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. 
-</small>
+</font>
 
-<small>
+<font size="15">
 My creations include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, and **haptic-augmented touch input**. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
-</small>
+</font>
 
 ------
 
@@ -26,7 +26,7 @@ Selected Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 <small>
-"How to transfer rich spatial-temporal tactile messages while retaining the recognition rates?" has been an important issue in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, stats analysis, paper writing and organizing the research team.
+"How to transfer rich spatialtemporal tactile messages while retaining the recognition rates?" has been an important research problem in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, stats analysis, paper writing and organizing the research team.
 </small>
 
 <small>In Proc. UIST'16, 6-page paper // 
