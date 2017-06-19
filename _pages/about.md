@@ -10,7 +10,9 @@ redirect_from:
 <br>
 <small>
 Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I explored the blend of humans and computers through haptic channel. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. My ultimate goal is to elimitate the boundary of human body and machines and create seamless interface for future technology.
+</small>
 
+<small>
 My creations include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, and **haptic-augmented touch input**. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 </small>
 
