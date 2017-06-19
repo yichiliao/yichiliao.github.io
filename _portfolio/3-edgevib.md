@@ -18,11 +18,9 @@ collection: portfolio
 
 <img src='/images/edgevib_division_example.png'>
 
-<small>The results of a 24-participant user study reveal that the recognition rates of the modified multistroke patterns were significantly higher than the original unistroke ones in both alphabet (85.9% vs. 70.7%) and digits (88.6% vs. 78.5%) delivery, and a further study indicated that the techniques can be generalized to deliver two-character compound messages with recognition rates higher than 83.3%. The guidelines derived from our study can be used for designing watch-back tactile displays for alphanumeric character output.</small>
+<small>The results of a 24-participant user study reveal that the recognition rates of the modified multistroke patterns were significantly higher than the original unistroke ones in both alphabet (85.9% vs. 70.7%) and digits (88.6% vs. 78.5%) delivery (results shown in below Fig), and a further study indicated that the techniques can be generalized to deliver two-character compound messages with recognition rates higher than 83.3%. The guidelines derived from our study can be used for designing watch-back tactile displays for alphanumeric character output.</small>
 
-<img src='/images/edgevib_evaluation.png'>
-<small>**Results of evaluation: (a) Alphabet letters. (b) Digits.**</small> 
-
+<img src='/images/edgevib_evaluation.png'> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
