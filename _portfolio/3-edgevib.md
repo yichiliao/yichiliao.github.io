@@ -12,7 +12,7 @@ collection: portfolio
 
 <small>This paper presents EdgeVib, a system of spatiotemporal vibration patterns for delivering alphanumeric characters on wrist-worn vibrotactile displays. </small>
 
-<img src='/images/edgevib_patterns.png'>
+<img src='/images/edgevib_patterns2.png'>
 <img src='/images/edgevib_hand2.png'>
 
 <small>We first investigated spatiotemporal pattern delivery through a watch-back tactile display by performing a series of user studies. The results reveal that employing a 2×2 vibrotactile array (below Fig b) is more effective than employing a 3×3 one (below Fig a), because the lower-resolution array creates clearer tactile sensations in less time consumption. </small>
