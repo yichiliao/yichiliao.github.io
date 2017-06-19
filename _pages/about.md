@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 
-Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). I work on exploring the blend of humans and computers through haptic channel. My creations include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generating rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - an alphanumeric tactile display, and **haptic-augmented touch input**. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I explored the blend of humans and computers through haptic channel. My creations include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using 2by2 vibrotactile array to transfer alphanumeric characters, and **haptic-augmented touch input**. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 
 ------
 
@@ -21,7 +21,7 @@ Selected Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 <small>
-This work aimed at tackling an important problem in the development of tactile displays: "how to deliver expressive messages while remaining the recognition rates on the wrist-worn form?" We presents EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to Graffiti ones (15min), while the recognition rates achived 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, paper writing and organizing the research team.
+"How to transfer rich spatial-temporal tactile messages while retaining the recognition rates?" has been an important issue in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, stats analysis, paper writing and organizing the research team.
 </small>
 
 <small>In Proc. UIST'16, 6-page paper // 
@@ -34,7 +34,7 @@ This work aimed at tackling an important problem in the development of tactile d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
 
 <small>
-ThirdHnad is a wearable robotic arm which provides 5-DOF force feedback to enrich the mobile gaming experience. Comparing to traditional mounted-on-environment force device such as phantom, ThirdHand provides higher mobility. Also, comparing to muscle-propelled and gyro-effect solutions, our approach enables more accurate control. As a leading author, I worked on generating the idea, hardware / software prototyping and paper writing.
+ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the mobile gaming experience. Comparing to traditional mounted-on-environment force-feedback devices such as phantom, ThirdHand provides higher mobility due to its wearable form. Also, comparing to the muscle-propelled and gyro-effect solutions, our approach enables more accurate control with stronger forces. As a leading author, I generated the idea, hardware / software prototyping and paper writing.
 </small>
 
 <small>In Proc. Siggraph Asia'15 Emerging Technology // 

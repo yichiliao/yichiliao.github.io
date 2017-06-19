@@ -13,7 +13,7 @@ In Proc. UIST 2016, page 595 - 601. </small><br>
 <br>
 
 <small>**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
-Yi-Chi Liao, Shun-Yao YangRong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
+Yi-Chi Liao, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
 In Proc. Siggraph Asia 2015 Emerging Technology, page 1. </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
 
