@@ -5,17 +5,16 @@ excerpt: "We used 2x2 vibrotactile array to display EdgeWrite-based alphanumeric
 collection: portfolio
 ---
 
-<img src='/images/edgevib_patterns.png'>
-
 <small>This paper presents EdgeVib, a system of spatiotemporal vibration patterns for delivering alphanumeric characters on wrist-worn vibrotactile displays. </small>
 
+<img src='/images/edgevib_patterns.png'>
 <img src='/images/edgevib_hand2.png'>
 
-<small>We first investigated spatiotemporal pattern delivery through a watch-back tactile display by performing a series of user studies. The results reveal that employing a 2×2 vibrotactile array (below Fig (b)) is more effective than employing a 3×3 one (below Fig (a)), because the lower-resolution array creates clearer tactile sensations in less time consumption. </small>
+<small>We first investigated spatiotemporal pattern delivery through a watch-back tactile display by performing a series of user studies. The results reveal that employing a 2×2 vibrotactile array (below Fig b) is more effective than employing a 3×3 one (below Fig a), because the lower-resolution array creates clearer tactile sensations in less time consumption. </small>
 
 <img src='/images/edgevib_prototype.png'>
 
-<small>We then deployed EdgeWrite patterns on a 2×2 vibrotactile array to determine any difficulties of delivering alphanumerical characters, and then modified the unistroke patterns into multistroke EdgeVib ones on the basis of the findings (as shown in below Fig (a), (b)). <small>
+<small>We then deployed EdgeWrite patterns on a 2×2 vibrotactile array to determine any difficulties of delivering alphanumerical characters, and then modified the unistroke patterns into multistroke EdgeVib ones on the basis of the findings (as shown in below Fig a & b). <small>
 
 <img src='/images/edgevib_division_example.png'>
 
