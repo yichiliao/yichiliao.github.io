@@ -22,9 +22,9 @@ collection: portfolio
 
 <img src='/images/edgevib_evaluation.png'> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
+<small>For more information, please have a look at our [paper](http://yichiliao.github.io/files/edgevib_uist16.pdf).</small>
 
-For more information, please have a look at our [paper](http://yichiliao.github.io/files/edgevib_uist16.pdf).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 <small>
 **Publication:** <br> 
