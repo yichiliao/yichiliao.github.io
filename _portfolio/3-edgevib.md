@@ -24,6 +24,8 @@ collection: portfolio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
+For more information, please have a look at our [paper](http://yichiliao.github.io/files/edgevib_uist16.pdf).
+
 <small>
 **Publication:** <br> 
 UIST 2016, 6-page Paper // [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)], [[Slide](https://goo.gl/mpHQ70)]</small>
