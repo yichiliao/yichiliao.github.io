@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I explored the blend of humans and computers through haptic channel. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. My ultimate goal is to elimitate the boundary of human body and machines and create seamless interface for future technology.
+Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I explored the blend of humans and computers using haptic channel. Inspired by [Andy Clark's extended mind](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment humanity and fuse the boundaries between physical body and digital computing by creating seamless interfaces. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. 
 </small>
 
 <small>
@@ -52,17 +52,23 @@ ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the 
 Paper Review
 ======
 
+<small>
 CHI: 2016, 2017<br>
 MobileHCI: 2017 <br>
 TEI: 2017<br>
 Augmented Human: 2016<br>
 ISWC: 2017
+</small>
 
 ------
 
 Other Professional Activities
 ======
 
+<small>
 During 2014 to 2016, I've been a teaching assistant of **Introduction to HCI** (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and **Computer Architecture** (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
+</small>
 
+<small>
 I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. Recently, I founded and organized the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
+</small>
