@@ -5,7 +5,7 @@ excerpt: "We used 2x2 vibrotactile array to display EdgeWrite-based alphanumeric
 collection: portfolio
 ---
 
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 <small>This paper presents EdgeVib, a system of spatiotemporal vibration patterns for delivering alphanumeric characters on wrist-worn vibrotactile displays. </small>
