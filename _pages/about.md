@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I explored the blend of humans and computers through novel haptic UI. Inspired by [Andy Clark's extended mind](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment humanity and fuse the boundaries between physical body and digital computing by designing seamless interfaces. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. 
+Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I created a series of novel haptic UI to explore the blend of humans and computers. Inspired by [*Andy Clark's Extended Mind*](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. 
 </small>
 
 <small>
