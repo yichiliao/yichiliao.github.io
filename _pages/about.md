@@ -22,7 +22,23 @@ Selected Publications
 ======
 
 <br>
+**Dwell++: Haptic-augmented Multi-level Touch Based on Dwell Time** <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
+
+<small>
+"Transferring rich spatialtemporal tactile messages while retaining the recognition rates" has been a major challenge in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to learning Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, stats analysis, paper writing and organizing the research team.
+</small>
+
+<small>In Proc. UIST'16, 6-page paper // 
+[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
+
+------
+
+<br>
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** <br>
+
+Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 <small>
