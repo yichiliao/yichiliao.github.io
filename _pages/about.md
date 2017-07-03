@@ -50,7 +50,9 @@ Selected Publications
 
 ------
 
-**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.**<br> 
+**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.** *[Siggrapn Asia'15 Emerging Technology]<br> 
+
+<small>Yi-Chi Liao, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
 
