@@ -36,7 +36,7 @@ Selected Publications
 
 **ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.**<br> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/--0zCqyv7tE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
 
 <small>
 ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the mobile gaming experience. Comparing to traditional mounted-on-environment force-feedback devices such as phantom, ThirdHand provides higher mobility due to its wearable form. Also, comparing to the muscle-propelled and gyro-effect solutions, our approach enables more accurate control with stronger forces. As a leading author, I generated the idea, hardware / software prototyping and paper writing.
