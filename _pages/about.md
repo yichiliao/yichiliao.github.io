@@ -35,7 +35,7 @@ Selected Publications
 ------
 
 <br>
-**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *UIST'16 6-page Paper*<br>
+**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *In Proc. UIST'16 6-page Paper*<br>
 
 <small>Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen</small>
 
