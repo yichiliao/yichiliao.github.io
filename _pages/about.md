@@ -61,7 +61,7 @@ ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the 
 </small>
 
 <small>In Proc. Siggraph Asia'15 Emerging Technology // 
-[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=--0zCqyv7tE)]. </small>
+[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=sVRI0L7xu7E)]. </small>
 
 ------
 
