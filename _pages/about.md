@@ -18,7 +18,7 @@ My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5
 
 ------
 
-Publications
+Selected Publications
 ======
 
 <br>
@@ -30,6 +30,19 @@ This paper presents Dwell++, a method that boosts the effectiveness of typical d
 </small>
 
 <small>Coming soon in Proc. UIST'17, 10-page paper // 
+[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)]
+</small>
+
+------
+
+<br>
+**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>
+
+<small>
+We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. I am the second author of this paper, where I contributed partial of the idea, designed part of the usability tests and wrote parts of the paper.
+</small>
+
+<small>Coming soon in Proc. UIST'17, 9-page paper // 
 [[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)]
 </small>
 
