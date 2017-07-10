@@ -1,6 +1,6 @@
 ---
 title: "Dwell++: Haptic-augmented Multi-level Touch"
-excerpt: "Dwell++ boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks.<br/><img src='/images/dwell_teaser.png'><br><br>"
+excerpt: "Dwell++ boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks.<br/><img src='/images/dwellplusplus.png'><br><br>"
 collection: portfolio
 ---
 
