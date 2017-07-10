@@ -13,4 +13,4 @@ collection: portfolio
 <small>
 **Publication:** <br> 
 Coming soon in Proc. UIST'17.
-<br><small>Yi-Chi Liao, Yen-Chiu Chen, Liwei Chan, Bing-Yu Chen</small>
+<br>Yi-Chi Liao, Yen-Chiu Chen, Liwei Chan, Bing-Yu Chen</small>
