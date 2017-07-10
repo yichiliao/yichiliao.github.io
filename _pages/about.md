@@ -9,28 +9,29 @@ redirect_from:
 ---
 <br>
 <small>
-Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I created a series of novel haptic UI to explore the blend of humans and computers. Inspired by [*Andy Clark's Extended Mind*](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. As a HCI researcher, I am familiar with user study design, stats analysis, hardware / software prototyping and fabrication. 
+Hello, my name is Yi-Chi Liao, I'm a research assistant at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I created a series of novel haptic UI to explore the blend of humans and computers. Inspired by [*Andy Clark's Extended Mind*](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. As a HCI researcher, I am familiar with mining insightful design guidelines from user studies, hardware / software prototyping and fabrication. 
 </small>
 
 <small>
-My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, and **haptic-augmented touch input**. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell++]() - augmenting traditional long-press through short haptic ticks, and [Outside-In]() - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 </small>
 
 ------
 
-Selected Publications
+Publications
 ======
 
 <br>
-**Dwell++: Haptic-augmented Multi-level Touch Based on Dwell Time** <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
+**Dwell++: Haptic-augmented Multi-level Touch** <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NM0EhJR3PXE" frameborder="0" allowfullscreen></iframe>
 
 <small>
-"Transferring rich spatialtemporal tactile messages while retaining the recognition rates" has been a major challenge in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to learning Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, stats analysis, paper writing and organizing the research team.
+This paper presents Dwell++, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell++ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrated interfaces. As a leading author of this project, I came up with the main idea, designed the empirical research process, generating the demonstrating applications, implementing partial of the software interfaces and writing the paper. 
 </small>
 
-<small>In Proc. UIST'16, 6-page paper // 
-[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
+<small>Coming soon in Proc. UIST'17, 10-page paper // 
+[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)]
+</small>
 
 ------
 
