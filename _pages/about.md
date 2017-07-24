@@ -23,14 +23,14 @@ Selected Publications
 
 <br>
 **Dwell++: Haptic-augmented Multi-level Touch** <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLu4mO7NKXA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mi2wE9aVeHs" frameborder="0" allowfullscreen></iframe>
 
 <small>
 This paper presents Dwell++, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell++ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrated interfaces. As a leading author of this project, I came up with the main idea, designed the empirical research process, generating the demonstrating applications, implementing partial of the software interfaces and writing the paper. 
 </small>
 
 <small>Coming soon in Proc. UIST'17, 10-page paper // 
-[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)]
+[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplusplus/)]
 </small>
 
 ------
