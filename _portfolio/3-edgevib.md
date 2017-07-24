@@ -10,7 +10,7 @@ collection: portfolio
 
 ------
 
-<small>This paper presents Dwell++, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation.</small>
+<small>This paper presents EdgeVib, a system of spatiotemporal vibration patterns for delivering alphanumeric characters on a 2x2 wrist-worn vibrotactile displays.</small>
 
 <img src='/images/edgevib_patterns2.png'>
 <img src='/images/edgevib_hand2.png'>
