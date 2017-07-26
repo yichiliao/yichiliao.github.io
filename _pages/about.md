@@ -90,7 +90,7 @@ CHI: 2016, 2017<br>
 MobileHCI: 2017 <br>
 TEI: 2017<br>
 Augmented Human: 2016<br>
-ISWC: 2017
+UbiComp/ISWC: 2017
 </small>
 
 ------
