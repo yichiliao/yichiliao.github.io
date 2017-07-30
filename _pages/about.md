@@ -13,7 +13,7 @@ Hello, my name is Yi-Chi Liao, I'm a master student at National Taiwan Universit
 </small>
 
 <small>
-My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell++]() - augmenting traditional long-press through short haptic ticks, and [Outside-In]() - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+]() - augmenting traditional long-press through short haptic ticks, and [Outside-In]() - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 </small>
 
 ------
@@ -22,11 +22,11 @@ Selected Publications
 ======
 
 <br>
-**Dwell++: Haptic-augmented Multi-level Touch** <br>
+**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mi2wE9aVeHs" frameborder="0" allowfullscreen></iframe>
 
 <small>
-This paper presents Dwell++, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell++ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrated interfaces. As a leading author of this project, I came up with the main idea, designed the empirical research process, generating the demonstrating applications, implementing partial of the software interfaces and writing the paper. 
+This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell++ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrated interfaces. As a leading author of this project, I came up with the main idea, designed the empirical research process, generating the demonstrating applications, implementing partial of the software interfaces and writing the paper. 
 </small>
 
 <small>Coming soon in Proc. UIST'17, 10-page paper // 
