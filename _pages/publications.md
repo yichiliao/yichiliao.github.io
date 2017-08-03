@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<small>**Dwell++**<br>
-Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen <br>
-In Proc. UIST 2016, page 595 - 601. </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)], [[Slide](https://goo.gl/mpHQ70)]</small>
+<small>**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues**<br>
+Yi-Chi Liao, Yen-Chiu Chen,Liwei Chan, Bing-Yu Chen <br>
+In Proc. UIST 2017. </small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper]()], [[video]()]</small>
 
 <br>
-<small>**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display**<br>
-Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen <br>
-In Proc. UIST 2016, page 595 - 601. </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)], [[Slide](https://goo.gl/mpHQ70)]</small>
+<small>**Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a360 Video Using Spatial Picture-in-Picture Previews**<br>
+Yung-Ta Lin, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen <br>
+In Proc. UIST 2017. </small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/4-outsidein/)], [[Paper]()], [[video]()], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)]</small>
 
 
 <br>

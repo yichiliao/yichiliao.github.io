@@ -9,7 +9,7 @@ collection: portfolio
 
 ------
 
-<small>Dwell, a well-known mode-switching method, is generally considered inefficient due to a requiring long dwelling time in order to avoid unintended input and also limited single mode it allows. This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. This way, Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted.
+<small>Dwell, a well-known mode-switching method, is generally considered inefficient due to a requiring long dwelling time in order to avoid unintended input and also limited single mode it allows. This paper presents Dwell+ˋ, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. This way, Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted.
 </small>
 
 <img src='/images/dwellplusplus.png'>

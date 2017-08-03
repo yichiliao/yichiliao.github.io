@@ -9,11 +9,11 @@ redirect_from:
 ---
 <br>
 <small>
-Hello, my name is Yi-Chi Liao, I'm a master student at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I created a series of novel haptic UI to explore the blend of humans and computers. Inspired by [*Andy Clark's Extended Mind*](https://en.wikipedia.org/wiki/The_Extended_Mind), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. As a HCI researcher, I am familiar with mining insightful design guidelines from user studies, hardware / software prototyping and fabrication. 
+Hello, my name is Yi-Chi Liao, I'm a master student at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I created a series of novel haptic UI to explore the blend of humans and computers. Inspired by [*Stelarc's Third Hand*](http://stelarc.org/?catID=20265), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. As a HCI researcher, I am familiar with mining design guidelines from user studies, hardware, software prototyping and fabrication. 
 </small>
 
 <small>
-My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+]() - augmenting traditional long-press through short haptic ticks, and [Outside-In]() - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional long-press through short haptic ticks, and [Outside-In]() - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 </small>
 
 ------
@@ -30,7 +30,7 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 </small>
 
 <small>Coming soon in Proc. UIST'17, 10-page paper // 
-[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplusplus/)]
+[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)]
 </small>
 
 ------
@@ -40,7 +40,7 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
 
 <small>
-We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. I am the second author of this paper, where I contributed partial of the idea, designed part of the usability tests and wrote parts of the paper.
+We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. As a second author, I contributed the idea, designed the usability tests and wrote the paper.
 </small>
 
 <small>Coming soon in Proc. UIST'17, 10-page paper // 
