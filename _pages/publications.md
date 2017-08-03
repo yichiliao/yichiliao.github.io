@@ -14,7 +14,7 @@ In Proc. UIST 2017. </small><br>
 <small>**Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a360 Video Using Spatial Picture-in-Picture Previews**<br>
 Yung-Ta Lin, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen <br>
 In Proc. UIST 2017. </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/4-outsidein/)], [[Paper]()], [[video]()], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)]</small>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/4-outsidein/)], [[Paper]()], [[video]()]</small>
 
 
 <br>
