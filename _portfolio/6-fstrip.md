@@ -1,6 +1,6 @@
 ---
 title: "fStrip: a Malleable Shape-retaining Wearable Strip for Interface On-demand"
-excerpt: "This paper presents fStrip, a wearable device, which enables the use of tangible-and-deformable interface on-demand for mobile tasks.<br/><img src='/images/fStrip.png'>"
+excerpt: "This paper presents fStrip, a wearable device, which enables the use of tangible-and-deformable interface on-demand for mobile tasks.<br/><img src='/images/fstrip/fStrip.png'>"
 collection: portfolio
 ---
 
