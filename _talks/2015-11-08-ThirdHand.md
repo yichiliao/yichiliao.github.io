@@ -8,6 +8,6 @@ date: 2015-11-08
 location: "Kobe, Japan"
 ---
 
-<img src='/images/thirdhand_talk.jpg'>
+<img src='/images/talks/thirdhand_talk.jpg'>
 
 Talking about our Emerging Technology project, Third Hand.

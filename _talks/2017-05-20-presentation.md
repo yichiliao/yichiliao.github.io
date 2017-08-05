@@ -8,7 +8,7 @@ date: 2017-05-20
 location: "Taipei City, Taiwan"
 ---
 
-<img src='/images/presentation.jpg'>
+<img src='/images/talks/presentation.jpg'>
 
 
 My slide [here](https://goo.gl/itw4uv).
