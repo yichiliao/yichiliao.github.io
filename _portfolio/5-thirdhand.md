@@ -14,7 +14,7 @@ This paper explores the concept of ThirdHand, as a means to inject external forc
 <img src='/images/thirdhand/floatphone-touch.png'>
 <br>
 <img src='/images/thirdhand/in-air-gesture.png'>
-
+<br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
 
