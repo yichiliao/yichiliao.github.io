@@ -16,8 +16,8 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 </small>
 <img src='/images/outside-in/triangle.png'>
 <img src='/images/outside-in/dirAngle.png'>
-
+<img src='/images/outside-in/application.png'>
 <small>
 **Publication:** <br> 
 Coming soon in Proc. UIST'17.
-<br>Yi-Chi Liao, Yen-Chiu Chen, Liwei Chan, Bing-Yu Chen</small>
+<br>Yung-Ta Lin, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen</small>
