@@ -13,7 +13,7 @@ Hello, my name is Yi-Chi Liao, I'm a master student at National Taiwan Universit
 </small>
 
 <small>
-My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional long-press through short haptic ticks, and [Outside-In]() - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, and [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 </small>
 
 ------
