@@ -1,6 +1,6 @@
 ---
-title: "ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback"
-excerpt: "This work presents a wearable robotic arm which provide 5-DOF force feedback to enrich gaming experiences.<br/><img src='/images/thirdhand/teaser-1.png'><br><br>"
+title: "ThirdHand: Giving a Hand to Mobile Devices with a Robotic Arm"
+excerpt: "This paper explores the concept of ThirdHand, as a means to inject external force to mobile devices by establishing a physical connection with the devices through a robot arm adding to users’ wrist.<br/><img src='/images/thirdhand/teaser-1.png'><br><br>"
 collection: portfolio
 ---
 
@@ -9,9 +9,9 @@ collection: portfolio
 <small>
 This paper explores the concept of ThirdHand, as a means to inject external force to mobile devices by establishing a physical connection with the devices through a robot arm adding to users’ wrist. With the supporting force, ThirdHand opens up new opportunities for novel single-handed and haptic force interactions on mobile devices. Instead of using their own hands, users can now grip and interact with a mobile device with the help of the robot arm, allowing to reach for far buttons, and perform back-of-device touch and in-air gestural interactions with mobile devices single-handedly.</small>
 
-<img src='/images/thirdhand/prototype-one-mechanism.pdf'>
-<img src='/images/thirdhand/floatphone-touch.pdf'>
-<img src='/images/thirdhand/in-air-gesture.pdf'>
+<img src='/images/thirdhand/prototype-one-mechanism.png'>
+<img src='/images/thirdhand/floatphone-touch.png'>
+<img src='/images/thirdhand/in-air-gesture.png'>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
 
