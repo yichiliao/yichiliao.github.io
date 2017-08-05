@@ -10,8 +10,11 @@ collection: portfolio
 This paper explores the concept of ThirdHand, as a means to inject external force to mobile devices by establishing a physical connection with the devices through a robot arm adding to users’ wrist. With the supporting force, ThirdHand opens up new opportunities for novel single-handed and haptic force interactions on mobile devices. Instead of using their own hands, users can now grip and interact with a mobile device with the help of the robot arm, allowing to reach for far buttons, and perform back-of-device touch and in-air gestural interactions with mobile devices single-handedly.</small>
 
 <img src='/images/thirdhand/prototype-one-mechanism.png'>
+
 <img src='/images/thirdhand/floatphone-touch.png'>
+
 <img src='/images/thirdhand/in-air-gesture.png'>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
 
