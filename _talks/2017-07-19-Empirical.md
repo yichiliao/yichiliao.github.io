@@ -8,11 +8,11 @@ date: 2017-07-19
 location: "Taipei City, Taiwan"
 ---
 
-<img src='/images/talks/empirical1.jpg'>
-<img src='/images/talks/empirical2.jpg'>
-<img src='/images/talks/empirical3.jpg'>
-<img src='/images/talks/empirical4.jpg'>
-<img src='/images/talks/empirical5.jpg'>
-<img src='/images/talks/empirical6.jpg'>
+<img src='/images/talks/empirical1.png'>
+<img src='/images/talks/empirical2.png'>
+<img src='/images/talks/empirical3.png'>
+<img src='/images/talks/empirical4.png'>
+<img src='/images/talks/empirical5.png'>
+<img src='/images/talks/empirical6.png'>
 
 My slide [here]().
