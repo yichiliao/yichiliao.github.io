@@ -9,10 +9,15 @@ location: "Taipei City, Taiwan"
 ---
 
 <img src='/images/talks/empirical1.png'>
+<br>
 <img src='/images/talks/empirical2.png'>
+<br>
 <img src='/images/talks/empirical3.png'>
+<br>
 <img src='/images/talks/empirical4.png'>
+<br>
 <img src='/images/talks/empirical5.png'>
+<br>
 <img src='/images/talks/empirical6.png'>
 
 My slide [here]().
