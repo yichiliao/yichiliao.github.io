@@ -9,7 +9,8 @@ location: "Taipei City, Taiwan"
 ---
 
 <img src='/images/talks/empirical1.png'>
-<br><br>
+
+
 <img src='/images/talks/empirical2.png'>
 <br><br>
 <img src='/images/talks/empirical3.png'>
