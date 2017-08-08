@@ -22,29 +22,29 @@ Selected Publications
 ======
 
 <br>
-**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** <br>
+**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** *[UIST'17 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E90wT4RwuSk" frameborder="0" allowfullscreen></iframe>
 
 <small>
 This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell+ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell+ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrating interfaces. As a leading author of this project, I came up with the main idea, designed the empirical research process, generating the demonstrating applications, implementing partial of the software interfaces and writing the paper. 
 </small>
 
-<small>Coming soon in Proc. UIST'17, 10-page paper // 
-[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)]
+<small>In Proc. UIST'17, 10-page paper // 
+[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[Video](https://youtu.be/E90wT4RwuSk)]. </small>
 </small>
 
 ------
 
 <br>
-**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>
+**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** *[UIST'17 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
 
 <small>
 We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. As a second author, I contributed the idea, designed the usability tests and wrote the paper.
 </small>
 
-<small>Coming soon in Proc. UIST'17, 10-page paper // 
-[[Project Page]()]
+<small>In Proc. UIST'17, 10-page paper // 
+[[Project Page](https://yichiliao.github.io/portfolio/2-outsidein/)], [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[Video](https://www.youtube.com/watch?v=XyN1TRUhelw)].
 </small>
 
 ------
