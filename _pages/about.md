@@ -22,7 +22,7 @@ Selected Publications
 ======
 
 <br>
-**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** *[UIST'17 10-page Paper]*<br>
+**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** *[UIST'17, 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E90wT4RwuSk" frameborder="0" allowfullscreen></iframe>
 
 <small>
@@ -35,7 +35,7 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 ------
 
 <br>
-**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>*[UIST'17 10-page Paper]*<br>
+**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>*[UIST'17, 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
 
 <small>
@@ -49,7 +49,7 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 ------
 
 <br>
-**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *[UIST'16 6-page Paper]*<br>
+**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *[UIST'16, 6-page Paper]*<br>
 
 <small>Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen</small>
 
