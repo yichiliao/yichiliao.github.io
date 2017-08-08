@@ -31,12 +31,11 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 
 <small>In Proc. UIST'17, 10-page paper // 
 [[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[Video](https://youtu.be/E90wT4RwuSk)]. </small>
-</small>
 
 ------
 
 <br>
-**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** *[UIST'17 10-page Paper]*<br>
+**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>*[UIST'17 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
 
 <small>
