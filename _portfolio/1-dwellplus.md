@@ -31,5 +31,5 @@ The approximate performance of conducting touch and receiving vibration from dif
 
 <small>
 **Publication:** <br> 
-Coming soon in Proc. UIST'17.
+UIST 2017, 10-page Paper // [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://youtu.be/E90wT4RwuSk)] 
 <br>Yi-Chi Liao, Yen-Chiu Chen, Liwei Chan, Bing-Yu Chen</small>
