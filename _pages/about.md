@@ -60,7 +60,7 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 </small>
 
 <small>In Proc. UIST'16, 6-page paper // 
-[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/thirdhand.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
+[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/edgevib_uist16.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
 
 ------
 
