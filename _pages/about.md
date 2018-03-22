@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Haptical Human-Computer Integration"
-excerpt: "Haptical Human-Computer Integration"
+title: "Touch and Be Touched"
+excerpt: "Touch and Be Touched"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
 ---
 <br>
 <small>
-Hello, my name is Yi-Chi Liao, I'm a master student at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/). In my master's education, I created a series of novel haptic UI to explore the blend of humans and computers. Inspired by [*Stelarc's Third Hand*](http://stelarc.org/?catID=20265), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. As a HCI researcher, I am familiar with mining design guidelines from user studies, hardware, software prototyping and fabrication. 
+Hello, my name is Yi-Chi Liao. I'm a new Ph.D. student in the User Interfaces research group at Aalto University led by Prof. Antti Oulasvirta. I received master degree (M.B.A.) at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/), where I created a series of novel interaction to explore future touch and haptic interfaces. Inspired by [Stelarc's Third Hand](http://stelarc.org/?catID=20265), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. Based on my previous works, I have experiences with deriving design guidelines from empirical methods & building hardware/software prototypes. 
 </small>
 
 <small>
-My previous projects include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, and [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+My previous creations include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, and [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
 </small>
 
 ------
