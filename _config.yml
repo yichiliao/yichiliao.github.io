@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "[ Yi-Chi Liao ]"
 title_separator          : "-"
 name                     : &name "Yi-Chi Liao"
-description              : &description "New Ph.D. student in User Interfaces at Aalto University."
+description              : &description "Ph.D. student in User Interfaces at Aalto University."
 url                      : https://yichiliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yichiliao/yichiliao.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Yi-Chi Liao"
   avatar           : "profile/yichi4.png"
-  bio              : "New Ph.D. student in User Interfaces at Aalto University."
+  bio              : "Ph.D. student in User Interfaces at Aalto University."
   location         : "Taipei, Taiwan"
   employer         : 
   googlescholar    : 
