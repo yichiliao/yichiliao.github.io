@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hello, my name is Yi-Chi Liao. I'm a new Ph.D. student in the User Interfaces research group at Aalto University led by Prof. Antti Oulasvirta. I received master degree (M.B.A.) at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/), where I created a series of novel interaction to explore future touch and haptic interfaces. Inspired by [Stelarc's Third Hand](http://stelarc.org/?catID=20265), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. Based on my previous works, I have experiences with deriving design guidelines from empirical methods & building hardware/software prototypes. 
+Hello, my name is Yi-Chi Liao. I'm a new Ph.D. student in the User Interfaces research group at Aalto University led by Prof. Antti Oulasvirta. I received master degree (M.B.A.) at National Taiwan University with [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/) and [Prof. Liwei Chan](http://people.cs.nctu.edu.tw/~liweichan/), during which I created novel interactions to explore future touch and haptic interfaces. Inspired by [Stelarc's Third Hand](http://stelarc.org/?catID=20265), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing. Based on my previous works, I have experiences with deriving design guidelines from empirical methods & building hardware/software prototypes. 
 </small>
 
 <small>
