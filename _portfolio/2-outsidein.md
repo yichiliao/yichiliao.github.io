@@ -19,5 +19,5 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 <img src='/images/outside-in/application.png'>
 <small>
 **Publication:** <br> 
-UIST 2017, 10-page Paper // [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[Video](https://www.youtube.com/watch?v=XyN1TRUhelw)]
+UIST 2017, 11-page Paper // [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[Video](https://www.youtube.com/watch?v=XyN1TRUhelw)]
 <br>Yung-Ta Lin, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen</small>
