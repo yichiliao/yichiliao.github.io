@@ -11,7 +11,7 @@ title                    : "[ Yi-Chi Liao ]"
 title_separator          : "-"
 name                     : &name "Yi-Chi Liao"
 description              : &description "Ph.D. student in User Interfaces at Aalto University."
-url                      : https://yichiliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yichiliao.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yichiliao/yichiliao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   location         : "Taipei, Taiwan"
   employer         : 
   googlescholar    : 
-  email            : "yichi@cmlab.csie.ntu.edu.tw"
+  email            : "yi-chi.liao@aalto.fi"
   uri              : 
   bitbucket        :
   codepen          :
