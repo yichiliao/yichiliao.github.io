@@ -10,7 +10,6 @@ Hint #1:\\
 Think about the base case, which means, if you can only use the seesaw once, under what conditions (how many candidates, etc) can you identify the one with different weight.
 
 \\
-
 Hint #2:\\
 The first step should be dividing 12 computer scientists into 3 groups of 4 people.
 
