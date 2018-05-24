@@ -10,8 +10,7 @@ Hint #1:\\
 Think about the base case, which means, if you can only the seesaw once, under what conditions (how many candidates, etc) can you identify the one with different weight.
 
 \\
-\\
 Hint #2:\\
-There are at least 2 ACTUAL solutions, which don't involve using seesaw to beat anyone nor prototyping a digital weight scale, so it shouldn't be that hard. :)
+There are at least 2 ACTUAL solutions, which don't involve beating someone with the seesaw nor prototyping a digital weight scale nor brainstorming with the computer scientists.
 
 ------
