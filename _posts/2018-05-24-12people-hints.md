@@ -11,6 +11,6 @@ Think about the base case, which means, if you can only the seesaw once, under w
 
 
 Hint #2:
-There are at least 2 ACTUAL solutions, which don't involve using seesaw to beat anyone nor prototyping a digital weight scale.
+There are at least 2 ACTUAL solutions, which don't involve using seesaw to beat anyone nor prototyping a digital weight scale, so it shouldn't be that hard. :)
 
 ------
