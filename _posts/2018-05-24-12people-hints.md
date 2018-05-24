@@ -11,6 +11,6 @@ Think about the base case, which means, if you can only the seesaw once, under w
 
 \\
 Hint #2:\\
-There are at least 2 ACTUAL solutions, which don't involve beating someone with the seesaw nor prototyping a digital weight scale nor brainstorming with the computer scientists.
+There are at least 2 ACTUAL solutions, which don't involve beating someone with the seesaw nor prototyping a digital weight scale nor asking the 12 computer scientists to brainstorm with you.
 
 ------
