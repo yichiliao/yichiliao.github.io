@@ -17,4 +17,6 @@ The first step should be dividing 12 computer scientists into 3 groups of 4 peop
 Hint #3:\\
 There are at least 2 ACTUAL solutions, which don't involve beating someone with the seesaw nor prototyping a digital weight scale nor asking the 12 computer scientists to brainstorm with you.
 
+<span style="color:blue">some *blue* text</span>.
+
 ------
