@@ -6,6 +6,8 @@ tags:
   - Puzzle
 ---
 
+Please highlight to check the hints.
+
 Hint #1:\\
 <span style="color:white">There are at least 2 ACTUAL solutions, which don't involve beating someone with the seesaw nor prototyping a digital weight scale nor asking the 12 computer scientists to brainstorm with you.</span>
 
