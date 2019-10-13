@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hi, I'm a Ph.D. student in the [User Interfaces](http://userinterfaces.aalto.fi/) research group at Aalto University led by [Prof. Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's (B.B.A.) and master's degree (M.B.A.) at National Taiwan University. During my master's years, I created novel interactions to explore future touch and haptic interfaces. Inspired by [Stelarc's Third Hand](http://stelarc.org/?catID=20265), my ultimate goal is to augment the sense of humans' own presence and eliminate the boundaries between biological body and digital computing.
+Hi, I'm a Ph.D. student in the [User Interfaces](http://userinterfaces.aalto.fi/) research group at Aalto University led by [Prof. Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's (B.B.A.) and master's degree (M.B.A.) at National Taiwan University. As a believer of modeling, controlling, optimization, and simulation, my research focus is building future computational touch interface by unraveling the mystery of human's hand functions.
 </small>
 
 <small>
