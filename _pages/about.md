@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hi, I'm a Ph.D. student working on Computational Interaction in the [User Interfaces](http://userinterfaces.aalto.fi/) research group at Aalto University led by [Prof. Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's (B.B.A.) and master's degree (M.B.A.) at National Taiwan University. As a believer of computational methods, my research focus is building future computational touch interfaces via modeling, controlling, optimization, and simulation.
+Hi, I'm a Ph.D. student working on Computational Interaction in the [User Interfaces](http://userinterfaces.aalto.fi/) research group at Aalto University led by [Prof. Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's (B.B.A.) and master's degree (M.B.A.) at National Taiwan University. As a believer of computational methods, my research focus is building future touch interfaces via modeling, controlling, optimization, and simulation.
 </small>
 
 <small>
