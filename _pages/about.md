@@ -85,10 +85,11 @@ Paper Review
 ======
 
 <small>
-CHI: 2016, 2017<br>
-MobileHCI: 2017 <br>
-TEI: 2017<br>
-Augmented Human: 2016<br>
+IEEE Transactions on Haptics: 2019<br>
+CHI: 2016-2020 <br>
+MobileHCI: 2017-2019 <br>
+TEI: 2017-2018<br>
+Augmented Human: 2016-2017<br>
 UbiComp/ISWC: 2017
 </small>
 
