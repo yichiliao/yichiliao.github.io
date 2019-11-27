@@ -90,7 +90,7 @@ IEEE Transactions on Haptics: 2019<br>
 ACM CHI: 2016-2020 <br>
 ACM MobileHCI: 2017-2019 <br>
 ACM TEI: 2017-2018<br>
-ACM UbiComp/ISWC: 2017
+ACM UbiComp/ISWC: 2017<br>
 Augmented Human: 2016-2017<br>
 </small>
 
