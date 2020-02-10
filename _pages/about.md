@@ -26,7 +26,7 @@ Selected Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E90wT4RwuSk" frameborder="0" allowfullscreen></iframe>
 
 <small>
-This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell+ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell+ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrating interfaces. As a leading author of this project, I came up with the main idea, designed the empirical research process, generating the demonstrating applications, implementing partial of the software interfaces and writing the paper. 
+This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell+ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell+ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrating interfaces. 
 </small>
 
 <small>In Proc. UIST'17, 12-page paper // 
@@ -39,7 +39,7 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
 
 <small>
-We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. As a second author, I contributed the idea, designed the usability tests and wrote the paper.
+We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. 
 </small>
 
 <small>In Proc. UIST'17, 10-page paper // 
@@ -56,7 +56,7 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_2owlSeDg4" frameborder="0" allowfullscreen></iframe>
 
 <small>
-"Transferring rich spatialtemporal tactile messages while retaining the recognition rates" has been a major challenge in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to learning Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively. I am the leading author of this project, contributing the main idea, hardware prototyping, study interface implementation, user study design, stats analysis, paper writing and organizing the research team.
+"Transferring rich spatialtemporal tactile messages while retaining the recognition rates" has been a major challenge in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to learning Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively.
 </small>
 
 <small>In Proc. UIST'16, 7-page paper // 
@@ -71,7 +71,7 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
 
 <small>
-ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the mobile gaming experience. Comparing to traditional mounted-on-environment force-feedback devices such as phantom, ThirdHand provides higher mobility due to its wearable form. Also, comparing to the muscle-propelled and gyro-effect solutions, our approach enables more accurate control with stronger forces. As a leading author, I generated the idea, implemented the whole robotic arm, partial software interfaces and wrote the paper.
+ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the mobile gaming experience. Comparing to traditional mounted-on-environment force-feedback devices such as phantom, ThirdHand provides higher mobility due to its wearable form. Also, comparing to the muscle-propelled and gyro-effect solutions, our approach enables more accurate control with stronger forces.
 </small>
 
 <small>In Proc. Siggraph Asia'15 Emerging Technology // 
@@ -88,7 +88,7 @@ Paper Review
 IEEE Haptics Symposium: 2020<br>
 IEEE Transactions on Haptics: 2019<br>
 ACM CHI: 2016-2020 <br>
-ACM MobileHCI: 2017-2019 <br>
+ACM MobileHCI: 2017-2020 <br>
 ACM TEI: 2017-2018<br>
 ACM UbiComp/ISWC: 2017<br>
 Augmented Human: 2016-2017<br>
@@ -100,9 +100,13 @@ Other Professional Activities
 ======
 
 <small>
+In 2019, I gave guest lecture in **Computational User Interface Design** course, Aalto University (by Prof. Antti Oulasvirta) in which I talked about Probilistic Decoding. In the other course, **Engineering for Humans**, Aalto University (by Prof. Antti Oulasvirta), I gave a lecture about Input Sensing Pipeline and Data Processing.
+</small>
+
+<small>
 During 2014 to 2016, I've been a teaching assistant of **Introduction to HCI** (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and **Computer Architecture** (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
 </small>
 
 <small>
-I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. Recently, I founded and organized the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
+I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. I also organized the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
 </small>
