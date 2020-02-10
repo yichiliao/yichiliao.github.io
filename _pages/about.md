@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yi-Chi Liao"
+title: "Moi! This is Yi-Chi!"
 excerpt: "Yi-Chi Liao's homepage"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ Hi, I'm a Ph.D. student working on Computational Interaction in the [User Interf
 </small>
 
 <small>
-My previous works have be presented at top-tier conferences in the Human-Computer Interaction field (CHI, UIST, Siggraph Asia E-Tech). Those projects include [Button Simulation and Design]() - a novel model for button tactility and an end-to-end simulation/design pipeline, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, and [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, and [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users.
+My previous works have be presented at top-tier conferences in the Human-Computer Interaction field (CHI, UIST, Siggraph Asia E-Tech). Those projects include [Button Simulation and Design]() - a novel model for button tactility and an end-to-end simulation/design pipeline, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, and [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users.
 </small>
 
 ------
