@@ -8,7 +8,7 @@ author_profile: true
 <small>**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues**<br>
 Yi-Chi Liao, Yen-Chiu Chen,Liwei Chan, Bing-Yu Chen <br>
 In Proc. UIST 2017. (Acceptance rate = 22%)</small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)],  [[full video](https://www.youtube.com/watch?v=SHxr5JcYqy8)</small>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)],  [[full video](https://www.youtube.com/watch?v=SHxr5JcYqy8)]</small>
 
 <br>
 <small>**Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a360 Video Using Spatial Picture-in-Picture Previews**<br>
