@@ -9,11 +9,11 @@ redirect_from:
 ---
 <br>
 <small>
-Hi, I'm a Ph.D. student working on Computational Interaction in the [User Interfaces](http://userinterfaces.aalto.fi/) research group at Aalto University led by [Prof. Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's (B.B.A.) and master's degree (M.B.A.) at National Taiwan University. As a believer of computational methods, my research focus is building future touch interfaces via modeling, controlling, optimization, and simulation.
+Hi, I'm a Ph.D. student working on Computational Interaction in the [User Interfaces](http://userinterfaces.aalto.fi/) research group at Aalto University led by [Prof. Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's (B.B.A.) and master's degree (M.B.A.) at National Taiwan University. As a believer of computational methods, my research focus is building future touch and haptic interfaces via modeling, controlling, optimization, simulation, and machine learning.
 </small>
 
 <small>
-My previous creations include [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users, [EMS Air Guitar](https://yichiliao.github.io/portfolio/4-emsairguitar/) - a muscle-based rhythmic music interface, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, and [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews. These works have been presented at top-tier conferences, including UIST and Siggraph Asia.
+My previous works have be presented at top-tier conferences in the Human-Computer Interaction field (CHI, UIST, Siggraph Asia E-Tech). Those projects include [Button Simulation and Design]() - a novel model for button tactility and an end-to-end simulation/design pipeline, [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/) - augmenting traditional dwell-touch using short vibration ticks, and [Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/) - a visualization technique re-introduces off-screen objects into the main screen as picture-in-picture (PIP) previews, [EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/) - using a 2x2 vibrotactile array to transfer alphanumeric characters, and [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/) - a wearable robotic arm generates rich force feedback to the users.
 </small>
 
 ------

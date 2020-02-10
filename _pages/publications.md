@@ -7,27 +7,27 @@ author_profile: true
 <br>
 <small>**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues**<br>
 Yi-Chi Liao, Yen-Chiu Chen,Liwei Chan, Bing-Yu Chen <br>
-In Proc. UIST 2017. </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper]()], [[video]()]</small>
+In Proc. UIST 2017. (Acceptance rate = 22%)</small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)],  [[full video](https://www.youtube.com/watch?v=SHxr5JcYqy8)</small>
 
 <br>
 <small>**Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a360 Video Using Spatial Picture-in-Picture Previews**<br>
 Yung-Ta Lin, Yi-Chi Liao, Shan-Yuan Teng, Yi-Ju Chung, Liwei Chan, Bing-Yu Chen <br>
-In Proc. UIST 2017. </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/2-outsidein/)], [[Paper]()], [[video]()]</small>
+In Proc. UIST 2017. (Acceptance rate = 22%)</small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/2-outsidein/)], [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[video](https://www.youtube.com/watch?v=tCeRS1ObPA8)]</small>
 
 
 <br>
 <small>**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display**<br>
 Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen <br>
-In Proc. UIST 2016, page 595 - 601. </small><br>
+In Proc. UIST 2016. (Acceptance rate = 20%) </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)], [[Slide](https://goo.gl/mpHQ70)]</small>
 
 <br>
 
 <small>**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
 Yi-Chi Liao, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
-In Proc. Siggraph Asia 2015 Emerging Technology, page 1. </small><br>
+In Proc. Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
 
 <br>
