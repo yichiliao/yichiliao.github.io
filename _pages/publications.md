@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 <small>**Button Simulation and Design via FDVV Models**<br>
-__Yi-Chi Liao__, Sunjun Kim, Byungjoo Lee, Antti Oulasvirta<br>
+<u>Yi-Chi Liao</u>, Sunjun Kim, Byungjoo Lee, Antti Oulasvirta<br>
 In Proc. CHI 2020. (Acceptance rate = 24.3%)</small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)],  [[full video](https://www.youtube.com/watch?v=SHxr5JcYqy8)]</small>
 
