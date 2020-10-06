@@ -13,7 +13,7 @@ Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interf
 </small>
 
 <small>
-I am currently working on **modelling human's hand manipulation using reinforcement-learning-based models** and **assisting design by multi-objective Bayesian Optimization**. 
+I am currently working on **modelling human's hand manipulation using reinforcement-learning-based models** and **assisting UI design by multi-objective Bayesian Optimization**. 
 </small>
 
 <small>
