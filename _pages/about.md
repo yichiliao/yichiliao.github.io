@@ -29,7 +29,7 @@ Selected Publications
 Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. Physical simulation of a button's force-displacement (FD) response has been studied to facilitate prototyping; however, the simulations' scope and realism have been limited. In this paper, we extend FD modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons, including snap. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. This end-to-end approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
 </small>
 
-<small>In Proc. CHI'20, 10-page paper // 
+<small>In Proc. CHI'20 // 
 [[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[Short Video](https://youtu.be/E90wT4RwuSk)], [[Full Video](https://www.youtube.com/watch?v=SHxr5JcYqy8)]. </small>
 
 ------
@@ -42,7 +42,7 @@ Designing a push-button with desired sensation and performance is challenging be
 This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell+ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell+ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrating interfaces. 
 </small>
 
-<small>In Proc. UIST'17, 10-page paper // 
+<small>In Proc. UIST'17 // 
 [[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[Short Video](https://youtu.be/E90wT4RwuSk)], [[Full Video](https://www.youtube.com/watch?v=SHxr5JcYqy8)]. </small>
 
 ------
@@ -55,7 +55,7 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. 
 </small>
 
-<small>In Proc. UIST'17, 9-page paper // 
+<small>In Proc. UIST'17 // 
 [[Project Page](https://yichiliao.github.io/portfolio/2-outsidein/)], [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[Video](https://www.youtube.com/watch?v=XyN1TRUhelw)].
 </small>
 
@@ -72,7 +72,7 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 "Transferring rich spatialtemporal tactile messages while retaining the recognition rates" has been a major challenge in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to learning Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively.
 </small>
 
-<small>In Proc. UIST'16, 6-page paper // 
+<small>In Proc. UIST'16 // 
 [[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/edgevib_uist16.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
 
 ------
@@ -113,7 +113,11 @@ Other Professional Activities
 ======
 
 <small>
-In 2019, I gave guest lecture in **Computational User Interface Design** course, Aalto University (by Prof. Antti Oulasvirta) in which I talked about Probilistic Decoding. In the other course, **Engineering for Humans**, Aalto University (by Prof. Antti Oulasvirta), I gave a lecture about Input Sensing Pipeline and Data Processing.
+In 2020, I gave a lecture about Bayesian Statistics and its applications in **User Research** course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on Deep Learning in course **Computational User Interface Design**, Aalto University (by Prof. Antti Oulasvirta).
+</small>
+
+<small>
+In 2019, I gave a lecture in **Computational User Interface Design** course, Aalto University (by Prof. Antti Oulasvirta) in which I talked about Probilistic Decoding. In another course, **Engineering for Humans**, Aalto University (by Prof. Antti Oulasvirta), I gave a lecture about Input Sensing Pipeline and Data Processing.
 </small>
 
 <small>
