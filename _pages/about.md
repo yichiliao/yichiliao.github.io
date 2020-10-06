@@ -13,7 +13,7 @@ Hi, I'm a Ph.D. student working on Computational Interaction in the [User Interf
 </small>
 
 <small>
-I am currently working on modelling human hand manipulation with physical objects using reinforcement-learning-based models and assisting design by multi-objective Bayesian Optimization. My previous topics include touch interaction ([Button design and simulation](), [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/)), haptic interfaces ([EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/), [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/)), and AR/VR ([Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/)). All these publications have been presented at CHI, UIST, or Siggraph Asia E-Tech. You can find all my previous works on my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en).
+I am currently working on **modelling human's hand manipulation with physical objects using reinforcement-learning-based models** and **assisting design by multi-objective Bayesian Optimization**. My previous topics include touch interaction ([Button design and simulation](), [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/)), haptic interfaces ([EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/), [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/)), and AR/VR ([Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/)). All these publications have been presented at CHI, UIST, or Siggraph Asia E-Tech. You can find all my previous works on my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en).
 </small>
 
 ------
