@@ -1,6 +1,6 @@
 ---
 title: "Button Simulation and Design via FDVV Models"
-excerpt: "We introduced a novel model that better captures the haptic characteristics of push-buttons.<br/><img src='/images/dwellplus/dwellplusplus.png'><br><br>"
+excerpt: "We introduced a novel model that better captures the haptic characteristics of push-buttons.<br/><img src='/images/button/fdvvmodel.pdf'><br><br>"
 collection: portfolio
 ---
 

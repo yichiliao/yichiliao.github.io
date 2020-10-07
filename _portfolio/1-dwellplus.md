@@ -1,6 +1,6 @@
 ---
 title: "Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues"
-excerpt: "Dwell+ boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks.<br/><img src='/images/dwellplus/dwellplusplus.png'><br><br>"
+excerpt: "Dwell+ boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks.<br/><img src='/images/dwellplus/teaser.jpg'><br><br>"
 collection: portfolio
 ---
 
