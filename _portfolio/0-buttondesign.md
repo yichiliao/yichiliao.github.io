@@ -32,8 +32,8 @@ Designing a push-button with desired sensation and performance is challenging be
 All the code, data of various buttons, and the contruction materials for the button simulator are open for anyone to use. [Download](https://userinterfaces.aalto.fi/button_design/resources/button_simulator.zip), and make your own simulator!
 
 <small>
-<small>The whole package includes:
-<small>- Papaer and the auxiliary material in pdf.
+The package includes:
+- Papaer and the auxiliary material in pdf.
 - Data and Models of the 6 physical buttons (Cherry MX Clear, Brown, Black, Red, and HP PR1101U, MacBook Pro 2011).
 - Simulator prototype (3D-printing models, electronic components, and step-by-step assembling instructions).
 - Actuation signals to render them using our simulator.
