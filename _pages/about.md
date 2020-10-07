@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interfaces Group](http://userinterfaces.aalto.fi/) at Aalto University led by [Professor Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's and master's degree at National Taiwan University. My killsets include (but not limited to) 3D prototyping, modelling physical interactions, reinforcement learning, and black-box optimization algorithms. My long-term goal is to build future touch and haptic interfaces via computational methods, such as modelling, learning, optimization, and simulation.
+Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interfaces Group](http://userinterfaces.aalto.fi/) at Aalto University led by [Professor Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's and master's degree at National Taiwan University. My killsets include 3D prototyping, modelling physical interactions, reinforcement learning, and black-box optimization. My long-term goal is to build future touch and haptic interfaces via modelling, machine learning, and optimization techniques.
 </small>
 
 <small>
