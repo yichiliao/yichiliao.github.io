@@ -20,20 +20,12 @@ collection: portfolio
 
 <img src='/images/dwellplus/teaser.jpg'>
 <small>
-Our haptic stimulation design consists of a short 10ms vibrotacile feedback that indicates a mode arriving and a break that separates consecutive modes. We first tested the effectiveness of 170ms 150ms, 130ms, 110ms intervals between modes for a 10-level selection. The results reveal that three-beat-per-chunk rhythm design, e.g., displaying longer 25ms vibration at the first of every three modes, could potentially bring higher accuracy. 
+Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. Physical simulation of a button’s force-displacement (FD) response has been studied to facilitate prototyping; however, the simulations’ scope and realism have been limited. In this paper, we extend FD modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons, including snap. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. This end-to-end approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
 </small>
 
-<img src='/images/dwellplus/dwell_vibpattern.png'>
-<small>
-The second user study reveals significant improvement where a 94.5% accuracy was achieved for a 10-level dwell++ select using the 170ms interval with 3-beat-per-chunk design, and a 93.82% accuracy using the faster 150ms interval with similar chunks for 5-level selection. 
-</small>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OL2x3RrWnv4" frameborder="0" allowfullscreen></iframe>
 
-<img src='/images/dwellplus/dwell_study3.png'>
-<small>
-The approximate performance of conducting touch and receiving vibration from different hands was investigated at the last study for providing a wider range of usage for Dwell++.
-</small>
-
-<img src='/images/dwellplus/dwell_applications.png'>
+All the code, data of various buttons, and the contruction materials for the button simulator are open for anyone to use. You can download the whole package at once at button_simulator.zip. Then, build the simulator step-by-step based on the readme.pdf file. Alternatively, you can download the files separately as listed below.
 
 <small>
 **Publication:** <br> 
