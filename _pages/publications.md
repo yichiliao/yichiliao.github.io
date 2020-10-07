@@ -13,7 +13,7 @@ In Proc. CHI 2020. (Acceptance rate = 24.3%)</small><br>
 <small>**One Button to Rule Them All: Rendering Arbitrary Force-Displacement Curves**<br>
 <u>Yi-Chi Liao</u>, Sunjun Kim, xAntti Oulasvirta<br>
 In Proc. UIST 2018 adjunct.</small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)]</small>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](https://dl.acm.org/doi/abs/10.1145/3266037.3266118)], [[video](https://www.youtube.com/watch?v=-CbhRR6199U)]</small>
 
 <br>
 <small>**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues**<br>
