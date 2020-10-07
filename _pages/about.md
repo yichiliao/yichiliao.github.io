@@ -117,17 +117,17 @@ Other Professional Activities
 ======
 
 <small>
-In 2020, I gave a lecture about **Bayesian Statistics** and its applications in __User Research__ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in __Computational User Interface Design__, Aalto University (by Prof. Antti Oulasvirta).
+In 2020, I gave a lecture about **Bayesian Statistics** and its applications in _User Research_ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in _Computational User Interface Design_, Aalto University (by Prof. Antti Oulasvirta).
 </small>
 
 <small>
-In 2019, I gave a lecture in __Computational User Interface Design__ course, Aalto University (by Prof. Antti Oulasvirta) for introducing **Probilistic Decoding**. In another course, __Engineering for Humans__, Aalto University (by Prof. Antti Oulasvirta), I talked about **Input Sensing Pipeline and Data Processing**.
+In 2019, I gave a lecture in _Computational User Interface Design_ course, Aalto University (by Prof. Antti Oulasvirta) for introducing **Probilistic Decoding**. In another course, _Engineering for Humans_, Aalto University (by Prof. Antti Oulasvirta), I talked about **Input Sensing Pipeline and Data Processing**.
 </small>
 
 <small>
-During 2014 to 2016, I've been a teaching assistant of __Introduction to HCI__ (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and __Computer Architecture__ (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
+During 2014 to 2016, I've been a teaching assistant of _Introduction to HCI_ (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and _Computer Architecture_ (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
 </small>
 
 <small>
-I also student volunteered at **Siggraph Aisa 2016**, and held the biggest HCI workshop in Taiwan, **[OpenHCI'15](http://www.openhci.com/2015/index.html)** and **[OpenHCI'16](http://www.openhci.com/2016/index.html)**. I also organized the other workshop, **[HoCuIn'17](https://hocuin2017.wordpress.com/)**, to introduce more research-oriented HCI to gruaduate students in Taiwan.
+I also student volunteered at _Siggraph Aisa 2016_, and held the biggest HCI workshop in Taiwan, _[OpenHCI'15](http://www.openhci.com/2015/index.html)_ and _[OpenHCI'16](http://www.openhci.com/2016/index.html)_. I also organized the other workshop, _[HoCuIn'17](https://hocuin2017.wordpress.com/)_, to introduce more research-oriented HCI to gruaduate students in Taiwan.
 </small>
