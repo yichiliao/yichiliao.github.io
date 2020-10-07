@@ -36,7 +36,6 @@ The package includes:
 - Actuation signals to render them using our simulator.
 - Source code for running the simulator.
 
-<small>
 **Publication:** <br> 
-UIST 2017, 12-page Paper // [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://youtu.be/E90wT4RwuSk)] 
-<br>Yi-Chi Liao, Yen-Chiu Chen, Liwei Chan, Bing-Yu Chen</small>
+CHI 2020, 10-page Paper // [[Paper](chi2020-liao-button)], [[30s video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[60s video](https://www.youtube.com/watch?v=hOi_7O7USaI)], [[Presentation](https://www.youtube.com/watch?v=v9p-yCNbxzw)]. 
+<br>Yi-Chi Liao, Sunjun kim, Byungjoo Lee, and Antti Oulasvirta.
