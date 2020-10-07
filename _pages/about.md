@@ -13,11 +13,11 @@ Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interf
 </small>
 
 <small>
-My current projects include **modelling physical interaction using reinforcement-learning algorithms** and **assisting UI design via multi-objective Bayesian Optimization**. 
+I am currently working on **modelling physical interaction using reinforcement-learning algorithms** and **assisting UI design via multi-objective Bayesian Optimization**. 
 </small>
 
 <small>
-My previous topics include touch interaction ([Button design and simulation](), [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/)), haptic interfaces ([EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/), [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/)), and AR/VR ([Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/)). All these publications have been presented at CHI, UIST, or Siggraph Asia E-Tech. You can find all my previous works on my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en).
+My previous publications include touch interaction ([Button design and simulation](https://yichiliao.github.io/portfolio/0-buttondesign/), [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/)), haptic interfaces ([EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/), [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/)), and AR/VR ([Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/)). All these works have been presented at CHI, UIST, or Siggraph Asia E-Tech. You can also find all the papers on my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en).
 </small>
 
 ------
