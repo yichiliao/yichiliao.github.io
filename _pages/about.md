@@ -30,7 +30,7 @@ Selected Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
 
 <small>
-Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. In this paper, we extend typical force-displacement (FD) modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. Our approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
+Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. In this paper, we extend the typical force-displacement (FD) modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. Our approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
 </small>
 
 <small>In Proc. CHI'20 // 

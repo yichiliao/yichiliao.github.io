@@ -8,7 +8,12 @@ author_profile: true
 <small>**Button Simulation and Design via FDVV Models**<br>
 <u>Yi-Chi Liao</u>, Sunjun Kim, Byungjoo Lee, Antti Oulasvirta<br>
 In Proc. CHI 2020. (Acceptance rate = 24.3%)</small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)],  [[full video](https://www.youtube.com/watch?v=SHxr5JcYqy8)]</small>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](/files/chi2020-liao-button.pdf)], [[video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)],  [[full video](https://www.youtube.com/watch?v=hOi_7O7USaI)]</small>
+
+<small>**One Button to Rule Them All: Rendering Arbitrary Force-Displacement Curves**<br>
+<u>Yi-Chi Liao</u>, Sunjun Kim, xAntti Oulasvirta<br>
+In Proc. UIST 2018 adjunct.</small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[video](https://www.youtube.com/watch?v=E90wT4RwuSk)]</small>
 
 <br>
 <small>**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues**<br>
