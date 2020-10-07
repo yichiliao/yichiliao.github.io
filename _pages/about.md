@@ -9,15 +9,19 @@ redirect_from:
 ---
 <br>
 <small>
-Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interfaces Group](http://userinterfaces.aalto.fi/) (led by [Professor Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/)) at Aalto University. Before that, I received my bachelor's and master's degree at National Taiwan University. I am interested in Bayesian data analysis, Bayesian optimization, physical interaction, reinforcement learning, and meta learning. My long-term goal is to build future touch and haptic interfaces via modern computational methods.
+I’m a PhD student at Aalto University researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). 
 </small>
 
 <small>
-I am currently working on **modelling physical interaction using reinforcement-learning algorithms** and **assisting UI design via multi-objective Bayesian Optimization**. 
+My current interests are in designing and building physical interactions and interfaces utilizing computational methods such as Bayesian data analysis, optimization, reinforcement learning, and meta-learning, to bring HCI one step closer towards optimized touch and haptic interactions. 
 </small>
 
 <small>
-My previous publications include touch interaction ([Button design and simulation](https://yichiliao.github.io/portfolio/0-buttondesign/), [Dwell+](https://yichiliao.github.io/portfolio/1-dwell+/)), haptic interfaces ([EdgeVib](https://yichiliao.github.io/portfolio/3-edgevib/), [ThirdHand](https://yichiliao.github.io/portfolio/5-thirdhand/)), and AR/VR ([Outside-In](https://yichiliao.github.io/portfolio/2-outsidein/)). All these works have been presented at CHI, UIST, or Siggraph Asia E-Tech. You can also find all the papers on my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en).
+I research in assisting UI design via multi-objective Bayesian Optimization. With meta-reinforcement learning methods, I model how humans interact with physical interfaces. [My publications]((https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en)) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
+</small>
+
+<small>
+I also lecture on various topics in Aalto, including input and sensing, Bayesian decoders, Bayesian data analysis, and Deep Learning. I am invited to review for multiple ACM conferences and IEEE journals. 
 </small>
 
 ------
