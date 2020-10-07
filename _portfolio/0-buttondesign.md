@@ -37,7 +37,11 @@ The package includes:
 - Source code for running the simulator.
 
 **Publication:** <br> 
-<medium>
 CHI 2020, 10-page Paper // [[Paper](chi2020-liao-button)], [[30s video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[60s video](https://www.youtube.com/watch?v=hOi_7O7USaI)], [[Presentation](https://www.youtube.com/watch?v=v9p-yCNbxzw)]. 
 <br>Yi-Chi Liao, Sunjun kim, Byungjoo Lee, and Antti Oulasvirta.
-</medium>
+
+CHI 2020, Demo // [[Paper](https://dl.acm.org/doi/abs/10.1145/3334480.3383161)]
+<br>Yi-Chi Liao, Sunjun kim, Byungjoo Lee, and Antti Oulasvirta.
+
+UIST 2018, Poster // [[Paper](https://dl.acm.org/doi/abs/10.1145/3266037.3266118)], [[Video](https://www.youtube.com/watch?v=-CbhRR6199U)]
+<br>Yi-Chi Liao, Sunjun kim, and Antti Oulasvirta.
