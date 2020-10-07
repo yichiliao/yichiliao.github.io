@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[ YC ]"
+title                    : "Yi-Chi"
 title_separator          : "-"
 name                     : &name "Yi-Chi Liao"
 description              : &description "Ph.D. student in User Interfaces at Aalto University."
