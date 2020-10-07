@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Yi-Chi Liao"
   avatar           : "profile/yichi2-min.png"
-  bio              : "Ph.D. student \\ in User Interfaces \\ at Aalto University."
+  bio              : "Ph.D. student <br> in User Interfaces <br> at Aalto University."
   location         : "Helsinki, Finland"
   employer         : 
-  googlescholar    : "Ddny4V4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en"
   email            : "yi-chi.liao@aalto.fi"
   uri              : 
   bitbucket        :
