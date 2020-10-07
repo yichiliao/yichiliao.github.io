@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br>
 <small>
-Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interfaces Group](http://userinterfaces.aalto.fi/) at Aalto University led by [Professor Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before that, I received my bachelor's and master's degree at National Taiwan University. I am interested in Bayesian data analysis, Bayesian optimization, physical interaction, reinforcement learning, and meta learning. My long-term goal is to build future touch and haptic interfaces via modern computational methods.
+Hi! I'm a Ph.D. student working on Computational Interaction in the [User Interfaces Group](http://userinterfaces.aalto.fi/) (led by [Professor Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/)) at Aalto University. Before that, I received my bachelor's and master's degree at National Taiwan University. I am interested in Bayesian data analysis, Bayesian optimization, physical interaction, reinforcement learning, and meta learning. My long-term goal is to build future touch and haptic interfaces via modern computational methods.
 </small>
 
 <small>
