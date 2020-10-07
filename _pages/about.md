@@ -17,7 +17,7 @@ My current interests are in designing and building physical interactions and int
 </small>
 
 <small>
-I research in assisting UI design via multi-objective Bayesian Optimization. With meta-reinforcement learning methods, I model how humans interact with physical interfaces. [My publications]((https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en)) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
+I research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. [My publications]((https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en)) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
 </small>
 
 <small>
