@@ -13,11 +13,11 @@ I’m a PhD student at Aalto University researching Computational Interaction as
 </small>
 
 <small>
-My current interests are in designing and building physical interactions and interfaces utilizing computational methods such as Bayesian data analysis, optimization, reinforcement learning, and meta-learning, to bring HCI one step closer towards optimized touch and haptic interactions. 
+My research interests are in designing and building physical interfaces utilizing computational methods such as Bayesian data analysis, optimization, reinforcement learning, and meta-learning, to bring HCI one step closer towards optimized touch and haptic interactions. 
 </small>
 
 <small>
-I research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. [My publications]((https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en)) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
+I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. [My publications]((https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en)) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
 </small>
 
 <small>
