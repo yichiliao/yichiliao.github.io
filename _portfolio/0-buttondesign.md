@@ -29,7 +29,7 @@ Designing a push-button with desired sensation and performance is challenging be
 
 ------
 ## Build your own simulator!
-All the code, data of various buttons, and the contruction materials for the button simulator are open for anyone to use. Download, and make your own simulator!
+All the code, data of various buttons, and the contruction materials for the button simulator are open for anyone to use. [Download](https://userinterfaces.aalto.fi/button_design/resources/button_simulator.zip), and make your own simulator!
 
 <small>
 <small>The whole package includes:
