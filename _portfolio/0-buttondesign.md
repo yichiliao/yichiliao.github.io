@@ -36,7 +36,7 @@ The package includes:
 - Actuation signals to render them using our simulator.
 - Source code for running the simulator.
 
-**Publication:** <br> 
+### Publication 
 CHI 2020, 10-page Paper // [[Paper](chi2020-liao-button)], [[30s video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[60s video](https://www.youtube.com/watch?v=hOi_7O7USaI)], [[Presentation](https://www.youtube.com/watch?v=v9p-yCNbxzw)]. 
 <br>Yi-Chi Liao, Sunjun kim, Byungjoo Lee, and Antti Oulasvirta.
 
