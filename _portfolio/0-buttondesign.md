@@ -1,15 +1,20 @@
 ---
-title: "Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues"
-excerpt: "Dwell+ boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks.<br/><img src='/images/dwellplus/dwellplusplus.png'><br><br>"
+title: "Button Simulation and Design via FDVV Models"
+excerpt: "We introduced a novel model that better captures the haptic characteristics of push-buttons.<br/><img src='/images/dwellplus/dwellplusplus.png'><br><br>"
 collection: portfolio
 ---
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E90wT4RwuSk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
 
 ------
 
-<small>Dwell, a well-known mode-switching method, is generally considered inefficient due to a requiring long dwelling time in order to avoid unintended input and also limited single mode it allows. This paper presents Dwell+ˋ, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. This way, Dwell++ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted.
+<small>
+- Different push-buttons have varying haptic characteristics (tactility), which further leads to distinct sensations and user performance.
+- We present a novel force-displacement-vibration-velocity (FDVV) model to capture the haptic characteristics of a button.
+- We further introduce an end-to-end simulation pipeline that covers from measurements, modeling, controlling to real-time physical simulation.
+- Several applications are enabled by our approach, including an interactive button-editing tool, software-side optimization, and designing innovative buttons.
+- Want to build your own button simulator? Download our materials below and start designing your button!
 </small>
 
 <img src='/images/dwellplus/teaser.jpg'>
