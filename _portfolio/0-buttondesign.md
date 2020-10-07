@@ -9,13 +9,14 @@ collection: portfolio
 
 ------
 
-<small>
+## How to design the tactility of a button?
+
 - Different push-buttons have varying haptic characteristics (tactility), which further leads to distinct sensations and user performance.
 - We present a novel force-displacement-vibration-velocity (FDVV) model to capture the haptic characteristics of a button.
 - We further introduce an end-to-end simulation pipeline that covers from measurements, modeling, controlling to real-time physical simulation.
 - Several applications are enabled by our approach, including an interactive button-editing tool, software-side optimization, and designing innovative buttons.
 - Want to build your own button simulator? Download our materials below and start designing your button!
-</small>
+
 
 <img src='/images/dwellplus/teaser.jpg'>
 <small>
