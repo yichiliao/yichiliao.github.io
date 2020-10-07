@@ -21,9 +21,7 @@ collection: portfolio
 <img src='/images/button/pipeline.png'>
 
 ## Abstract
-<small>
 Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. Physical simulation of a button’s force-displacement (FD) response has been studied to facilitate prototyping; however, the simulations’ scope and realism have been limited. In this paper, we extend FD modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons, including snap. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. This end-to-end approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
-</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OL2x3RrWnv4" frameborder="0" allowfullscreen></iframe>
 
@@ -31,14 +29,12 @@ Designing a push-button with desired sensation and performance is challenging be
 ## Build your own simulator!
 All the code, data of various buttons, and the contruction materials for the button simulator are open for anyone to use. [Download](https://userinterfaces.aalto.fi/button_design/resources/button_simulator.zip), and make your own simulator!
 
-<small>
 The package includes:
 - Papaer and the auxiliary material in pdf.
 - Data and Models of the 6 physical buttons (Cherry MX Clear, Brown, Black, Red, and HP PR1101U, MacBook Pro 2011).
 - Simulator prototype (3D-printing models, electronic components, and step-by-step assembling instructions).
 - Actuation signals to render them using our simulator.
 - Source code for running the simulator.
-</small>
 
 <small>
 **Publication:** <br> 
