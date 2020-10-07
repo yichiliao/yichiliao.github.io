@@ -37,7 +37,7 @@ The package includes:
 - Source code for running the simulator.
 
 ### Publication 
-CHI 2020, 10-page Paper // [[Paper](chi2020-liao-button)], [[30s video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[60s video](https://www.youtube.com/watch?v=hOi_7O7USaI)], [[Presentation](https://www.youtube.com/watch?v=v9p-yCNbxzw)]. 
+CHI 2020, 10-page Paper // [[Paper](chi2020-liao-button)], [[30s video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[60s video](https://www.youtube.com/watch?v=hOi_7O7USaI)], [[Presentation](https://www.youtube.com/watch?v=v9p-yCNbxzw)] 
 <br>Yi-Chi Liao, Sunjun kim, Byungjoo Lee, and Antti Oulasvirta.
 
 CHI 2020, Demo // [[Paper](https://dl.acm.org/doi/abs/10.1145/3334480.3383161)]
