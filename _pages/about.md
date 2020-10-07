@@ -117,15 +117,15 @@ Other Professional Activities
 ======
 
 <small>
-In 2020, I gave a lecture about Bayesian Statistics and its applications in **User Research** course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on Deep Learning in course **Computational User Interface Design**, Aalto University (by Prof. Antti Oulasvirta).
+In 2020, I gave a lecture about **Bayesian Statistics** and its applications in __User Research__ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in __Computational User Interface Design__, Aalto University (by Prof. Antti Oulasvirta).
 </small>
 
 <small>
-In 2019, I gave a lecture in **Computational User Interface Design** course, Aalto University (by Prof. Antti Oulasvirta) in which I talked about Probilistic Decoding. In another course, **Engineering for Humans**, Aalto University (by Prof. Antti Oulasvirta), I gave a lecture about Input Sensing Pipeline and Data Processing.
+In 2019, I gave a lecture in __Computational User Interface Design__ course, Aalto University (by Prof. Antti Oulasvirta) for introducing **Probilistic Decoding**. In another course, __Engineering for Humans__, Aalto University (by Prof. Antti Oulasvirta), I talked about **Input Sensing Pipeline and Data Processing**.
 </small>
 
 <small>
-During 2014 to 2016, I've been a teaching assistant of **Introduction to HCI** (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and **Computer Architecture** (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
+During 2014 to 2016, I've been a teaching assistant of __Introduction to HCI__ (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and __Computer Architecture__ (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
 </small>
 
 <small>
