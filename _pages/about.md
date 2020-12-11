@@ -110,11 +110,12 @@ ACM MobileHCI: 2017-2020 <br>
 ACM TEI: 2017-2018<br>
 ACM UbiComp/ISWC: 2017<br>
 Augmented Human: 2016-2017<br>
-
+</small>
+<br>
+<small>
 **Special Recognitions for Outstanding Reviews:** <br>
 1 x recognition for CHI 2020 Papers <br>
 3 x recognition for CHI 2021 Papers <br>
-
 </small>
 
 ------
