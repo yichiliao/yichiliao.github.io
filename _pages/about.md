@@ -103,15 +103,15 @@ Academic Services
 ======
 
 <small>
-**Organizing Committee** <br>
+**Organizing Committee:** <br>
 ACM CHI 2022 Video Preview Chair<br>
 <br>
-**Program Committee** <br>
+**Program Committee:** <br>
 ACM CHI 2021 Late-Breaking Work<br>
 <br>
 
 <small>
-**Paper Review** <br>
+**Paper Review:** <br>
 IEEE Transactions on Haptics: 2019, 2021<br>
 International Journal of Human - Computer Studies: 2021<br>
 IEEE Haptics Symposium: 2020<br>
