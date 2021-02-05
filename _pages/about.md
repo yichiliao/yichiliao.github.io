@@ -99,12 +99,22 @@ ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the 
 
 
 
-Paper Review
+Academic Services
 ======
 
 <small>
+**Organizing Committee**
+ACM CHI 2022 Video Preview Chair<br>
+<br>
+**Program Committee**
+ACM CHI 2021 Late-Breaking WOrk<br>
+<br>
+
+<small>
+**Paper Review**
+IEEE Transactions on Haptics: 2019, 2021<br>
+International Journal of Human - Computer Studies: 2021<br>
 IEEE Haptics Symposium: 2020<br>
-IEEE Transactions on Haptics: 2019<br>
 ACM CHI: 2016-2021 <br>
 ACM MobileHCI: 2017-2020 <br>
 ACM TEI: 2017-2018<br>
@@ -120,7 +130,7 @@ Augmented Human: 2016-2017<br>
 
 ------
 
-Other Professional Activities
+Other Activities
 ======
 
 <small>
