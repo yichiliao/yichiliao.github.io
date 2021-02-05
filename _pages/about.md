@@ -109,7 +109,6 @@ ACM CHI 2022 Video Preview Chair<br>
 **Program Committee:** <br>
 ACM CHI 2021 Late-Breaking Work<br>
 <br>
-
 <small>
 **Paper Review:** <br>
 IEEE Transactions on Haptics: 2019, 2021<br>
