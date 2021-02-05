@@ -107,7 +107,7 @@ Academic Services
 ACM CHI 2022 Video Preview Chair<br>
 <br>
 **Program Committee** <br>
-ACM CHI 2021 Late-Breaking WOrk<br>
+ACM CHI 2021 Late-Breaking Work<br>
 <br>
 
 <small>
