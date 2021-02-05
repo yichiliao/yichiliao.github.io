@@ -126,8 +126,8 @@ Augmented Human: 2016-2017<br>
 <br>
 <small>
 **Special Recognitions for Outstanding Reviews:** <br>
-1 x recognition for CHI 2020 Papers <br>
 3 x recognition for CHI 2021 Papers <br>
+1 x recognition for CHI 2020 Papers <br>
 </small>
 
 ------
