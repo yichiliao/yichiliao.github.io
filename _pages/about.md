@@ -10,11 +10,7 @@ redirect_from:
 # Moi! This is Yi-Chi!
 <br>
 <small>
-I’m a PhD student at [Aalto University](https://www.aalto.fi/en) researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). My interests are designing and building physical interfaces utilizing computational methods such as Bayesian data analysis, optimization, reinforcement learning, and meta-learning. My ultimate goal is to bring HCI one step closer to optimized touch and haptic interactions.  
-</small>
-
-<small>
-I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. [My publications]((https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en)) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
+I’m a PhD student at [Aalto University](https://www.aalto.fi/en) researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). My interests are designing and building physical interfaces utilizing computational methods. I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. My ultimate goal is to design optimized physical interaction with innovative workflows powered by machine-learning techniques. You can view [my CHI '21 Dcotoral Consortium research proposal](https://arxiv.org/pdf/2101.10032.pdf) for more details about my vision. [My past publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. 
 </small>
 
 <small>
