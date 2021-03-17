@@ -107,9 +107,11 @@ ACM CHI 2021 Late-Breaking Work<br>
 <small>
 **Paper Review:** <br>
 IEEE Transactions on Haptics: 2019, 2021<br>
+IEEE World Haptics Conference: 2021<br>
 International Journal of Human - Computer Studies: 2021<br>
-IEEE Haptics Symposium: 2020<br>
 ACM CHI: 2016-2021 <br>
+ACM Creativity and Cognition: 2021<br>
+IEEE Haptics Symposium: 2020<br>
 ACM MobileHCI: 2017-2020 <br>
 ACM TEI: 2017-2018<br>
 ACM UbiComp/ISWC: 2017<br>
