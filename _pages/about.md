@@ -91,16 +91,18 @@ ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the 
 
 
 
-Academic Services
+Academic Activities
 ======
 
 <small>
 **Organizing Committee:** <br>
 ACM CHI 2022 Video Preview Chair<br>
+ACM IUI 2022 Student Volunteer Chair<br>
 </small>
 <br>
 <small>
 **Program Committee:** <br>
+ACM TEI 2022 Work-in-Progress<br>
 ACM CHI 2021 Late-Breaking Work<br>
 </small>
 <br>
