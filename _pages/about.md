@@ -10,7 +10,7 @@ redirect_from:
 # Moi! This is Yi-Chi!
 <br>
 <small>
-I’m a PhD student at [Aalto University](https://www.aalto.fi/en) researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). My interests are designing and building physical interfaces utilizing computational methods. I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. My ultimate goal is to design optimized physical interaction with innovative design workflows powered by machine learning techniques. You can check [my CHI '21 Dcotoral Consortium research proposal](https://arxiv.org/pdf/2101.10032.pdf) for more details about my vision. [My past publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. I also lecture on various topics in Aalto, including input and sensing, Bayesian decoders, Bayesian data analysis, and Deep Learning. I am invited to review for multiple ACM conferences and IEEE journals. 
+I’m a PhD student at [Aalto University](https://www.aalto.fi/en) researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/), and will soon join [Facebook Rality Labs](https://tech.fb.com/ar-vr/) as a research intern. Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). My interests are designing and building physical interfaces utilizing computational methods. I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with meta-reinforcement learning methods**. My ultimate goal is to design optimized physical interaction with innovative design workflows powered by machine learning techniques. You can check [my CHI '21 Dcotoral Consortium research proposal](https://arxiv.org/pdf/2101.10032.pdf) for more details about my vision. [My past publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. I also lecture on various topics in Aalto, including input and sensing, Bayesian decoders, Bayesian data analysis, and Deep Learning. I am invited to review for multiple ACM conferences and IEEE journals. 
 </small>
 
 ------
@@ -95,6 +95,10 @@ Academic Activities
 ======
 
 <small>
+**Research Internship**<br>
+Facebook Reality Labs, 2021 (start in December, 2021). <br>
+</small>
+<small>
 **Organizing Committee:** <br>
 ACM CHI 2022 Video Preview Chair<br>
 ACM IUI 2022 Student Volunteer Chair<br>
@@ -130,6 +134,10 @@ Augmented Human: 2016-2017<br>
 
 Other Activities
 ======
+
+<small>
+In December, 2021, I will join [Facebook Reality Labs](https://tech.fb.com/ar-vr/) as a research intern working in AR/VR interaction design.
+</small>
 
 <small>
 In 2020, I gave a lecture about **Bayesian Statistics** and its applications in _User Research_ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in _Computational User Interface Design_, Aalto University (by Prof. Antti Oulasvirta).
