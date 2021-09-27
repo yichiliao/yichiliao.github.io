@@ -136,7 +136,7 @@ Other Activities
 ======
 
 <small>
-In December, 2021, I will join [Facebook Reality Labs](https://tech.fb.com/ar-vr/) as a research intern working in AR/VR interaction design.
+In December, 2021, I will join [Facebook Reality Labs](https://tech.fb.com/ar-vr/) as a research intern, working in AR/VR interaction design.
 </small>
 
 <small>
