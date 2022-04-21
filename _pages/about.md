@@ -10,7 +10,7 @@ redirect_from:
 # Moi! This is Yi-Chi!
 <br>
 <small>
-I’m a PhD student at [Aalto University](https://www.aalto.fi/en) researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/), and will soon join [Meta Rality Labs](https://tech.fb.com/ar-vr/) as a research intern. Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). My research focus is to develop future design framework based on simulation, modeling and optimization. I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with reinforcement learning methods**. Please refer to [my CHI '21 Dcotoral Consortium research proposal](https://arxiv.org/pdf/2101.10032.pdf) for more details about my vision. [My previous publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. I also lecture on various topics in Aalto, including input and sensing, Bayesian decoders, Bayesian data analysis, and Deep Learning. I am also activately involving in HCI-related academic activities, such as reviewing papers and organizing conferences.
+I’m a PhD student at [Aalto University](https://www.aalto.fi/en) researching Computational Interaction as part of the [User Interfaces Group](http://userinterfaces.aalto.fi/), led by [Prof Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/), and will soon join [Meta Rality Labs](https://tech.fb.com/ar-vr/) as a research intern. Before this, I received my bachelor’s and master’s degree in Information Management at [National Taiwan University](https://www.ntu.edu.tw/english/). My research focus is to develop future design framework based on simulation, modeling and optimization. I currently research in **assisting UI design via multi-objective Bayesian Optimization**, and **modelling how humans interact with physical interfaces with reinforcement learning**. Please refer to [my CHI '21 Dcotoral Consortium research proposal](https://arxiv.org/pdf/2101.10032.pdf) for more details about my vision. [My previous publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) are in peer-reviewed venues, including CHI, UIST, and SIGGRAPH, the top human-computer interaction venues from the ACM. I also lecture on various topics in Aalto, including input and sensing, Bayesian decoders, Bayesian data analysis, and Deep Learning. I am also activately involving in HCI-related academic activities, such as reviewing papers and organizing conferences.
 </small>
 
 ------
@@ -121,8 +121,8 @@ Academic Activities
 
 <small>
 **Research Internship**<br>
-Facebook Reality Labs, 2021 (start in December, 2021). <br>
-</small>
+Facebook Reality Labs, 2022 (start in May, 2022). <br>
+</small><br>
 <small>
 **Organizing Committee:** <br>
 ACM CHI 2022 Video Preview Chair<br>
@@ -131,8 +131,8 @@ ACM IUI 2022 Student Volunteer Chair<br>
 <br>
 <small>
 **Program Committee:** <br>
+ACM CHI 2021, 2022 Late-Breaking Work<br>
 ACM TEI 2022 Work-in-Progress<br>
-ACM CHI 2021 Late-Breaking Work<br>
 </small>
 <br>
 <small>
@@ -140,7 +140,7 @@ ACM CHI 2021 Late-Breaking Work<br>
 IEEE Transactions on Haptics: 2019, 2021<br>
 IEEE World Haptics Conference: 2021<br>
 International Journal of Human - Computer Studies: 2021<br>
-ACM CHI: 2016-2021 <br>
+ACM CHI: 2016-2022 <br>
 ACM Creativity and Cognition: 2021<br>
 IEEE Haptics Symposium: 2020<br>
 ACM MobileHCI: 2017-2020 <br>
@@ -161,7 +161,7 @@ Other Activities
 ======
 
 <small>
-In December, 2021, I will join [Facebook Reality Labs](https://tech.fb.com/ar-vr/) as a research intern, working in AR/VR interaction design.
+I will soon join [Meta Reality Labs](https://tech.fb.com/ar-vr/) as a research intern, working in AR/VR interaction design.
 </small>
 
 <small>
@@ -176,6 +176,3 @@ In 2019, I gave a lecture in _Computational User Interface Design_ course, Aalto
 During 2014 to 2016, I've been a teaching assistant of _Introduction to HCI_ (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and _Computer Architecture_ (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
 </small>
 
-<small>
-I also student volunteered at _Siggraph Aisa 2016_, and held the biggest HCI workshop in Taiwan, _[OpenHCI'15](http://www.openhci.com/2015/index.html)_ and _[OpenHCI'16](http://www.openhci.com/2016/index.html)_. I also organized the other workshop, _[HoCuIn'17](https://hocuin2017.wordpress.com/)_, to introduce more research-oriented HCI to gruaduate students in Taiwan.
-</small>
