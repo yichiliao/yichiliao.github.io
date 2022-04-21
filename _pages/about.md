@@ -36,6 +36,7 @@ We propose an integrative theory of affordance-formation based on the theory of 
 <small>
 In this paper, we study Bayesian optimization as an algorithmic method to guide the design optimization process. It operates by proposing to a designer which design candidate to try next, given previous observations. We report observations from a comparative study with 40 novice designers who were tasked to optimize a complex 3D touch interaction technique. The optimizer helped designers explore larger proportions of the design space and arrive at a better solution, however they reported lower agency and expressiveness. Designers guided by an optimizer reported lower mental effort but also felt less creative and less in charge of the progress. We conclude that human-in-the-loop optimization can support novice designers in cases where agency is not critical.
 </small>
+
 <small>In Proc. CHI '22 //
 [[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[video](https://youtu.be/uK4o_2VY90E)],  [[full video](https://www.youtube.com/watch?v=T8ijVKkajwg)]</small>
 
