@@ -20,9 +20,22 @@ Selected Publications
 
 <br>
 **Rediscovering Affordance: A Reinforcement Learning Perspective** *[CHI '22, 14-page Paper]*<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
 <small>
 Affordance refers to the perception of possible actions allowed by an object. Despite its relevance to human-computer interaction, no existing theory explains the mechanisms that underpin affordance-formation; that is, how affordances are discovered and adapted via interaction. We propose an integrative theory of affordance-formation based on the theory of reinforcement learning in cognitive sciences. The key assumption is that users learn to associate promising motor actions to percepts via experience when reinforcement signals (success/failure) are present. They also learn to categorize actions (e.g., "rotating" a dial), giving them the ability to name and reason about affordance. Upon encountering novel widgets, their ability to generalize these actions determines their ability to perceive affordances. We implement this theory in a virtual robot model, which demonstrates human-like adaptation of affordance in interactive widgets tasks. While its predictions align with trends in human data, humans are able to adapt affordances faster, suggesting the existence of additional mechanisms.
 </small>
+------
+
+<br>
+**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques** *[CHI '22, 14-page Paper]*<br>
+<iframe width="560" height="315" src="https://youtu.be/uK4o_2VY90E" frameborder="0" allowfullscreen></iframe>
+<small>
+Designers reportedly struggle with design optimization tasks where they are asked to find a combination of design parameters that maximizes a given set of objectives. In HCI, design optimization problems are often exceedingly complex, involving multiple objectives and expensive empirical evaluations. Model-based computational design algorithms assist designers by generating design examples during design, however they assume a model of the interaction domain. Black box methods for assistance, on the other hand, can work with any design problem. However, virtually all empirical studies of this human-in-the-loop approach have been carried out by either researchers or end-users. The question stands out if such methods can help designers in realistic tasks. In this paper, we study Bayesian optimization as an algorithmic method to guide the design optimization process. It operates by proposing to a designer which design candidate to try next, given previous observations. We report observations from a comparative study with 40 novice designers who were tasked to optimize a complex 3D touch interaction technique. The optimizer helped designers explore larger proportions of the design space and arrive at a better solution, however they reported lower agency and expressiveness. Designers guided by an optimizer reported lower mental effort but also felt less creative and less in charge of the progress. We conclude that human-in-the-loop optimization can support novice designers in cases where agency is not critical.
+</small>
+
+------
+
+
 <br>
 **Button Simulation and Design via FDVV Models** *[CHI '20, 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
