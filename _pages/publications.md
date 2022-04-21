@@ -4,6 +4,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<small>**Rediscovering Affordance: A Reinforcement Learning Perspective**<br>
+<u>Yi-Chi Liao</u>, Kashyap Todi, Aditya Acharya, Antti Keurulainen, Andrew Howes, Antti Oulasvirta<br>
+In Proc. CHI 2022. (Direct acceptance rate = 12.5%)</small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[full video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]</small>
+
+
+<br>
+<small>**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques**<br>
+Liwei Chan, <u>Yi-Chi Liao</u>, George B. Mo, John J. Dudley, Chun-Lien Cheng, Per Ola Kristensson, Antti Oulasvirta<br>
+In Proc. CHI 2022. (Direct acceptance rate = 12.5%)</small><br>
+Honorable Mention Award <br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[video](https://youtu.be/uK4o_2VY90E)],  [[full video](https://www.youtube.com/watch?v=T8ijVKkajwg)]</small>
+
 <br>
 <small>**Button Simulation and Design via FDVV Models**<br>
 <u>Yi-Chi Liao</u>, Sunjun Kim, Byungjoo Lee, Antti Oulasvirta<br>
