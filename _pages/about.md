@@ -23,49 +23,48 @@ Selected Publications
 <small>
 Affordance refers to the perception of possible actions allowed by an object. Despite its relevance to human-computer interaction, no existing theory explains the mechanisms that underpin affordance-formation; that is, how affordances are discovered and adapted via interaction. We propose an integrative theory of affordance-formation based on the theory of reinforcement learning in cognitive sciences. The key assumption is that users learn to associate promising motor actions to percepts via experience when reinforcement signals (success/failure) are present. They also learn to categorize actions (e.g., "rotating" a dial), giving them the ability to name and reason about affordance. Upon encountering novel widgets, their ability to generalize these actions determines their ability to perceive affordances. We implement this theory in a virtual robot model, which demonstrates human-like adaptation of affordance in interactive widgets tasks. While its predictions align with trends in human data, humans are able to adapt affordances faster, suggesting the existence of additional mechanisms.
 </small>
-
 <br>
-**Button Simulation and Design via FDVV Models** *[CHI'20, 10-page Paper]*<br>
+**Button Simulation and Design via FDVV Models** *[CHI '20, 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
 
 <small>
 Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. In this paper, we extend the typical force-displacement (FD) modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. Our approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
 </small>
 
-<small>In Proc. CHI'20 // 
+<small>In Proc. CHI '20 // 
 [[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[30s Video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[Full Video](https://www.youtube.com/watch?v=hOi_7O7USaI)]. </small>
 
 ------
 
 <br>
-**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** *[UIST'17, 10-page Paper]*<br>
+**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** *[UIST '17, 10-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E90wT4RwuSk" frameborder="0" allowfullscreen></iframe>
 
 <small>
 This paper presents Dwell+, a method that boosts the effectiveness of typical dwell select by augmenting the passive dwell duration with active haptic ticks which promptly drives rapid switches of modes forward through the user's skin sensation. Dwell+ enables multi-level dwell select using rapid haptic ticks. To select a mode from a button, users dwell-touch the button until the mode of selection being haptically prompted. Applications demonstrated implementing Dwell+ across different interfaces; ranging from vibration-enabled touchscreens to non-vibrating interfaces. 
 </small>
 
-<small>In Proc. UIST'17 // 
+<small>In Proc. UIST '17 // 
 [[Project Page](https://yichiliao.github.io/portfolio/1-dwellplus/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[30s Video](https://youtu.be/E90wT4RwuSk)], [[Full Video](https://www.youtube.com/watch?v=SHxr5JcYqy8)]. </small>
 
 ------
 
 <br>
-**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>*[UIST'17, 9-page Paper]*<br>
+**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>*[UIST '17, 9-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
 
 <small>
 We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. 
 </small>
 
-<small>In Proc. UIST'17 // 
+<small>In Proc. UIST '17 // 
 [[Project Page](https://yichiliao.github.io/portfolio/2-outsidein/)], [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[Video](https://www.youtube.com/watch?v=XyN1TRUhelw)].
 </small>
 
 ------
 
 <br>
-**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *[UIST'16, 6-page Paper]*<br>
+**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *[UIST '16, 6-page Paper]*<br>
 
 <small>Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen</small>
 
@@ -75,7 +74,7 @@ We propose Outside-In, a visualization technique which re-introduces off-screen 
 "Transferring rich spatialtemporal tactile messages while retaining the recognition rates" has been a major challenge in the development of tactile displays. We present EdgeVib, a set of multistroke alphanumeric patterns based on EdgeWrite. Learning these patterns takes comparable period to learning Graffiti (15min), while the recognition rates achive 85.9% and 88.6% for alphabet and digits respectively.
 </small>
 
-<small>In Proc. UIST'16 // 
+<small>In Proc. UIST '16 // 
 [[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/edgevib_uist16.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. </small>
 
 ------
