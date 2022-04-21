@@ -25,14 +25,19 @@ Selected Publications
 We propose an integrative theory of affordance-formation based on the theory of reinforcement learning in cognitive sciences. The key assumption is that users learn to associate promising motor actions to percepts via experience when reinforcement signals (success/failure) are present. They also learn to categorize actions (e.g., "rotating" a dial), giving them the ability to name and reason about affordance. Upon encountering novel widgets, their ability to generalize these actions determines their ability to perceive affordances. We implement this theory in a virtual robot model, which demonstrates human-like adaptation of affordance in interactive widgets tasks. While its predictions align with trends in human data, humans are able to adapt affordances faster, suggesting the existence of additional mechanisms.
 </small>
 
+<small>In Proc. CHI '22 // 
+[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[full video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]</small>
+
 ------
 
 <br>
-**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques** *[CHI '22, 13-page Paper]*<br>
+**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques** *[CHI '22, 13-page Paper, Honorable Mention]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uK4o_2VY90E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <small>
 In this paper, we study Bayesian optimization as an algorithmic method to guide the design optimization process. It operates by proposing to a designer which design candidate to try next, given previous observations. We report observations from a comparative study with 40 novice designers who were tasked to optimize a complex 3D touch interaction technique. The optimizer helped designers explore larger proportions of the design space and arrive at a better solution, however they reported lower agency and expressiveness. Designers guided by an optimizer reported lower mental effort but also felt less creative and less in charge of the progress. We conclude that human-in-the-loop optimization can support novice designers in cases where agency is not critical.
 </small>
+<small>In Proc. CHI '22 //
+[[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[video](https://youtu.be/uK4o_2VY90E)],  [[full video](https://www.youtube.com/watch?v=T8ijVKkajwg)]</small>
 
 ------
 
