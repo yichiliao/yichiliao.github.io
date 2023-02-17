@@ -161,7 +161,7 @@ Other Activities
 ======
 
 <small>
-I will soon join [Meta Reality Labs](https://tech.fb.com/ar-vr/) as a research intern, working in AR/VR interaction design.
+Research intern at [Meta Reality Labs](https://tech.fb.com/ar-vr/).
 </small>
 
 <small>
