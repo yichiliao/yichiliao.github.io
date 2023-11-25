@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 <br>
+<small>**Interaction Design With Multi-objective Bayesian Optimization**<br>
+<u>Yi-Chi Liao</u>, John J Dudley, George B Mo, Chun-Lien Cheng, Liwei Chan, Antti Oulasvirta, Per Ola Kristensson<br>
+IEEE Pervasive Computing. </small><br>
+<small>[Project Page], [[Paper](https://ieeexplore.ieee.org/abstract/document/10024515/)], [video],  [full video]</small>
+
+
+<br>
 <small>**Rediscovering Affordance: A Reinforcement Learning Perspective**<br>
 <u>Yi-Chi Liao</u>, Kashyap Todi, Aditya Acharya, Antti Keurulainen, Andrew Howes, Antti Oulasvirta<br>
 In Proc. CHI 2022. (Direct acceptance rate = 12.5%)</small><br>
