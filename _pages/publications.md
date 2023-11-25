@@ -16,7 +16,7 @@ IEEE Pervasive Computing. </small><br>
 <small>**Rediscovering Affordance: A Reinforcement Learning Perspective**<br>
 <u>Yi-Chi Liao</u>, Kashyap Todi, Aditya Acharya, Antti Keurulainen, Andrew Howes, Antti Oulasvirta<br>
 In Proc. CHI 2022. (Direct acceptance rate = 12.5%)</small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[full video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]</small>
+<small>[[Project Page](https://userinterfaces.aalto.fi/affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[full video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]</small>
 
 
 <br>
