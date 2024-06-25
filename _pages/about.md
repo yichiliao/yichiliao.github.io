@@ -19,13 +19,13 @@ Selected Publications
 ======
 <br>
 **A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions** *[CHI '24, 38-page Paper]*<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f9QA-ElytQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxLGCKIEhjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <small>
-Selecting a target in a 3D environment is often challenging, especially with small/distant targets or when sensor noise is high. To facilitate selection, target-inference methods must be accurate, fast, and account for noise and motor variability. However, traditional data-free approaches fall short in accuracy since they ignore variability. While data-driven solutions achieve higher accuracy, they rely on extensive human datasets so prove costly, time-consuming, and transfer poorly. In this paper, we propose a novel approach that leverages biomechanical simulation to produce synthetic motion data, capturing a variety of movement-related factors, such as limb configurations and motor noise. Then, an inference model is trained with only the simulated data. Our simulation-based approach improves transfer and lowers cost; variety-rich data can be produced in large quantities for different scenarios. We empirically demonstrate that our method matches the accuracy of human-data-driven approaches using data from seven users. When deployed, the method accurately infers intended targets in challenging 3D pointing conditions within 5–10 milliseconds, reducing users' target-selection error by 71% and completion time by 35%.
+Wrist-based input often requires tuning parameter settings in correspondence to between-user and between-session differences, such as variations in hand anatomy, wearing position, posture, etc. Traditionally, users either work with predefined parameter values not optimized for individuals or undergo time-consuming calibration processes. We propose an online Bayesian Optimization (BO)-based method for rapidly determining the user-specific optimal settings of wrist-based pointing. Specifically, we develop a meta-Bayesian optimization (meta-BO) method, differing from traditional human-in-the-loop BO: By incorporating meta-learning of prior optimization data from a user population with BO, meta-BO enables rapid calibration of parameters for new users with a handful of trials. We evaluate our method with two representative and distinct wrist-based interactions: absolute and relative pointing. On a weighted-sum metric that consists of completion time, aiming error, and trajectory quality, meta-BO improves absolute pointing performance by 22.92% and 21.35% compared to BO and manual calibration, and improves relative pointing performance by 25.43% and 13.60%.
 </small>
 
 <small>In Proc. CHI '24 // 
-[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071:w)], [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]</small>
+[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642071)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071)], [[Video](https://www.youtube.com/watch?v=pxLGCKIEhjc)],  [[Presentation](https://www.youtube.com/watch?v=2mcCpN3DCyM)]</small>
 
 
 <br>
@@ -47,7 +47,7 @@ We propose an integrative theory of affordance-formation based on the theory of 
 </small>
 
 <small>In Proc. CHI '22 // 
-[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[full video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]</small>
+[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[Video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[Full Video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]</small>
 
 ------
 
@@ -59,7 +59,7 @@ In this paper, we study Bayesian optimization as an algorithmic method to guide 
 </small>
 
 <small>In Proc. CHI '22 //
-[[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[video](https://youtu.be/uK4o_2VY90E)],  [[full video](https://www.youtube.com/watch?v=T8ijVKkajwg)]</small>
+[[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[Video](https://youtu.be/uK4o_2VY90E)],  [[Full Video](https://www.youtube.com/watch?v=T8ijVKkajwg)]</small>
 
 ------
 
