@@ -9,13 +9,13 @@ author_profile: true
 <small>**A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions**<br>
 <u>Yi-Chi Liao</u>, Ruta Desai, Alec M Pierce, Krista E Taylor, Hrvoje Benko, Tanya R Jonker, Aakar Gupta<br>
 In Proc. CHI 2024. (Acceptance rate = 26.3%) </small><br>
-<small>[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642071), [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071)], [Video](https://www.youtube.com/watch?v=pxLGCKIEhjc),  [Presentation](https://www.youtube.com/watch?v=2mcCpN3DCyM)</small>
+<small>[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642071)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071)], [[Video](https://www.youtube.com/watch?v=pxLGCKIEhjc)],  [[Presentation](https://www.youtube.com/watch?v=2mcCpN3DCyM)]</small>
 
 <br>
 <small>**Real-time 3D Target Inference via Biomechanical Simulation**<br>
-Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta
+Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta<br>
 In Proc. CHI 2024. (Acceptance rate = 26.3%) </small><br>
-<small>[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131), [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [Video],  [Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)</small>
+<small>[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [Video],  [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]</small>
 
 <br>
 <small>**Cooperative Multi-Objective Bayesian Design Optimization**<br>
