@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi-Chi"
 title_separator          : "-"
 name                     : &name "Yi-Chi Liao"
-description              : &description "Ph.D. candidate / postdoc researcher."
+description              : &description "Fellowship postdoc researcher."
 url                      : https://yichiliao.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yichiliao/yichiliao.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Yi-Chi Liao"
   avatar           : "profile/yichi2-min.png"
-  bio              : "Ph.D. candidate <br> at Aalto University / <br> Postdoc <br> at Saarland University"
-  location         : "Saarbrücken, Germany"
+  bio              : "Fellowship Postdoc Researcher"
+  location         : "Zürich , Switzerland"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en"
-  email            : "yi-chi.liao@aalto.fi"
+  email            : "yichi.mdp@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
