@@ -10,12 +10,12 @@ redirect_from:
 # Moi (Hello in Finnish)! This is Yi-Chi!
 <br>
 <small>
-I’m a postdoc researcher in the [SIP Lab](https://siplab.org/) at [ETH Zürich](https://ethz.ch/en.html) (led by [Prof Christian Holz](https://www.christianholz.net/)) fully funded by the [ETH Zürich Postdoc Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html). I **advance human-in-the-loop optimization (HILO) frameworks for adaptive systems and streamlined human-AI co-design workflows**. HILO is a broad concept where the computational models learn directly from human performance, preferences, and feedback, iteratively improving designs with real-time observations. I advance HILO in three directions: (1) *Improving its efficiency for real-time interface adaptation*, (2) *Expanding the application scope of HILO to enable better human-AI co-design*, and (3) *Developing realistic human motion simulation to further enhance HILO*. I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (led by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). Previously, I was a postdoc researcher at [Saarland University](https://www.uni-saarland.de/en/home.html), supervised by both [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/). I also worked at [Meta Rality Labs](https://tech.fb.com/ar-vr/) as a research intern. Even before that, I received my bachelor’s and master’s degree at [National Taiwan University](https://www.ntu.edu.tw/english/). I have made [14 full-paper publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) in top-tier venues, including ACM CHI, UIST, TiiS, and IEEE PerCom. I have been serving as an Associate Chair for CHI and UIST, and was Video Preview Chair for CHI and Student Volunteer Chair for IUI. I also gave lectures on broad topics related to HCI and Computational Design.
+I’m a postdoc researcher in the [SIP Lab](https://siplab.org/) at [ETH Zürich](https://ethz.ch/en.html) (led by [Prof Christian Holz](https://www.christianholz.net/)) fully funded by the [ETH Zürich Postdoc Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html). I **advance human-in-the-loop optimization (HILO) frameworks for adaptive systems and streamlined human-AI co-design workflows**. HILO is a broad concept where the computational models learn directly from human performance, preferences, and feedback, iteratively improving designs with real-time observations. I advance HILO in three directions: (1) *Improving its efficiency for real-time interface adaptation*, (2) *Expanding the application scope of HILO to enable better human-AI co-design*, and (3) *Developing realistic human motion simulation to further enhance HILO*. I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). Previously, I was a postdoc researcher at [Saarland University](https://www.uni-saarland.de/en/home.html), supervised by both [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/). I also worked at [Meta Rality Labs](https://tech.fb.com/ar-vr/) as a research intern. Even before that, I received my bachelor’s and master’s degree at [National Taiwan University](https://www.ntu.edu.tw/english/). I have made [14 full-paper publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) in top-tier venues, including ACM CHI, UIST, TiiS, and IEEE PerCom. I have been serving as an Associate Chair for CHI and UIST, and was Video Preview Chair for CHI and Student Volunteer Chair for IUI. I also gave lectures on broad topics related to HCI and Computational Design.
 </small>
 
 ------
 
-Selected Publications (More to come!)
+Selected Publications (Last update: June, 2024)
 ======
 <br>
 **A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions** *[CHI '24, 38-page Paper]*<br>
@@ -140,10 +140,6 @@ ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the 
 Academic Activities
 ======
 
-<small>
-**Research Internship**<br>
-Facebook Reality Labs, 2022 (start in May, 2022). <br>
-</small><br>
 <small>
 **Organizing Committee:** <br>
 ACM CHI 2022 Video Preview Chair<br>
