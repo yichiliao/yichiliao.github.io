@@ -141,17 +141,21 @@ Academic Activities
 ======
 
 <small>
-**Organizing Committee:** <br>
-ACM CHI 2022 Video Preview Chair<br>
-ACM IUI 2022 Student Volunteer Chair<br>
-</small>
-<br>
-<small>
 **Program Committee:** <br>
+ACM CHI 2024, 2025 Paper<br>
+ACM UIST 2024, 2025 Paper<br>
 ACM CHI 2021, 2022 Late-Breaking Work<br>
 ACM TEI 2022 Work-in-Progress<br>
 </small>
 <br>
+
+<small>
+**Organizing Committee:** <br>
+ACM CHI 2022 - 2024 Video Preview Chair<br>
+ACM IUI 2022 Student Volunteer Chair<br>
+</small>
+<br>
+
 <small>
 **Paper Review:** <br>
 IEEE Transactions on Haptics: 2019, 2021<br>
@@ -168,18 +172,18 @@ Augmented Human: 2016-2017<br>
 <br>
 <small>
 **Special Recognitions for Outstanding Reviews:** <br>
+1 x recognition for IUI 2025 Papers <br>
+2 x recognitions for CHI 2024 Late-Breaking Work <br>
+1 x recognition for UIST 2022 Papers <br>
 3 x recognition for CHI 2021 Papers <br>
 1 x recognition for CHI 2020 Papers <br>
 </small>
 
 ------
 
-Other Activities
+TEACHING
 ======
 
-<small>
-Research intern at [Meta Reality Labs](https://tech.fb.com/ar-vr/).
-</small>
 
 <small>
 In 2020, I gave a lecture about **Bayesian Statistics** and its applications in _User Research_ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in _Computational User Interface Design_, Aalto University (by Prof. Antti Oulasvirta).
