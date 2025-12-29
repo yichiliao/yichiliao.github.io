@@ -30,22 +30,22 @@ IEEE Pervasive Computing, 2023. </small><br>
 ## Conference Full Papers
 
 <br>
-<small>**[15] Redefining Affordance via Computational Rationality**<br>
+<small>**[20] Redefining Affordance via Computational Rationality**<br>
 <u>Yi-Chi Liao</u>, Christian Holz<br>
 In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
 <small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
 
 <br>
-<small>**[15] Redefining Affordance via Computational Rationality**<br>
+<small>**[19] Redefining Affordance via Computational Rationality**<br>
 <u>Yi-Chi Liao</u>, Christian Holz<br>
 In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
 <small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
 
 <br>
-<small>**[15] Redefining Affordance via Computational Rationality**<br>
-<u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
-<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+<small>**[18] Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**<br>
+Ying Xue,  Jiaxi Jiang, Rayan Armani, Dominik Hollidt, <u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of IEEE International Conference on Computer Vision (ICCV) 2025. (Acceptance rate = 24.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/GroupInertialPoser)], [[Paper](https://arxiv.org/abs/2510.21654)], [[Video](https://www.youtube.com/watch?v=6PrZR7REcQg)]</small>
 
 <br>
 <small>**[17] Continual Human-in-the-Loop Optimization**<br>
