@@ -86,16 +86,16 @@ In Proc. UIST 2016. (Acceptance rate = 20%) </small><br>
 Conference Extended Abstracts
 
 <br>
-<small>**[2] ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
-<u>Yi-Chi Liao</u>, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
-In Proc. Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
+<small>**[6] Computational Assistance for User Interface Design: Smarter Generation and Evaluation of Design Ideas**<br>
+Lena Hegemann, Yue Jiang, Joon-Gi Shin,  <u>Yi-Chi Liao</u>, Markku Laine, and Antti Oulasvirta<br>
+In Proceedings of CHI 2023 Adjunct.</small><br>
+<small>[[Paper](https://dl.acm.org/doi/pdf/10.1145/3544549.3583960)]</small>
   
 <br>
-<small>**[2] ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
-<u>Yi-Chi Liao</u>, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
-In Proc. Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </small><br>
-<small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
+<small>**[5] Computational Workflows for Designing Input Devices**<br>
+<u>Yi-Chi Liao</u><br>
+In Proceedings of CHI 2021 Adjunct. </small><br>
+<small>[[Paper](https://arxiv.org/pdf/2101.10032.pdf)]</small>
   
 <br>
 <small>**[4] Press'Em: Simulating Varying Button Tactility via FDVV Models**<br>
