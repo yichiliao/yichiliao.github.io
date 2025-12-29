@@ -51,7 +51,7 @@ In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
 <small>**[17] Continual Human-in-the-Loop Optimization**<br>
 <u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christopgh Gebhardt, and Christian Holz<br>
 In Proceedings of CHI 2025. (Acceptance rate = 24.9%) </small><br>
-Honorable Mentioned Award (Top 5% of submissions) </small><br>
+<small>**Honorable Mentioned Award** (top 5% of submissions) </small><br>
 <small>[[Project Page](https://siplab.org/projects/Continual_Human-in-the-Loop_Optimization)], [[Paper](https://arxiv.org/abs/2503.05405)]</small>
 
 <br>
@@ -76,7 +76,7 @@ In Proceedings of CHI 2024. (Acceptance rate = 26.3%) </small><br>
 <small>**[13] Real-time 3D Target Inference via Biomechanical Simulation**<br>
 Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta<br>
 In Proceedings of CHI 2024. (Acceptance rate = 26.3%) </small><br>
-Honorable Mentioned Award (Top 5% of submissions) </small><br>
+<small>**Honorable Mentioned Award** (top 5% of submissions) </small><br>
 <small>[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [Video],  [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]</small>
 
 <br>
@@ -90,7 +90,7 @@ In Proceedings of CHI 2022. (Direct acceptance rate = 12.5%)</small><br>
 <small>**[11] Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques**<br>
 Liwei Chan, <u>Yi-Chi Liao</u>, George B. Mo, John J. Dudley, Chun-Lien Cheng, Per Ola Kristensson, Antti Oulasvirta<br>
 In Proceedings of CHI 2022. (Direct acceptance rate = 12.5%)</small><br>
-<small>Honorable Mention Award</small><br>
+<small>**Honorable Mention Award** (top 5% of submissions)</small><br>
 <small>[[Project Page](https://userinterfaces.aalto.fi/dit/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[Video](https://youtu.be/uK4o_2VY90E)],  [[Full video](https://www.youtube.com/watch?v=T8ijVKkajwg)]</small>
 
 <br>
