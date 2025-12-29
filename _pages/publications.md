@@ -36,6 +36,36 @@ In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
 <small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
 
 <br>
+<small>**[15] Redefining Affordance via Computational Rationality**<br>
+<u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+
+<br>
+<small>**[15] Redefining Affordance via Computational Rationality**<br>
+<u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+
+<br>
+<small>**[17] Continual Human-in-the-Loop Optimization**<br>
+<u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+
+<br>
+<small>**[16] 3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs**<br>
+Artin Saberpour Abadian, <u>Yi-Chi Liao</u>, Ata Otaran, Rishabh Dabral, Marie Muehlhaus, Christian Theobalt, Martin Schmitz, Jürgen Steimle<br>
+In Proceedings of CHI 2025. (Acceptance rate = 24.9%) </small><br>
+<small>[[Project Page](https://arxiv.org/abs/2503.04635)], [[Paper](https://arxiv.org/abs/2503.04635)]</small>
+
+<br>
+<small>**[15] Redefining Affordance via Computational Rationality**<br>
+<u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+
+<br>
 <small>**[14] A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions**<br>
 <u>Yi-Chi Liao</u>, Ruta Desai, Alec M Pierce, Krista E Taylor, Hrvoje Benko, Tanya R Jonker, Aakar Gupta<br>
 In Proceedings of CHI 2024. (Acceptance rate = 26.3%) </small><br>
