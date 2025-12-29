@@ -26,7 +26,7 @@ IEEE Pervasive Computing, 2023. </small><br>
 
 --- 
 
-Conference Full Papers
+## Conference Full Papers
 
 <br>
 <small>**[14] A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions**<br>
@@ -81,7 +81,7 @@ In Proceedings of UIST 2016. (Acceptance rate = 20%) </small><br>
 
 --- 
 
-Conference Extended Abstracts
+## Conference Extended Abstracts
 
 <br>
 <small>**[6] Computational Assistance for User Interface Design: Smarter Generation and Evaluation of Design Ideas**<br>
