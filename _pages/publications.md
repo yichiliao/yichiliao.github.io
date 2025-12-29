@@ -29,6 +29,12 @@ IEEE Pervasive Computing, 2023. </small><br>
 ## Conference Full Papers
 
 <br>
+<small>**[15] Redefining Affordance via Computational Rationality**<br>
+<u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+
+<br>
 <small>**[14] A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions**<br>
 <u>Yi-Chi Liao</u>, Ruta Desai, Alec M Pierce, Krista E Taylor, Hrvoje Benko, Tanya R Jonker, Aakar Gupta<br>
 In Proceedings of CHI 2024. (Acceptance rate = 26.3%) </small><br>
