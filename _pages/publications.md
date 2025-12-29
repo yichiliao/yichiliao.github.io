@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Papers
+# Journal Papers
 <br>
-<small>**[23] Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
+**[23] Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
 <u>Yi-Chi Liao</u>, George B Mo, John J Dudley, Chun-Lien Cheng, Liwei Chan, Per Ola Kristensson, Antti Oulasvirta<br>
-ACM Collective Intelligence , 2024. </small><br>
-<small>[Project Page], [[Paper](https://journals.sagepub.com/doi/full/10.1177/26339137241241313)], [Video],  [Full video]</small>
+ACM Collective Intelligence , 2024. <br>
+[Project Page], [[Paper](https://journals.sagepub.com/doi/full/10.1177/26339137241241313)], [Video],  [Full video]
 
 <br>
 <small>**[22] Cooperative Multi-Objective Bayesian Design Optimization**<br>
