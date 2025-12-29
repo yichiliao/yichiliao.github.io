@@ -30,16 +30,16 @@ IEEE Pervasive Computing, 2023. </small><br>
 ## Conference Full Papers
 
 <br>
-<small>**[20] Redefining Affordance via Computational Rationality**<br>
-<u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
-<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+<small>**[20] Preference-Guided Multi-Objective UI Adaptation**<br>
+Yao Song, Christoph Gebhardt, <u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of UIST 2025. (Acceptance rate = 22.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Preference-guided_UI_Adaptation)], [[Paper](https://arxiv.org/abs/2509.18960)], [[Video](https://www.youtube.com/watch?v=4b2kIEvvpAA)]</small>
 
 <br>
-<small>**[19] Redefining Affordance via Computational Rationality**<br>
-<u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
-<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+<small>**[19] Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
+Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz<br>
+In Proceedings of UIST 2025. (Acceptance rate = 22.0%) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Visual_Appearance_Optimization)], [[Paper](https://arxiv.org/abs/2507.15355)], [[Video](https://www.youtube.com/watch?v=Y5xcQQJk-O0)]</small>
 
 <br>
 <small>**[18] Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging**<br>
