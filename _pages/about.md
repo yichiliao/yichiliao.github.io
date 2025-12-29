@@ -13,9 +13,9 @@ I’m a postdoctoral fellow in [SIPLab](https://siplab.org/) at [ETH Zürich](ht
 My contributions are in three directions: (1) expanding HILO's scope to tasks consider multiple design objectives and physical interactions, (2) enhancing its optimization efficiency for real-time interface adaptation, and (3) developing more advanced methods for further scale HILO with growing data. 
 <br>
 <br>
-<small>
+<medium>
 Previously, I was a postdoc researcher at [Saarland University](https://www.uni-saarland.de/en/home.html), supervised by both [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/). I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with my dissertation titled [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). Even before that, I received my bachelor’s and master’s degree at [National Taiwan University](https://www.ntu.edu.tw/english/). I have made [17 full-paper publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. I have been serving as an Associate Chair for CHI and UIST since 2024, and was Video Preview Chair for CHI and Student Volunteer Chair for IUI. I also gave lectures on broad topics related to HCI and Computational Design.
-</small>
+</medium>
 
 ------
 
