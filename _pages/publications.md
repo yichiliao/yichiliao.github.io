@@ -79,7 +79,12 @@ In Proc. UIST 2017. (Acceptance rate = 22%)</small><br>
 <u>Yi-Chi Liao</u>, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen <br>
 In Proc. UIST 2016. (Acceptance rate = 20%) </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](http://yichiliao.github.io/files/edgevib_uist16.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)], [[Presentation](https://www.youtube.com/watch?v=4aogj5g-Ft0)], [[Slide](https://goo.gl/mpHQ70)]</small>
-  
+
+
+--- 
+
+Conference Extended Abstracts
+
 <br>
 <small>**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
 <u>Yi-Chi Liao</u>, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
@@ -87,7 +92,7 @@ In Proc. Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </smal
 <small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
   
 <br>
-<small>**fStrip: a Malleable Shape-retaining Wearable Strip for Interface On-demand**<br>
+<small>**[1] fStrip: a Malleable Shape-retaining Wearable Strip for Interface On-demand**<br>
 Chin-Yu Chien, Cheng-Yuan Li, Liwei Chan, <u>Yi-Chi Liao</u>, Rong-Hao Liang, Hao-Hua Chu, Bing-Yu Chen<br>
 In Proc. UbiComp 2015 adjunct. </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/6-fstrip/)], [[Paper](http://dl.acm.org/citation.cfm?id=2800883&CFID=944733130&CFTOKEN=32899269)]</small>

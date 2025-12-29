@@ -29,6 +29,17 @@ Wrist-based input often requires tuning parameter settings in correspondence to 
 
 
 <br>
+**A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions** *[CHI '24, 38-page Paper]*<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxLGCKIEhjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<small>
+Wrist-based input often requires tuning parameter settings in correspondence to between-user and between-session differences, such as variations in hand anatomy, wearing position, posture, etc. Traditionally, users either work with predefined parameter values not optimized for individuals or undergo time-consuming calibration processes. We propose an online Bayesian Optimization (BO)-based method for rapidly determining the user-specific optimal settings of wrist-based pointing. Specifically, we develop a meta-Bayesian optimization (meta-BO) method, differing from traditional human-in-the-loop BO: By incorporating meta-learning of prior optimization data from a user population with BO, meta-BO enables rapid calibration of parameters for new users with a handful of trials. We evaluate our method with two representative and distinct wrist-based interactions: absolute and relative pointing. On a weighted-sum metric that consists of completion time, aiming error, and trajectory quality, meta-BO improves absolute pointing performance by 22.92% and 21.35% compared to BO and manual calibration, and improves relative pointing performance by 25.43% and 13.60%.
+</small>
+
+<small>In Proc. CHI '24 // 
+[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642071)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071)], [[Video](https://www.youtube.com/watch?v=pxLGCKIEhjc)],  [[Presentation](https://www.youtube.com/watch?v=2mcCpN3DCyM)]</small>
+
+
+<br>
 **Real-time 3D Target Inference via Biomechanical Simulation** *[CHI '24, 18-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9QA-ElytQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <small>
