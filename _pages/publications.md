@@ -49,9 +49,10 @@ In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
 
 <br>
 <small>**[17] Continual Human-in-the-Loop Optimization**<br>
-<u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of IUI 2025. (Acceptance rate = 25.0%) </small><br>
-<small>[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)]</small>
+<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christopgh Gebhardt, and Christian Holz<br>
+In Proceedings of CHI 2025. (Acceptance rate = 24.9%) </small><br>
+Honorable Mentioned Award (Top 5% of submissions) </small><br>
+<small>[[Project Page](https://siplab.org/projects/Continual_Human-in-the-Loop_Optimization)], [[Paper](https://arxiv.org/abs/2503.05405)]</small>
 
 <br>
 <small>**[16] 3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs**<br>
@@ -75,6 +76,7 @@ In Proceedings of CHI 2024. (Acceptance rate = 26.3%) </small><br>
 <small>**[13] Real-time 3D Target Inference via Biomechanical Simulation**<br>
 Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta<br>
 In Proceedings of CHI 2024. (Acceptance rate = 26.3%) </small><br>
+Honorable Mentioned Award (Top 5% of submissions) </small><br>
 <small>[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [Video],  [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]</small>
 
 <br>
