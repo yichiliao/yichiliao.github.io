@@ -4,6 +4,19 @@ title: "Publication List"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<small>**Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
+<u>Yi-Chi Liao</u>, George B Mo, John J Dudley, Chun-Lien Cheng, Liwei Chan, Per Ola Kristensson, Antti Oulasvirta<br>
+ACM Affective Computing, 2024. </small><br>
+<small>[Project Page], [[Paper](https://journals.sagepub.com/doi/full/10.1177/26339137241241313)], [Video],  [Full video]</small>
+
+<br>
+<small>**Cooperative Multi-Objective Bayesian Design Optimization**<br>
+George B Mo, John J Dudley, Liwei Chan, <u>Yi-Chi Liao</u>, Antti Oulasvirta, Per Ola Kristensson<br>
+ACM TiiS 2024. </small><br>
+<small>[Project Page], [[Paper](https://dl.acm.org/doi/full/10.1145/3657643)], [Video],  [Full Video]</small>
+
 <br>
 <small>**Interaction Design With Multi-objective Bayesian Optimization**<br>
 <u>Yi-Chi Liao</u>, John J Dudley, George B Mo, Chun-Lien Cheng, Liwei Chan, Antti Oulasvirta, Per Ola Kristensson<br>
@@ -25,20 +38,6 @@ In Proc. CHI 2024. (Acceptance rate = 26.3%) </small><br>
 Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta<br>
 In Proc. CHI 2024. (Acceptance rate = 26.3%) </small><br>
 <small>[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [Video],  [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]</small>
-
-<br>
-<small>**Cooperative Multi-Objective Bayesian Design Optimization**<br>
-George B Mo, John J Dudley, Liwei Chan, <u>Yi-Chi Liao</u>, Antti Oulasvirta, Per Ola Kristensson<br>
-ACM TiiS 2024. </small><br>
-<small>[Project Page], [[Paper](https://dl.acm.org/doi/full/10.1145/3657643)], [Video],  [Full Video]</small>
-
-<br>
-<small>**Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
-<u>Yi-Chi Liao</u>, George B Mo, John J Dudley, Chun-Lien Cheng, Liwei Chan, Per Ola Kristensson, Antti Oulasvirta<br>
-ACM Affective Computing, 2024. </small><br>
-<small>[Project Page], [[Paper](https://journals.sagepub.com/doi/full/10.1177/26339137241241313)], [Video],  [Full video]</small>
-
-
 
 <br>
 <small>**[12] Rediscovering Affordance: A Reinforcement Learning Perspective**<br>
