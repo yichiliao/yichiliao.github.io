@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Journal Papers
+## Journal Papers
 <br>
 **[23] Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
 <u>Yi-Chi Liao</u>, George B Mo, John J Dudley, Chun-Lien Cheng, Liwei Chan, Per Ola Kristensson, Antti Oulasvirta<br>
