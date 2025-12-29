@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Full Paper Publications"
+title: "Publication List"
 permalink: /publications/
 author_profile: true
 ---
@@ -86,15 +86,39 @@ In Proc. UIST 2016. (Acceptance rate = 20%) </small><br>
 Conference Extended Abstracts
 
 <br>
-<small>**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
+<small>**[2] ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
 <u>Yi-Chi Liao</u>, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
 In Proc. Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
   
 <br>
+<small>**[2] ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
+<u>Yi-Chi Liao</u>, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
+In Proc. Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
+  
+<br>
+<small>**[4] Press'Em: Simulating Varying Button Tactility via FDVV Models**<br>
+<u>Yi-Chi Liao</u>, Sunjun Kim, Byungjoo Lee, Antti Oulasvirta<br>
+In Proceedings of CHI 2020 Adjunct. </small><br>
+<small>[[Project Page](https://userinterfaces.aalto.fi/button-design/)], [[Paper](https://dl.acm.org/doi/10.1145/3334480.3383161)], [[Video](https://www.youtube.com/watch?v=OL2x3RrWnv4)]</small>
+  
+<br>
+<small>**[3] One Button to Rule Them All: Rendering Arbitrary Force-Displacement Curves**<br>
+<u>Yi-Chi Liao</u>, Sunjun Kim, Antti Oulasvirta<br>
+In Proceedings of the UIST 2018 Adjunct. </small><br>
+<small>[[Project Page](https://userinterfaces.aalto.fi/button-simulator/)], [[Paper](https://dl.acm.org/doi/10.1145/3266037.3266118)], [[Video](https://www.youtube.com/watch?v=60v89vRLXck)]</small>
+  
+<br>
+<small>**[2] ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback**<br>
+<u>Yi-Chi Liao</u>, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen<br>
+In Proceedings of Siggraph Asia 2015 Emerging Technology. (Acceptance rate = 30%). </small><br>
+<small>[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]</small>
+  
+<br>
 <small>**[1] fStrip: a Malleable Shape-retaining Wearable Strip for Interface On-demand**<br>
 Chin-Yu Chien, Cheng-Yuan Li, Liwei Chan, <u>Yi-Chi Liao</u>, Rong-Hao Liang, Hao-Hua Chu, Bing-Yu Chen<br>
-In Proc. UbiComp 2015 adjunct. </small><br>
+In Proceedings of UbiComp 2015 adjunct. </small><br>
 <small>[[Project Page](https://yichiliao.github.io/portfolio/6-fstrip/)], [[Paper](http://dl.acm.org/citation.cfm?id=2800883&CFID=944733130&CFTOKEN=32899269)]</small>
 
 {% if author.googlescholar %}
