@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 # **Yi-CHi Liao (廖以圻)**
-I am a postdoctoral fellow in [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at the Department of Computer Science, [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html). My research lies at the intersection of computational interaction and design optimization. I develop novel **human-in-the-loop optimization** methods that enable interactive systems to learn directly from human behavior and preferences to automatically optimize interface designs, supporting **efficient interface adaptation and scalable human–AI collaboration**.
+**Postdoctoral fellow in [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)** 
+
+My research lies at the intersection of computational interaction and design optimization. I develop novel **human-in-the-loop optimization** methods that enable interactive systems to learn directly from human behavior and preferences to automatically optimize interface designs, supporting **efficient interface adaptation and scalable human–AI collaboration**.
 <br>
 <br>
 I have made 17 full-paper publications in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
