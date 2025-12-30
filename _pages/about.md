@@ -216,15 +216,8 @@ I constantly review papers for top-tier venues, including ACM CHI, UIST, TEI, Mo
 
 # Teaching
 
+At **ETH Zürich**, I teach and organize courses that introduce computational and learning-based perspectives to Human–Computer Interaction at both undergraduate and graduate levels. I lecture in the Bachelor’s *Introduction to Human-Computer Interaction* course, covering core topics in computational interaction, including visual search and design, input devices, experiment design, adaptive interfaces, optimization, and computational rationality. These lectures emphasize how formal models and learning methods can be used to analyze and design interactive systems.
 
-In 2020, I gave a lecture about **Bayesian Statistics** and its applications in _User Research_ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in _Computational User Interface Design_, Aalto University (by Prof. Antti Oulasvirta).
+I am also the main organizer for two seminar courses at ETH Zürich: *Adaptive User Interfaces via Machine Learning* (undergraduate) and *Reinforcement Learning for Modeling Humans* (graduate). In these seminars, students read and discuss recent research, critically analyze methods, and develop their own research ideas, with a strong focus on connecting theory to emerging HCI problems.
 
-
-
-In 2019, I gave a lecture in _Computational User Interface Design_ course, Aalto University (by Prof. Antti Oulasvirta) for introducing **Probilistic Decoding**. In another course, _Engineering for Humans_, Aalto University (by Prof. Antti Oulasvirta), I talked about **Input Sensing Pipeline and Data Processing**.
-
-
-
-During 2014 to 2016, I've been a teaching assistant of _Introduction to HCI_ (lectured by [Prof. Rong-Hao Liang](http://www.cmlab.csie.ntu.edu.tw/~howieliang/) and [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)), and _Computer Architecture_ (lectured by [Prof. Bing-Yu Chen](https://www.cmlab.csie.ntu.edu.tw/~robin/)) in National Taiwan University.
-
-
+Previously at **Aalto University**, I lectured in the Master’s-level *Computational Interface Design* course, teaching topics such as input and sensing, Bayesian optimization, deep learning for HCI, and probabilistic inference. I also gave guest lectures in *User Research* on Bayesian statistics and probabilistic programming, introducing rigorous statistical foundations for user-centered research and evaluation.
