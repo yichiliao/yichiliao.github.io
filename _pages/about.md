@@ -18,6 +18,7 @@ My research sits at the intersection of computational interaction and design opt
 I have made 17 full-paper publications in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
 Jointly, these works advance human-in-the-loop optimization in interface/interaction design along three directions: (1) expanding its scope to address increasingly complex design tasks, (2) improving optimization efficiency to enable real-time interface adaptation, and (3) scaling these methods with large-scale, growing interaction data.
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
+**For a detailed overview of my research agenda and future directions, see my [Research Statement](https://yichiliao.com/files/Research-Statement_LIAO.pdf).
 <br>
 <br>
 Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). 
