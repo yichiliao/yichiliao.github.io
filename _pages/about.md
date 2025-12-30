@@ -30,9 +30,7 @@ Selected Publications
 **Preference-Guided Multi-Objective UI Adaptation**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4b2kIEvvpAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Adjusting visual parameters such as brightness and contrast is common in our everyday experiences. 
-Finding the optimal parameter setting is challenging due to the large search space and the lack of an explicit objective function, leaving users to rely solely on their implicit preferences. 
-We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimization with meta-learning to improve sample efficiency. Specifically, Meta-PO infers prior users’ preferences and stores them as models, which are leveraged to intelligently suggest design candidates for the new users, enabling rapid convergence and more personalized visual filter design. 
+3D Mixed Reality interfaces have nearly unlimited space for layout placement, making automatic UI adaptation crucial for enhancing the user experience. Such adaptation is often formulated as a multi-objective optimization (MOO) problem, where multiple, potentially conflicting design objectives must be balanced. We propose a novel optimization approach that efficiently determines user preferences from a minimal number of UI element adjustments. These determined rankings are translated into priority levels, which then drive our priority-based MOO algorithm. By focusing the search on user-preferred solutions, our method not only identifies UIs that are more aligned with user preferences, but also automatically selects the final design from the Pareto frontier; ultimately, it minimizes user effort while ensuring personalized layouts.
 
 *Yao Song, Christoph Gebhardt, <u>Yi-Chi Liao</u>, Christian Holz*<br>
 *In Proc. UIST '25 // 
