@@ -65,6 +65,18 @@ While human-in-the-loop optimization has the potential to identify optimal setti
 *In Proc. CHI '25 **Honorable Mentioned Award** // 
 [[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2503.05405)], [[Video](https://www.youtube.com/watch?v=_lMF20yep3s)]*
 
+------
+
+<br>
+**Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging (ICCV '25)**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PrZR7REcQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Tracking human full-body motion using sparse wearable inertial measurement units (IMUs) overcomes the limitations of occlusion and instrumentation of the environment inherent in vision-based approaches. We present a novel approach for robustly estimating body poses and global translation for multiple individuals by leveraging the distances between sparse wearable sensors-both on each individual and across different people. Our method Group Inertial Poser estimates these absolute distances between pairs of sensors from ultra-wideband ranging (UWB) and fuses them with inertial observations as input into structured state-space models to integrate temporal motion patterns for precise 3D pose estimation. Our novel two-step optimization further leverages the estimated distances for accurately tracking people's global trajectories through the world.
+
+*Ying Xue, Jiaxi Jiang, Rayan Armani, Dominik Hollidt, <u>Yi-Chi Liao</u>, Christian Holz*<br>
+*In Proc. ICCV '25 // 
+[[Project Page](https://siplab.org/projects/GroupInertialPoser)], [[Paper](https://arxiv.org/abs/2510.21654)], [[Video](https://www.youtube.com/watch?v=6PrZR7REcQg)]*
+
 
 ------
 
