@@ -30,7 +30,7 @@ Selected Publications
 **Preference-Guided Multi-Objective UI Adaptation**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4b2kIEvvpAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3D Mixed Reality interfaces have nearly unlimited space for layout placement, making automatic UI adaptation crucial for enhancing the user experience. Such adaptation is often formulated as a multi-objective optimization (MOO) problem, where multiple, potentially conflicting design objectives must be balanced. We propose a novel optimization approach that efficiently determines user preferences from a minimal number of UI element adjustments. These determined rankings are translated into priority levels, which then drive our priority-based MOO algorithm. By focusing the search on user-preferred solutions, our method not only identifies UIs that are more aligned with user preferences, but also automatically selects the final design from the Pareto frontier; ultimately, it minimizes user effort while ensuring personalized layouts.
+3D Mixed Reality interfaces have nearly unlimited space for layout placement, making automatic UI adaptation crucial for enhancing the user experience. Such adaptation is often formulated as a multi-objective optimization (MOO) problem, where multiple, potentially conflicting design objectives must be balanced. We propose a novel optimization approach that efficiently determines user preferences from a minimal number of UI element adjustments. These determined rankings are translated into priority levels, which then drive our priority-based MOO algorithm. By focusing the search on user-preferred solutions, our method not only identifies UIs that are more aligned with user preferences, but also automatically and efficiently selects the personalized design.
 
 *Yao Song, Christoph Gebhardt, <u>Yi-Chi Liao</u>, Christian Holz*<br>
 *In Proc. UIST '25 // 
@@ -55,6 +55,33 @@ We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimiz
 
 ------
 
+<br>
+**Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5xcQQJk-O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Adjusting visual parameters such as brightness and contrast is common in our everyday experiences. 
+Finding the optimal parameter setting is challenging due to the large search space and the lack of an explicit objective function, leaving users to rely solely on their implicit preferences. 
+We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimization with meta-learning to improve sample efficiency. Specifically, Meta-PO infers prior users’ preferences and stores them as models, which are leveraged to intelligently suggest design candidates for the new users, enabling rapid convergence and more personalized visual filter design. 
+
+*Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz*<br>
+*In Proc. UIST '25 // 
+[[Project Page](https://siplab.org/projects/Visual_Appearance_Optimization)], [[Paper](https://arxiv.org/abs/2507.15355)], [[Video](https://www.youtube.com/watch?v=Y5xcQQJk-O0)]*
+
+
+------
+
+<br>
+**Redefining Affordance via Computational Rationality**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gGQF2cTdk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This paper introduces a novel affordance theory grounded in Computational Rationality, positing that humans construct internal representations of the world based on bounded sensory inputs. Within these internal models, affordances are inferred through two core mechanisms: feature recognition and hypothetical motion trajectories. Our theory redefines affordance perception as a decision-making process, driven by two components: confidence (the perceived likelihood of successfully executing an action) and predicted utility (the expected value of the outcome). By balancing these factors, individuals make informed decisions about which actions to take. 
+
+*<u>Yi-Chi Liao</u>, Christian Holz*<br>
+*In Proc. IUI '25 // 
+[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2501.09233)], [[Video](https://www.youtube.com/watch?v=6gGQF2cTdk0)]*
+
+
+------
 <br>
 **A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions.** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxLGCKIEhjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
