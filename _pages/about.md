@@ -221,3 +221,10 @@ At **ETH Zürich**, I teach and organize courses that introduce computational an
 I am also the main organizer for two seminar courses at ETH Zürich: *Adaptive User Interfaces via Machine Learning* (undergraduate) and *Reinforcement Learning for Modeling Humans* (graduate). In these seminars, students read and discuss recent research, critically analyze methods, and develop their own research ideas, with a strong focus on connecting theory to emerging HCI problems.
 
 Previously at **Aalto University**, I lectured in the Master’s-level *Computational Interface Design* course, teaching topics such as input and sensing, Bayesian optimization, deep learning for HCI, and probabilistic inference. I also gave guest lectures in *User Research* on Bayesian statistics and probabilistic programming, introducing rigorous statistical foundations for user-centered research and evaluation.
+
+
+------
+
+# Supervision 
+
+I always welcome motivated students from **ETH Zürich** and the **University of Zurich** to conduct Bachelor’s and Master’s theses with me. I am particularly happy to supervise thesis projects related to computational interaction, adaptive user interfaces, human–AI interaction, and optimization- and learning-based approaches to support interface design. Previously, students I have supervised have gone on to publish their work at top-tier international conferences. I encourage students who are interested in research-oriented, interdisciplinary projects to reach out to me via [email](mailto:yichi.liao@inf.ethz.ch).
