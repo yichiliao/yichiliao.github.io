@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral fellow in [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at the Department of Computer Science, [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html). My research lies at the intersection of computational interaction and design optimization. I develop **human-in-the-loop optimization** methods that enable interactive systems to learn directly from human behavior and preferences to automatically optimize interface designs, supporting **efficient interface adaptation and scalable human–AI collaboration**.
 <br>
 <br>
-My work advances optimization in interface design along three directions: (1) expanding its scope to address increasingly complex and open-ended design tasks, (2) improving optimization efficiency to enable real-time interface adaptation, and (3) scaling these methods with growing interaction data and prior experience.
+My work advances optimization in interface design along three directions: (1) *expanding its scope to address increasingly complex and open-ended design tasks*, (2) *improving optimization efficiency to enable real-time interface adaptation*, and (3) *scaling these methods with large-scale, growing interaction data*.
 I have made 17 full-paper publications in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
 <br>
@@ -57,7 +57,7 @@ Selecting a target in a 3D environment is often challenging, especially with sma
 
 
 *Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta<br>*
-*In Proc. CHI '24 Honorable Mentioned Award // 
+*In Proc. CHI '24 **Honorable Mentioned Award** // 
 [[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]*
 
 
@@ -77,28 +77,30 @@ We propose an integrative theory of affordance-formation based on the theory of 
 ------
 
 <br>
-**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques** *[CHI '22, 13-page Paper, Honorable Mention]*<br>
+**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uK4o_2VY90E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this paper, we study Bayesian optimization as an algorithmic method to guide the design optimization process. It operates by proposing to a designer which design candidate to try next, given previous observations. We report observations from a comparative study with 40 novice designers who were tasked to optimize a complex 3D touch interaction technique. The optimizer helped designers explore larger proportions of the design space and arrive at a better solution, however they reported lower agency and expressiveness. Designers guided by an optimizer reported lower mental effort but also felt less creative and less in charge of the progress. We conclude that human-in-the-loop optimization can support novice designers in cases where agency is not critical.
 
 
-In Proc. CHI '22 //
-[[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[Video](https://youtu.be/uK4o_2VY90E)],  [[Full Video](https://www.youtube.com/watch?v=T8ijVKkajwg)]
+*Liwei Chan, <u>Yi-Chi Liao</u>, George B. Mo, John J. Dudley, Chun-Lien Cheng, Per Ola Kristensson, Antti Oulasvirta*<br>
+*In Proc. CHI '22 **Honorable Mentioned Award** //
+[[Project Page](https://yichiliao.github.io/portfolio/8-investigating/)], [[Paper](https://arxiv.org/pdf/2204.07641.pdf)], [[Video](https://youtu.be/uK4o_2VY90E)],  [[Full Video](https://www.youtube.com/watch?v=T8ijVKkajwg)]*
 
 ------
 
 
 <br>
-**Button Simulation and Design via FDVV Models** *[CHI '20, 10-page Paper]*<br>
+**Button Simulation and Design via FDVV Models**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
 
 
 Designing a push-button with desired sensation and performance is challenging because the mechanical construction must have the right response characteristics. In this paper, we extend the typical force-displacement (FD) modeling to include vibration (V) and velocity-dependence characteristics (V). The resulting FDVV models better capture tactility characteristics of buttons. They increase the range of simulated buttons and the perceived realism relative to FD models. The paper also demonstrates methods for obtaining these models, editing them, and simulating accordingly. Our approach enables the analysis, prototyping, and optimization of buttons, and supports exploring designs that would be hard to implement mechanically.
 
 
-In Proc. CHI '20 // 
-[[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[30s Video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[Full Video](https://www.youtube.com/watch?v=hOi_7O7USaI)]. 
+*<u>Yi-Chi Liao</u>, Sunjun Kim, Byungjoo Lee, Antti Oulasvirta<br>*
+*In Proc. CHI '20 // 
+[[Project Page](https://yichiliao.github.io/portfolio/0-buttondesign/)], [[Paper](http://yichiliao.github.io/files/dwellplus_uist17.pdf)], [[30s Video](https://www.youtube.com/watch?v=gE7v3Ai5bFk)], [[Full Video](https://www.youtube.com/watch?v=hOi_7O7USaI)]. *
 
 ------
 
