@@ -147,17 +147,6 @@ ACM IUI 2022 Student Volunteer Chair<br>
 
 Beyond serving in program and organizing committees, I also constantly review papers for top-tier venues, including ACM CHI, UIST, TEI, MobileHCI, ToCHI, IJHCS, IEEE Transactions on Haptics, Haptics Symposium, etc. Please see my [CV](https://yichiliao.com/files/YiChi_Liao.pdf).
 
-**Paper Review:** <br>
-IEEE Transactions on Haptics: 2019, 2021<br>
-IEEE World Haptics Conference: 2021<br>
-International Journal of Human - Computer Studies: 2021<br>
-ACM CHI: 2016-2022 <br>
-ACM Creativity and Cognition: 2021<br>
-IEEE Haptics Symposium: 2020<br>
-ACM MobileHCI: 2017-2020 <br>
-ACM TEI: 2017-2018<br>
-ACM UbiComp/ISWC: 2017<br>
-Augmented Human: 2016-2017<br>
 
 <br>
 
@@ -171,9 +160,7 @@ Augmented Human: 2016-2017<br>
 
 ------
 
-TEACHING
-======
-
+# Teaching
 
 
 In 2020, I gave a lecture about **Bayesian Statistics** and its applications in _User Research_ course, Aalto University (by PhD. Aurélien Nioche). I also gave a lecture on **Deep Learning** in _Computational User Interface Design_, Aalto University (by Prof. Antti Oulasvirta).
