@@ -59,7 +59,8 @@ We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimiz
 **Continual Human-in-the-Loop Optimization**<br>
 
 While human-in-the-loop optimization has the potential to identify optimal settings during use, it is rarely applied in practice due to its long optimization process. A more efficient approach would continually leverage data from previous users to accelerate optimization, exploiting shared traits while adapting to individual characteristics. We introduce the concept of Continual Human-in-the-Loop Optimization and a Bayesian optimization-based method that leverages a Bayesian-neural-network surrogate model to capture population-level characteristics while adapting to new users. 
-*<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christoph Gebhardt, Christian Holz*<br>*
+
+*<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christoph Gebhardt, Christian Holz*<br>
 *In Proc. CHI '25 **Honorable Mentioned Award** // 
 [[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2503.05405)]*
 
