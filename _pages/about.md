@@ -43,17 +43,21 @@ Wrist-based input often requires tuning parameter settings in correspondence to 
 [[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642071)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071)], [[Video](https://www.youtube.com/watch?v=pxLGCKIEhjc)],  [[Presentation](https://www.youtube.com/watch?v=2mcCpN3DCyM)]*
 
 
+------
 
 <br>
 **Real-time 3D Target Inference via Biomechanical Simulation** *[CHI '24, 18-page Paper]*<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9QA-ElytQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Selecting a target in a 3D environment is often challenging, especially with small/distant targets or when sensor noise is high. To facilitate selection, target-inference methods must be accurate, fast, and account for noise and motor variability. We propose a novel approach that leverages biomechanical simulation to produce synthetic motion data, capturing a variety of movement-related factors, such as limb configurations and motor noise. Then, an inference model is trained with only the simulated data. Our simulation-based approach improves transfer and lowers cost; variety-rich data can be produced in large quantities for different scenarios. We empirically demonstrate that our method matches the accuracy of human-data-driven approaches using data from seven users. When deployed, the method accurately infers intended targets in challenging 3D pointing conditions within 5–10 milliseconds, reducing users' target-selection error by 71% and completion time by 35%.
+Selecting a target in a 3D environment is often challenging, especially with small/distant targets or when sensor noise is high. To facilitate selection, target-inference methods must be accurate, fast, and account for noise and motor variability. We propose a novel approach that leverages biomechanical simulation to produce synthetic motion data, capturing a variety of movement-related factors, such as limb configurations and motor noise. Then, an inference model is trained with only the simulated data. Our simulation-based approach improves transfer and lowers cost; variety-rich data can be produced in large quantities for different scenarios. 
 
 
-In Proc. CHI '24 // 
-[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]
+*Hee-Seung Moon, <u>Yi-Chi Liao</u>, Chenyu Li, Byungjoo Lee, Antti Oulasvirta<br>*
+*In Proc. CHI '24 Honorable Mentioned Award // 
+[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642131)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642131)], [[Presentation](https://www.youtube.com/watch?v=f9QA-ElytQc)]*
 
+
+------
 
 <br>
 **Rediscovering Affordance: A Reinforcement Learning Perspective** *[CHI '22, 14-page Paper]*<br>
@@ -62,8 +66,9 @@ In Proc. CHI '24 //
 We propose an integrative theory of affordance-formation based on the theory of reinforcement learning in cognitive sciences. The key assumption is that users learn to associate promising motor actions to percepts via experience when reinforcement signals (success/failure) are present. They also learn to categorize actions (e.g., "rotating" a dial), giving them the ability to name and reason about affordance. Upon encountering novel widgets, their ability to generalize these actions determines their ability to perceive affordances. We implement this theory in a virtual robot model, which demonstrates human-like adaptation of affordance in interactive widgets tasks. While its predictions align with trends in human data, humans are able to adapt affordances faster, suggesting the existence of additional mechanisms.
 
 
-In Proc. CHI '22 // 
-[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[Video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[Full Video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]
+*<u>Yi-Chi Liao</u>, Kashyap Todi, Aditya Acharya, Antti Keurulainen, Andrew Howes, Antti Oulasvirta<br>*
+*In Proc. CHI '22 // 
+[[Project Page](https://yichiliao.github.io/portfolio/7-affordance/)], [[Paper](https://arxiv.org/pdf/2112.12886.pdf)], [[Video](https://www.youtube.com/watch?v=MqzKMCnJt38)],  [[Full Video](https://www.youtube.com/watch?v=VNAcp-iC9tQ)]*
 
 ------
 
@@ -107,20 +112,6 @@ In Proc. UIST '17 //
 ------
 
 <br>
-**Outside-In: Visualizing Out-of-Sight Region-of-Interests in a 360 Video Using Spatial Picture-in-Picture Previews** <br>*[UIST '17, 9-page Paper]*<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XyN1TRUhelw" frameborder="0" allowfullscreen></iframe>
-
-
-We propose Outside-In, a visualization technique which re-introduces off-screen ROIs into the main screen as spatialpicture-in-picture (PIP) previews. The geometry of the pre-view windows further encodes the ROIs’ relative directions tothe main screen view, allowing for effective navigation. 
-
-
-In Proc. UIST '17 // 
-[[Project Page](https://yichiliao.github.io/portfolio/2-outsidein/)], [[Paper](http://yichiliao.github.io/files/outsidein_uist17.pdf)], [[Video](https://www.youtube.com/watch?v=XyN1TRUhelw)].
-
-
-------
-
-<br>
 **EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *[UIST '16, 6-page Paper]*<br>
 
 Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
@@ -134,33 +125,15 @@ Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
 In Proc. UIST '16 // 
 [[Project Page](https://yichiliao.github.io/portfolio/3-edgevib/)], [[Paper](https://yichiliao.github.io/files/edgevib_uist16.pdf)], [[Video](https://www.youtube.com/watch?v=Q_2owlSeDg4)]. 
 
-------
-
-**ThirdHand: Wearing a Robotic Arm to Experience Rich Force Feedback.** *[Siggraph Asia'15 Emerging Technology]*<br> 
-
-Yi-Chi Liao, Shun-Yao Yang, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sVRI0L7xu7E" frameborder="0" allowfullscreen></iframe>
-
-
-ThirdHnad is a wearable robotic arm provides 5-DOF force feedback to enrich the mobile gaming experience. Comparing to traditional mounted-on-environment force-feedback devices such as phantom, ThirdHand provides higher mobility due to its wearable form. Also, comparing to the muscle-propelled and gyro-effect solutions, our approach enables more accurate control with stronger forces.
-
-
-In Proc. Siggraph Asia'15 Emerging Technology // 
-[[Project Page](https://yichiliao.github.io/portfolio/5-thirdhand/)], [[Paper](http://yichiliao.github.io/files/thirdhand_sa15.pdf)], [[Video](https://www.youtube.com/watch?v=sVRI0L7xu7E)]. 
 
 ------
-
-
-
-Academic Activities
-======
+# Academic Activities
 
 
 **Program Committee:** <br>
-ACM CHI 2024, 2025 Paper<br>
-ACM UIST 2024, 2025 Paper<br>
-ACM CHI 2021, 2022 Late-Breaking Work<br>
+ACM CHI 2024 - 2026 Paper<br>
+ACM UIST 2024 - 2026 Paper<br>
+ACM CHI 2021 - 2022 Late-Breaking Work<br>
 ACM TEI 2022 Work-in-Progress<br>
 
 <br>
@@ -172,6 +145,7 @@ ACM IUI 2022 Student Volunteer Chair<br>
 
 <br>
 
+Beyond serving in program and organizing committees, I also constantly review papers for top-tier venues, including ACM CHI, UIST, TEI, MobileHCI, ToCHI, IJHCS, IEEE Transactions on Haptics, Haptics Symposium, etc. Please see my [CV](https://yichiliao.com/files/YiChi_Liao.pdf).
 
 **Paper Review:** <br>
 IEEE Transactions on Haptics: 2019, 2021<br>
