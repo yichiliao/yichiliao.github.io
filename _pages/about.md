@@ -16,7 +16,7 @@ My work advances optimization in interface design along three directions: (1) ex
 <br>
 Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I received my bachelor’s and master’s degree at [National Taiwan University](https://www.ntu.edu.tw/english/). I have made [17 full-paper publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. I have been serving as an Associate Chair for CHI and UIST since 2024, and was Video Preview Chair for CHI and Student Volunteer Chair for IUI. 
 
-The selected publications are listed below, and you may find the full publications of mine on the [Publication](https://yichiliao.com/publications/) page or from my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
+Below are selected key papers. You may find the full publications of mine on the [Publication](https://yichiliao.com/publications/) page or from my [Google Scholar page](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
 
 ------
 
