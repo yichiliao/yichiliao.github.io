@@ -11,8 +11,8 @@ redirect_from:
 I am a postdoctoral fellow in [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at the Department of Computer Science, [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html). My research lies at the intersection of computational interaction and design optimization. I develop **human-in-the-loop optimization** methods that enable interactive systems to learn directly from human behavior and preferences to automatically optimize interface designs, supporting **efficient interface adaptation and scalable human–AI collaboration**.
 <br>
 <br>
-My work advances optimization in interface design along three directions: (1) *expanding its scope to address increasingly complex and open-ended design tasks*, (2) *improving optimization efficiency to enable real-time interface adaptation*, and (3) *scaling these methods with large-scale, growing interaction data*.
 I have made 17 full-paper publications in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
+Jointly, these works advance optimization in interface design along three directions: (1) expanding its scope to address increasingly complex design tasks, (2) improving optimization efficiency to enable real-time interface adaptation, and (3) scaling these methods with large-scale, growing interaction data.
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
 <br>
 <br>
@@ -28,13 +28,13 @@ Selected Publications
 ======
 <br>
 **Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxLGCKIEhjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5xcQQJk-O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Wrist-based input often requires tuning parameter settings in correspondence to between-user and between-session differences, such as variations in hand anatomy, wearing position, posture, etc. Traditionally, users either work with predefined parameter values not optimized for individuals or undergo time-consuming calibration processes. We propose an online Bayesian Optimization (BO)-based method for rapidly determining the user-specific optimal settings of wrist-based pointing. Specifically, we develop a meta-Bayesian optimization (meta-BO) method, differing from traditional human-in-the-loop BO: By incorporating meta-learning of prior optimization data from a user population with BO, meta-BO enables rapid calibration of parameters for new users with a handful of trials. We evaluate our method with two representative and distinct wrist-based interactions: absolute and relative pointing. On a weighted-sum metric that consists of completion time, aiming error, and trajectory quality, meta-BO improves absolute pointing performance by 22.92% and 21.35% compared to BO and manual calibration, and improves relative pointing performance by 25.43% and 13.60%.
 
-
-In Proc. CHI '24 // 
-[[Project Page](https://dl.acm.org/doi/full/10.1145/3613904.3642071)], [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642071)], [[Video](https://www.youtube.com/watch?v=pxLGCKIEhjc)],  [[Presentation](https://www.youtube.com/watch?v=2mcCpN3DCyM)]
+*Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz*
+*In Proc. UIST '25 // 
+[[Project Page](https://siplab.org/projects/Visual_Appearance_Optimization)], [[Paper](https://arxiv.org/abs/2507.15355)], [[Video](https://www.youtube.com/watch?v=Y5xcQQJk-O0)]*
 
 
 ------
