@@ -12,11 +12,13 @@ I am a postdoctoral fellow in [SIPLab](https://siplab.org/) (led by [Prof. Chris
 <br>
 <br>
 My work advances optimization in interface design along three directions: (1) expanding its scope to address increasingly complex and open-ended design tasks, (2) improving optimization efficiency to enable real-time interface adaptation, and (3) scaling these methods with growing interaction data and prior experience.
-<br>
-<br>
-Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I received my bachelor’s and master’s degree at [National Taiwan University](https://www.ntu.edu.tw/english/). I have made [17 full-paper publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. I have been serving as an Associate Chair for CHI and UIST since 2024, and was Video Preview Chair for CHI and Student Volunteer Chair for IUI. 
-
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or from my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
+<br>
+<br>
+Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). 
+I have made [17 full-paper publications](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en) in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. I have been serving as an Associate Chair for CHI and UIST since 2024. 
+<br>
+<br>
 Please feel free to reach out to me via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, master’s and bachelor’s thesis opportunities, or the **Adaptive User Interfaces via Machine Learning** and **Reinforcement Learning for Modeling Humans** seminars at ETH Zurich.
 
 
