@@ -149,11 +149,12 @@ ACM CHI 2022 - 2024 Video Preview Chair<br>
 ACM IUI 2022 Student Volunteer Chair<br>
 
 **Special Recognitions for Outstanding Reviews:** <br>
-1 x recognition for IUI 2025 Papers <br>
+1 x recognition for CHI 2026 Paper <br>
+1 x recognition for IUI 2025 Paper <br>
 2 x recognitions for CHI 2024 Late-Breaking Work <br>
-1 x recognition for UIST 2022 Papers <br>
+1 x recognition for UIST 2022 Paper <br>
 3 x recognition for CHI 2021 Papers <br>
-1 x recognition for CHI 2020 Papers <br>
+1 x recognition for CHI 2020 Paper <br>
 
 I constantly review papers for top-tier venues, including ACM CHI, UIST, TEI, MobileHCI, ToCHI, IJHCS, IEEE Transactions on Haptics, Haptics Symposium, etc. Please see my [CV](https://yichiliao.com/files/YiChi_Liao.pdf) for more details.
 <br>
