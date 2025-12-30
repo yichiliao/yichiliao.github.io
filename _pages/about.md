@@ -27,7 +27,7 @@ Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for mor
 Selected Publications 
 ======
 <br>
-**Preference-Guided Multi-Objective UI Adaptation**<br>
+**Preference-Guided Multi-Objective UI Adaptation (UIST '25)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4b2kIEvvpAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3D Mixed Reality interfaces have nearly unlimited space for layout placement, making automatic UI adaptation crucial for enhancing the user experience. Such adaptation is often formulated as a multi-objective optimization (MOO) problem, where multiple, potentially conflicting design objectives must be balanced. We propose a novel optimization approach that efficiently determines user preferences from a minimal number of UI element adjustments. These determined rankings are translated into priority levels, which then drive our priority-based MOO algorithm. By focusing the search on user-preferred solutions, our method not only identifies UIs that are more aligned with user preferences, but also automatically and efficiently selects the personalized design.
@@ -41,7 +41,7 @@ Selected Publications
 
 
 <br>
-**Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
+**Efficient Visual Appearance Optimization by Learning from Prior Preferences (UIST '25)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5xcQQJk-O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Adjusting visual parameters such as brightness and contrast is common in our everyday experiences. 
@@ -56,7 +56,7 @@ We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimiz
 ------
 
 <br>
-**Continual Human-in-the-Loop Optimization**<br>
+**Continual Human-in-the-Loop Optimization (CHI '25, Honorable Mentioned)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lMF20yep3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 While human-in-the-loop optimization has the potential to identify optimal settings during use, it is rarely applied in practice due to its long optimization process. A more efficient approach would continually leverage data from previous users to accelerate optimization, exploiting shared traits while adapting to individual characteristics. We introduce the concept of Continual Human-in-the-Loop Optimization and a Bayesian optimization-based method that leverages a Bayesian-neural-network surrogate model to capture population-level characteristics while adapting to new users. 
@@ -69,7 +69,7 @@ While human-in-the-loop optimization has the potential to identify optimal setti
 ------
 
 <br>
-**Redefining Affordance via Computational Rationality**<br>
+**Redefining Affordance via Computational Rationality (IUI '25)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gGQF2cTdk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This paper introduces a novel affordance theory grounded in Computational Rationality, positing that humans construct internal representations of the world based on bounded sensory inputs. Within these internal models, affordances are inferred through two core mechanisms: feature recognition and hypothetical motion trajectories. Our theory redefines affordance perception as a decision-making process, driven by two components: confidence (the perceived likelihood of successfully executing an action) and predicted utility (the expected value of the outcome). By balancing these factors, individuals make informed decisions about which actions to take. 
@@ -81,7 +81,7 @@ This paper introduces a novel affordance theory grounded in Computational Ration
 
 ------
 <br>
-**A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions.** <br>
+**A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions (CHI '24)** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxLGCKIEhjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Wrist-based input often requires tuning parameter settings in correspondence to between-user and between-session differences, such as variations in hand anatomy, wearing position, posture, etc. We propose an online Bayesian Optimization (BO)-based method for rapidly determining the user-specific optimal settings of wrist-based pointing. Specifically, we develop a meta-Bayesian optimization (meta-BO) method, differing from traditional human-in-the-loop BO: By incorporating meta-learning of prior optimization data from a user population with BO, meta-BO enables rapid calibration of parameters for new users with a handful of trials. 
 
@@ -93,7 +93,7 @@ Wrist-based input often requires tuning parameter settings in correspondence to 
 ------
 
 <br>
-**Real-time 3D Target Inference via Biomechanical Simulation** <br>
+**Real-time 3D Target Inference via Biomechanical Simulation (CHI '24, Honorable Mentioned)** <br> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9QA-ElytQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Selecting a target in a 3D environment is often challenging, especially with small/distant targets or when sensor noise is high. To facilitate selection, target-inference methods must be accurate, fast, and account for noise and motor variability. We propose a novel approach that leverages biomechanical simulation to produce synthetic motion data, capturing a variety of movement-related factors, such as limb configurations and motor noise. Then, an inference model is trained with only the simulated data. Our simulation-based approach improves transfer and lowers cost; variety-rich data can be produced in large quantities for different scenarios. 
@@ -107,7 +107,7 @@ Selecting a target in a 3D environment is often challenging, especially with sma
 ------
 
 <br>
-**Rediscovering Affordance: A Reinforcement Learning Perspective**<br>
+**Rediscovering Affordance: A Reinforcement Learning Perspective (CHI '22)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqzKMCnJt38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We propose an integrative theory of affordance-formation based on the theory of reinforcement learning in cognitive sciences. The key assumption is that users learn to associate promising motor actions to percepts via experience when reinforcement signals (success/failure) are present. They also learn to categorize actions (e.g., "rotating" a dial), giving them the ability to name and reason about affordance. Upon encountering novel widgets, their ability to generalize these actions determines their ability to perceive affordances. We implement this theory in a virtual robot model, which demonstrates human-like adaptation of affordance in interactive widgets tasks. While its predictions align with trends in human data, humans are able to adapt affordances faster, suggesting the existence of additional mechanisms.
@@ -120,7 +120,7 @@ We propose an integrative theory of affordance-formation based on the theory of 
 ------
 
 <br>
-**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques**<br>
+**Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques (CHI '22, Honorable Mentioned)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uK4o_2VY90E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this paper, we study Bayesian optimization as an algorithmic method to guide the design optimization process. It operates by proposing to a designer which design candidate to try next, given previous observations. We report observations from a comparative study with 40 novice designers who were tasked to optimize a complex 3D touch interaction technique. The optimizer helped designers explore larger proportions of the design space and arrive at a better solution, however they reported lower agency and expressiveness. Designers guided by an optimizer reported lower mental effort but also felt less creative and less in charge of the progress. We conclude that human-in-the-loop optimization can support novice designers in cases where agency is not critical.
@@ -134,7 +134,7 @@ In this paper, we study Bayesian optimization as an algorithmic method to guide 
 
 
 <br>
-**Button Simulation and Design via FDVV Models**<br>
+**Button Simulation and Design via FDVV Models (CHI '20)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gE7v3Ai5bFk" frameborder="0" allowfullscreen></iframe>
 
 
@@ -148,7 +148,7 @@ Designing a push-button with desired sensation and performance is challenging be
 ------
 
 <br>
-**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues** *[UIST '17, 10-page Paper]*<br>
+**Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues (UIST '17)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E90wT4RwuSk" frameborder="0" allowfullscreen></iframe>
 
 
@@ -161,7 +161,7 @@ This paper presents Dwell+, a method that boosts the effectiveness of typical dw
 ------
 
 <br>
-**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display.** *[UIST '16, 6-page Paper]*<br>
+**EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display (UIST '16)**<br>
 
 Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
 
