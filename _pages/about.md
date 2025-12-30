@@ -27,6 +27,22 @@ Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for mor
 Selected Publications 
 ======
 <br>
+**Preference-Guided Multi-Objective UI Adaptation**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4b2kIEvvpAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Adjusting visual parameters such as brightness and contrast is common in our everyday experiences. 
+Finding the optimal parameter setting is challenging due to the large search space and the lack of an explicit objective function, leaving users to rely solely on their implicit preferences. 
+We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimization with meta-learning to improve sample efficiency. Specifically, Meta-PO infers prior users’ preferences and stores them as models, which are leveraged to intelligently suggest design candidates for the new users, enabling rapid convergence and more personalized visual filter design. 
+
+*Yao Song, Christoph Gebhardt, <u>Yi-Chi Liao</u>, Christian Holz*<br>
+*In Proc. UIST '25 // 
+[[Project Page](https://siplab.org/projects/Preference-guided_UI_Adaptation)], [[Paper](https://arxiv.org/abs/2509.18960)], [[Video](https://www.youtube.com/watch?v=4b2kIEvvpAA)]*
+
+
+------
+
+
+<br>
 **Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5xcQQJk-O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,7 +70,7 @@ Wrist-based input often requires tuning parameter settings in correspondence to 
 ------
 
 <br>
-**Real-time 3D Target Inference via Biomechanical Simulation** *[CHI '24, 18-page Paper]*<br>
+**Real-time 3D Target Inference via Biomechanical Simulation** <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9QA-ElytQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Selecting a target in a 3D environment is often challenging, especially with small/distant targets or when sensor noise is high. To facilitate selection, target-inference methods must be accurate, fast, and account for noise and motor variability. We propose a novel approach that leverages biomechanical simulation to produce synthetic motion data, capturing a variety of movement-related factors, such as limb configurations and motor noise. Then, an inference model is trained with only the simulated data. Our simulation-based approach improves transfer and lowers cost; variety-rich data can be produced in large quantities for different scenarios. 
@@ -68,7 +84,7 @@ Selecting a target in a 3D environment is often challenging, especially with sma
 ------
 
 <br>
-**Rediscovering Affordance: A Reinforcement Learning Perspective** *[CHI '22, 14-page Paper]*<br>
+**Rediscovering Affordance: A Reinforcement Learning Perspective**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqzKMCnJt38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We propose an integrative theory of affordance-formation based on the theory of reinforcement learning in cognitive sciences. The key assumption is that users learn to associate promising motor actions to percepts via experience when reinforcement signals (success/failure) are present. They also learn to categorize actions (e.g., "rotating" a dial), giving them the ability to name and reason about affordance. Upon encountering novel widgets, their ability to generalize these actions determines their ability to perceive affordances. We implement this theory in a virtual robot model, which demonstrates human-like adaptation of affordance in interactive widgets tasks. While its predictions align with trends in human data, humans are able to adapt affordances faster, suggesting the existence of additional mechanisms.
