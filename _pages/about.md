@@ -30,9 +30,11 @@ Selected Publications
 **Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5xcQQJk-O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Wrist-based input often requires tuning parameter settings in correspondence to between-user and between-session differences, such as variations in hand anatomy, wearing position, posture, etc. Traditionally, users either work with predefined parameter values not optimized for individuals or undergo time-consuming calibration processes. We propose an online Bayesian Optimization (BO)-based method for rapidly determining the user-specific optimal settings of wrist-based pointing. Specifically, we develop a meta-Bayesian optimization (meta-BO) method, differing from traditional human-in-the-loop BO: By incorporating meta-learning of prior optimization data from a user population with BO, meta-BO enables rapid calibration of parameters for new users with a handful of trials. We evaluate our method with two representative and distinct wrist-based interactions: absolute and relative pointing. On a weighted-sum metric that consists of completion time, aiming error, and trajectory quality, meta-BO improves absolute pointing performance by 22.92% and 21.35% compared to BO and manual calibration, and improves relative pointing performance by 25.43% and 13.60%.
+Adjusting visual parameters such as brightness and contrast is common in our everyday experiences. 
+Finding the optimal parameter setting is challenging due to the large search space and the lack of an explicit objective function, leaving users to rely solely on their implicit preferences. 
+We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimization with meta-learning to improve sample efficiency. Specifically, Meta-PO infers prior users’ preferences and stores them as models, which are leveraged to intelligently suggest design candidates for the new users, enabling rapid convergence and more personalized visual filter design. 
 
-*Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz*
+*Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz*<br>
 *In Proc. UIST '25 // 
 [[Project Page](https://siplab.org/projects/Visual_Appearance_Optimization)], [[Paper](https://arxiv.org/abs/2507.15355)], [[Video](https://www.youtube.com/watch?v=Y5xcQQJk-O0)]*
 
