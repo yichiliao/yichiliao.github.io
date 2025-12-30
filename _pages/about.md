@@ -56,16 +56,12 @@ We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimiz
 ------
 
 <br>
-**Efficient Visual Appearance Optimization by Learning from Prior Preferences**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5xcQQJk-O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Continual Human-in-the-Loop Optimization**<br>
 
-Adjusting visual parameters such as brightness and contrast is common in our everyday experiences. 
-Finding the optimal parameter setting is challenging due to the large search space and the lack of an explicit objective function, leaving users to rely solely on their implicit preferences. 
-We propose Meta-PO, a novel method that integrates Preferential Bayesian Optimization with meta-learning to improve sample efficiency. Specifically, Meta-PO infers prior users’ preferences and stores them as models, which are leveraged to intelligently suggest design candidates for the new users, enabling rapid convergence and more personalized visual filter design. 
-
-*Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz*<br>
-*In Proc. UIST '25 // 
-[[Project Page](https://siplab.org/projects/Visual_Appearance_Optimization)], [[Paper](https://arxiv.org/abs/2507.15355)], [[Video](https://www.youtube.com/watch?v=Y5xcQQJk-O0)]*
+While human-in-the-loop optimization has the potential to identify optimal settings during use, it is rarely applied in practice due to its long optimization process. A more efficient approach would continually leverage data from previous users to accelerate optimization, exploiting shared traits while adapting to individual characteristics. We introduce the concept of Continual Human-in-the-Loop Optimization and a Bayesian optimization-based method that leverages a Bayesian-neural-network surrogate model to capture population-level characteristics while adapting to new users. 
+*<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christoph Gebhardt, Christian Holz*<br>*
+*In Proc. CHI '25 **Honorable Mentioned Award** // 
+[[Project Page](https://siplab.org/projects/Redefining_Affordance)], [[Paper](https://arxiv.org/abs/2503.05405)]*
 
 
 ------
