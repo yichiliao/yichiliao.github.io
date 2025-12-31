@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # **Yi-CHi Liao (廖以圻)**
-**Postdoctoral Fellow at [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://ethz.ch/en/research/research-promotion/eth-fellowships.html)** 
+**Postdoctoral Fellow at [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html)** 
 
 ------ 
 
