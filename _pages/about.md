@@ -12,7 +12,7 @@ redirect_from:
 
 ------ 
 
-I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.
+**I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.**
 My research sits at the intersection of computational interaction and design optimization. 
 Builing on Bayesian optimization, reinforcement learning, user simulation, meta-learning, and related techniques, I advance **human-in-the-loop optimization** methods that enable interfaces automatically and efficiently optimize themselves for different users during use. My ultimate goal is advance human-in-the-loop optimization as the foundation of **future adaptive interfaces and scalable human–AI collaboration**.
 <br>
