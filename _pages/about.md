@@ -20,7 +20,7 @@ Builing on Bayesian optimization, reinforcement learning, user simulation, meta-
 I have published 17 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
 My works have contributed to a wide range of application domains, such as physical interaction, haptic display, AR/VR interface, input techniques, visual design, and motion generation/reconstruction.
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
-**For a detailed overview of my research agenda and future directions, see my [Research Statement (PDF)](https://yichiliao.com/files/Research-Statement_LIAO.pdf)**.
+For a detailed overview of my research agenda and future directions, see my [Research Statement (PDF)](https://yichiliao.com/files/Research-Statement_LIAO.pdf).
 <br>
 <br>
 Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I received my Ph.D. degree from [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) with [**Human-in-the-Loop Design Optimization**](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I was also a research intern at Reality Labs Research, Meta during my Ph.D. studies.
