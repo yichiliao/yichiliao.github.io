@@ -23,7 +23,7 @@ Below are selected key papers. A complete publication list can be found on my [P
 For a detailed overview of my research agenda and future directions, see my [Research Statement (PDF)](https://yichiliao.com/files/Research-Statement_LIAO.pdf).
 <br>
 <br>
-Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) on [Human-in-the-Loop Design Optimization](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I worked as a research intern at Reality Labs Research, Meta during my Ph.D. studies.
+Previously, I was a postdoc at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof Anna Feit](http://annafeit.de/)). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en) (supervised by [Prof Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) on [Human-in-the-Loop Design Optimization (dissertation PDF)](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I worked as a research intern at Reality Labs Research, Meta during my Ph.D. studies.
 <br>
 <br>
 Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, master’s and bachelor’s thesis opportunities, or the *Adaptive User Interfaces via Machine Learning* and *Reinforcement Learning for Modeling Humans* seminars at ETH Zurich.
