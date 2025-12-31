@@ -14,7 +14,7 @@ redirect_from:
 
 
 My research sits at the intersection of computational interaction and design optimization. 
-Building on Bayesian optimization, reinforcement learning, user simulation, meta-learning, and related techniques, **I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.**
+Building on Bayesian optimization, reinforcement learning, user simulation, and meta-learning, **I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.**
 My ultimate goal is to advance such human-in-the-loop optimization as the foundation for **future adaptive interfaces and scalable human–AI collaboration**.
 <br>
 <br>
