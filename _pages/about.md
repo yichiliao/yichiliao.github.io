@@ -25,7 +25,7 @@ For a detailed overview of my research agenda and future directions, see my [Res
 <br>
 <br>
 Before joining in [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at the Department of Computer Science, ETH Zürich, I was a postdoctoral researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof. Anna Feit](http://annafeit.de/)). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en) (supervised by [Prof. Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) on [Human-in-the-Loop Design Optimization (dissertation PDF)](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I worked as a research intern at Reality Labs Research, Meta.
-Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, and thesis opportunities.
+Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, and thesis opportunities (only for the students at ETH Zürich and the university of Zürich).
 
 
 ------
