@@ -12,7 +12,9 @@ redirect_from:
 
 ------ 
 
-My research sits at the intersection of computational interaction and design optimization. I develop computational methods -- grounded in Bayesian optimization, reinforcement learning, user simulation, meta-learning, and related techniques -- that enable interfaces to learn from human behavior and automatically optimize their designs during use. My ultimate goal is to advance interface design from a manual, one-shot process toward **efficient adaptive interfaces and scalable human–AI collaboration**.
+I develop computational methods to enable interactive systems to learn from human behavior and optimize themselves during use.
+My research sits at the intersection of computational interaction and design optimization. 
+Built upon Bayesian optimization, reinforcement learning, user simulation, meta-learning, and related techniques, I advance **human-in-the-loop optimization** methods that enable interfaces to learn from human behavior and automatically optimize themselves. My ultimate goal is to advance interface design from a manual, one-design-fit-all process toward **efficient adaptive interfaces and scalable human–AI collaboration**.
 <br>
 <br>
 I have made 17 full-paper publications in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
