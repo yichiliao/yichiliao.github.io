@@ -7,19 +7,19 @@ author_profile: true
 
 ## Journal Papers
 <br>
-**[23] Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
+**[26] Practical approaches to group-level multi-objective Bayesian optimization in interaction technique design**<br>
 <u>Yi-Chi Liao</u>, George B Mo, John J Dudley, Chun-Lien Cheng, Liwei Chan, Per Ola Kristensson, Antti Oulasvirta<br>
-ACM Collective Intelligence , 2024. <br>
+ACM Collective Intelligence, 2024. <br>
 [Project Page], [[Paper](https://journals.sagepub.com/doi/full/10.1177/26339137241241313)], [Video],  [Full video]
 
 <br>
-**[22] Cooperative Multi-Objective Bayesian Design Optimization**<br>
+**[25] Cooperative Multi-Objective Bayesian Design Optimization**<br>
 George B Mo, John J Dudley, Liwei Chan, <u>Yi-Chi Liao</u>, Antti Oulasvirta, Per Ola Kristensson<br>
 ACM Transactions on Interactive Intelligent Systems (TiiS) 2024. <br>
 [Project Page], [[Paper](https://dl.acm.org/doi/full/10.1145/3657643)], [Video],  [Full Video]
 
 <br>
-**[21] Interaction Design With Multi-objective Bayesian Optimization**<br>
+**[24] Interaction Design With Multi-objective Bayesian Optimization**<br>
 <u>Yi-Chi Liao</u>, John J Dudley, George B Mo, Chun-Lien Cheng, Liwei Chan, Antti Oulasvirta, Per Ola Kristensson<br>
 IEEE Pervasive Computing (PerComp), 2023. <br>
 [Project Page], [[Paper](https://ieeexplore.ieee.org/abstract/document/10024515/)], [Video],  [Full video]
