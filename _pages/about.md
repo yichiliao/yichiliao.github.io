@@ -33,7 +33,7 @@ Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for mor
 Selected Publications 
 ======
 
-## *Three papers accetped to CHI 2026. You can find the titles on my [Publications page](https://yichiliao.com/publications/). Stay tuned for more details!
+## Three optimization papers accepted to CHI 2026. You can find the titles on my [Publications page](https://yichiliao.com/publications/). Stay tuned for more details!
 
 
 <br>
