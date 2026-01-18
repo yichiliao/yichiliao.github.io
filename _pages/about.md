@@ -32,6 +32,10 @@ Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for mor
 
 Selected Publications 
 ======
+
+## *Three papers accetped to CHI 2026. You can find the titles on my [Publications page](https://yichiliao.com/publications/). Stay tuned for more details!
+
+
 <br>
 **Preference-Guided Multi-Objective UI Adaptation (UIST '25)**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4b2kIEvvpAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
