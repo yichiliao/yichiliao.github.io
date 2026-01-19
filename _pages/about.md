@@ -19,7 +19,7 @@ Building on Bayesian optimization, reinforcement learning, user simulation, and 
 My ultimate goal is to advance such human-in-the-loop optimization as the foundation for **future adaptive interfaces and scalable human–AI collaboration**.
 <br>
 <br>
-I have published 17 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
+I have published 20 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
 My work has contributed to a wide range of application domains, such as physical interaction, haptic displays, AR/VR interfaces, input techniques, visual design, and motion generation and reconstruction.
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
 For a detailed overview of my research agenda and future directions, see my [Research Statement (PDF)](https://yichiliao.com/files/Research-Statement_LIAO.pdf).
