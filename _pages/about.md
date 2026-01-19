@@ -12,7 +12,7 @@ redirect_from:
 
 ------ 
 
-<span style="color: red;">I am currently on the job market, looking for faculty positions!</span>
+<span style="color: red;">**I am currently on the job market, looking for faculty positions!**</span>
 
 My research sits at the intersection of computational interaction, machine learning, and computational design. 
 Building on Bayesian optimization, reinforcement learning, user simulation, and meta-learning, **I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.**
