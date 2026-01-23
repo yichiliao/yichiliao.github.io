@@ -1,7 +1,7 @@
 ---
 title: "ThirdHand: Giving a Hand to Mobile Devices with a Robotic Arm"
 excerpt: "This paper explores the concept of ThirdHand, as a means to inject external force to mobile devices by establishing a physical connection with the devices through a robot arm adding to users’ wrist.<br/><img src='/images/thirdhand/teaser-1.png'><br><br>"
-collection: portfolio
+collection: project
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HCcghH8mcFg" frameborder="0" allowfullscreen></iframe>
