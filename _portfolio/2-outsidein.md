@@ -1,7 +1,7 @@
 ---
 title: "Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a360 Video Using Spatial Picture-in-Picture Previews"
 excerpt: "Outside-In is a visualization technique which re-introduces off-screen regions-of-interest (ROIs) into the main screen as spatial picture-in-picture (PIP) previews.<br/><img src='/images/outside-in/outsidein.png'><br><br>"
-collection: project
+collection: portfolio
 ---
 
 <br>
