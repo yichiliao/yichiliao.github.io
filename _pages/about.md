@@ -7,25 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# **Yi-CHi Liao (廖以圻)**
+# **Yi-Chi Liao (廖以圻)**
 **Postdoctoral Fellow at the Department of Computer Science of [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html)** 
 
 ------ 
 
+<span style="color: red;">**I’m on the job market for tenure-track faculty positions or full-time industry research positions. Please reach out if you are aware of any suitable openings!**</span>
 
 My research sits at the intersection of computational interaction, machine learning, and computational design. 
 Building on Bayesian optimization, reinforcement learning, user simulation, and meta-learning, **I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.**
 My ultimate goal is to advance such human-in-the-loop optimization as the foundation for **future adaptive interfaces and scalable human–AI collaboration**.
 <br>
 <br>
-I have published 17 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
+I have published 20 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
 My work has contributed to a wide range of application domains, such as physical interaction, haptic displays, AR/VR interfaces, input techniques, visual design, and motion generation and reconstruction.
 Below are selected key papers. A complete publication list can be found on my [Publications page](https://yichiliao.com/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=Ddny4V4AAAAJ&hl=en). 
 For a detailed overview of my research agenda and future directions, see my [Research Statement (PDF)](https://yichiliao.com/files/Research-Statement_LIAO.pdf).
 <br>
 <br>
-Before joining in [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at ETH Zürich, I was a postdoctoral researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof. Anna Feit](http://annafeit.de/)). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en) (supervised by [Prof. Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) on [Human-in-the-Loop Design Optimization (dissertation PDF)](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I worked as a research intern at Reality Labs Research, Meta.
-Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, and thesis opportunities (only for the students at ETH Zürich and the university of Zürich).
+Before joining [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at ETH Zürich, I was a postdoctoral researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof. Anna Feit](http://annafeit.de/)). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en) (supervised by [Prof. Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) on [Human-in-the-Loop Design Optimization (dissertation PDF)](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I worked as a research intern at Reality Labs Research, Meta.
+Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, and thesis opportunities (only for the students at ETH Zürich and the University of Zürich).
 
 
 ------
@@ -33,7 +34,7 @@ Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for mor
 Selected Publications 
 ======
 
-### Three papers accetped to CHI 2026. You can find the titles on my [Publications page](https://yichiliao.com/publications/). Stay tuned for more details!
+### Three optimization papers accepted to CHI 2026. You can find the titles on my [Publications page](https://yichiliao.com/publications/). Stay tuned for more details!
 
 
 <br>
