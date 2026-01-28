@@ -31,20 +31,20 @@ IEEE Pervasive Computing (PerComp), 2023. <br>
 <br>
 **[23] Efficient Human-in-the-Loop Optimization via Priors Learned from User Models**<br>
 <u>Yi-Chi Liao</u>, João Belo, Hee-Seung Moon, Jürgen Steimle, Anna Feit<br>
-In Proceedings of CHI 2025. (Acceptance rate = 25.3%) <br>
+In Proceedings of CHI 2026. (Acceptance rate = 25.3%) <br>
 *Stay tuned!*
 
 <br>
 **[22] Preference-Guided Prompt Optimization for Image Generation**<br>
 Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of CHI 2025. (Acceptance rate = 25.3%) <br>
+In Proceedings of CHI 2026. (Acceptance rate = 25.3%) <br>
 *Stay tuned!*
 
 
 <br>
 **[21] Automating UI Optimization through Multi-Agentic Reasoning**<br>
 Zhipeng Li, Christoph Gebhardt, <u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of CHI 2025. (Acceptance rate = 25.3%) <br>
+In Proceedings of CHI 2026. (Acceptance rate = 25.3%) <br>
 *Stay tuned!*
 
 
