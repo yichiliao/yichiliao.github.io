@@ -68,7 +68,7 @@ In Proceedings of IEEE International Conference on Computer Vision (ICCV) 2025. 
 
 <br>
 **[17] Continual Human-in-the-Loop Optimization**<br>
-<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christopgh Gebhardt, and Christian Holz<br>
+<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christoph Gebhardt, and Christian Holz<br>
 In Proceedings of CHI 2025. (Acceptance rate = 24.9%) <br>
 **Honorable Mentioned Award** (top 5% of submissions) <br>
 [[Project Page](https://siplab.org/projects/Continual_Human-in-the-Loop_Optimization)], [[Paper](https://arxiv.org/abs/2503.05405)]
