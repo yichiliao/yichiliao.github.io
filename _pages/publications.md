@@ -31,20 +31,20 @@ IEEE Pervasive Computing (PerComp), 2023. <br>
 <br>
 **[23] Efficient Human-in-the-Loop Optimization via Priors Learned from User Models**<br>
 <u>Yi-Chi Liao</u>, João Belo, Hee-Seung Moon, Jürgen Steimle, Anna Feit<br>
-In Proceedings of CHI 2025. (Acceptance rate = 25.3%) <br>
+In Proceedings of CHI 2026. (Acceptance rate = 25.3%) <br>
 *Stay tuned!*
 
 <br>
 **[22] Preference-Guided Prompt Optimization for Image Generation**<br>
 Zhipeng Li, <u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of CHI 2025. (Acceptance rate = 25.3%) <br>
+In Proceedings of CHI 2026. (Acceptance rate = 25.3%) <br>
 *Stay tuned!*
 
 
 <br>
 **[21] Automating UI Optimization through Multi-Agentic Reasoning**<br>
 Zhipeng Li, Christoph Gebhardt, <u>Yi-Chi Liao</u>, Christian Holz<br>
-In Proceedings of CHI 2025. (Acceptance rate = 25.3%) <br>
+In Proceedings of CHI 2026. (Acceptance rate = 25.3%) <br>
 *Stay tuned!*
 
 
@@ -68,7 +68,7 @@ In Proceedings of IEEE International Conference on Computer Vision (ICCV) 2025. 
 
 <br>
 **[17] Continual Human-in-the-Loop Optimization**<br>
-<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christopgh Gebhardt, and Christian Holz<br>
+<u>Yi-Chi Liao</u>, Paul Streli, Zhipeng Li, Christoph Gebhardt, and Christian Holz<br>
 In Proceedings of CHI 2025. (Acceptance rate = 24.9%) <br>
 **Honorable Mentioned Award** (top 5% of submissions) <br>
 [[Project Page](https://siplab.org/projects/Continual_Human-in-the-Loop_Optimization)], [[Paper](https://arxiv.org/abs/2503.05405)]
