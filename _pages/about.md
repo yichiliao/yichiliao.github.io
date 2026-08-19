@@ -15,10 +15,8 @@ redirect_from:
 
 My research sits at the intersection of human-computer interaction and machine learning.
 My ultimate vision is to transform modern AI models from *Trained Intelligence* to *Interactive Intelligence*. 
-
-Modern AI largely follows a train-then-deploy paradigm: intelligence is acquired from large-scale data and training before deployment. While these models excel at one-time responses, they usually strggule in learning from complex, evolving interactions. I envision Interactive Intelligence as a shift toward systems that learn through interaction in real time and continuously adapt their decisions and behaviors for more effective interactions.
-
-My research pursues this vision through three complementary pillars: learning to optimize behaviors under limited interaction budgets; learning for long-horizon planning; and learning to interact under unfamiliar dynamics. Together, these pillars aim to build AI that continually learns by acting, observing, and interacting with humans and the world.
+Modern AI largely follows a train-then-deploy paradigm. They excel in one-time response, but usually strggule in learning from complex, evolving interactions. I envision Interactive Intelligence as a shift toward systems that learn through interaction in real time and continuously adapt their decisions and behaviors for more effective interactions.
+My research pursues this vision through three pillars: learning to optimize behaviors under limited interaction budgets; learning for long-horizon planning; and learning to interact under unfamiliar dynamics. 
 <br>
 <br>
 I have published 20 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
