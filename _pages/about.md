@@ -12,6 +12,9 @@ redirect_from:
 
 ------ 
 
+<span style="color: red; font-weight: bold;">I am actively recruiting students across all levels to join my group (Interactive Intelligence Lab). Please see [this page](https://docs.google.com/document/d/1-LeDW6IU24OhxY17iO1KpysMrO6HU8Ec6UMsFyjC1rU/edit?usp=sharing) for more details about the expectations and the application process.</span> 
+
+------ 
 
 My research sits at the intersection of human-computer interaction and machine learning.
 My ultimate vision is to transform modern AI models from *Trained Intelligence* to *Interactive Intelligence*. 
@@ -27,7 +30,6 @@ For a detailed overview of my research agenda and future directions, see my [Res
 <br>
 Before joining National Taiwan University, I was a postdoctoral researcher at [ETH Zurich](https://ethz.ch/en.html) and [Saarland University](https://www.uni-saarland.de/en/home.html). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en). I also worked as a research intern at Reality Labs Research, Meta.
 
-Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, and thesis opportunities (only for the students at ETH Zürich and the University of Zürich).
 
 
 ------
