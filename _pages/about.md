@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 # **Yi-Chi Liao (廖以圻)**
-**Postdoctoral Fellow at the Department of Computer Science of [ETH Zürich](https://ethz.ch/en.html), supported by the [ETH Zürich Postdoctoral Fellowship Programme](https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html)** 
+**Assistant Professor at the Department of Computer Science and Information Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/)** 
 
 ------ 
 
-<span style="color: red;">**I’m on the job market for tenure-track faculty positions or full-time industry research positions. Please reach out if you are aware of any suitable openings!**</span>
 
-My research sits at the intersection of computational interaction, machine learning, and computational design. 
-Building on Bayesian optimization, reinforcement learning, user simulation, and meta-learning, **I develop computational methods that transform interactive systems from static artifacts into adaptive systems that learn and optimize through interaction with humans.**
-My ultimate goal is to advance such human-in-the-loop optimization as the foundation for **future adaptive interfaces and scalable human–AI collaboration**.
+My research sits at the intersection of human-computer interaction and machine learning.
+My ultimate vision is to transform modern AI models from *Trained Intelligence* to *Interactive Intelligence*. 
+
+Modern AI largely follows a train-then-deploy paradigm: intelligence is acquired from large-scale data and training before deployment. While these models excel at one-time responses, they usually strggule in learning from complex, evolving interactions. I envision Interactive Intelligence as a shift toward systems that learn through interaction in real time and continuously adapt their decisions and behaviors for more effective interactions.
+
+My research pursues this vision through three complementary pillars: learning to optimize behaviors under limited interaction budgets; learning for long-horizon planning; and learning to interact under unfamiliar dynamics. Together, these pillars aim to build AI that continually learns by acting, observing, and interacting with humans and the world.
 <br>
 <br>
 I have published 20 full papers in top-tier venues, including ACM CHI, UIST, TiiS, IEEE PerComp, and ICCV. 
@@ -25,7 +27,8 @@ Below are selected key papers. A complete publication list can be found on my [P
 For a detailed overview of my research agenda and future directions, see my [Research Statement (PDF)](https://yichiliao.com/files/Research-Statement_LIAO.pdf).
 <br>
 <br>
-Before joining [SIPLab](https://siplab.org/) (led by [Prof. Christian Holz](https://www.christianholz.net/)) at ETH Zürich, I was a postdoctoral researcher at [Saarland University](https://www.uni-saarland.de/en/home.html) (with [Prof. Jürgen Steimle](https://hci.cs.uni-saarland.de/people/juergen-steimle/) and [Prof. Anna Feit](http://annafeit.de/)). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en) (supervised by [Prof. Antti Oulasvirta](https://users.aalto.fi/~oulasvir/)) on [Human-in-the-Loop Design Optimization (dissertation PDF)](https://drive.google.com/file/d/1UcH6LuV7GiyRMvrVb9EZ34z-FeGPDBS7/view?usp=sharing). I worked as a research intern at Reality Labs Research, Meta.
+Before joining National Taiwan University, I was a postdoctoral researcher at [ETH Zurich](https://ethz.ch/en.html) and [Saarland University](https://www.uni-saarland.de/en/home.html). I completed my Ph.D. studies at [Aalto University](https://www.aalto.fi/en). I also worked as a research intern at Reality Labs Research, Meta.
+
 Please feel free to reach out via [email](mailto:yichi.liao@inf.ethz.ch) for more information about my research, potential collaborations, and thesis opportunities (only for the students at ETH Zürich and the University of Zürich).
 
 
