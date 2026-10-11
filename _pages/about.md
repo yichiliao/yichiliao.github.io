@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 # **Yi-Chi Liao (廖以圻)**
-**Assistant Professor at the Department of Computer Science and Information Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/)** 
+**Assistant Professor at the Department of Computer Science and Information Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/),** 
+**leading the [Interactive Intelligence Lab](https://csie.ntu.edu.tw/~yichi/)** 
 
 ------ 
 
-<span style="color: red; font-weight: bold;">I am actively recruiting students across all levels to join my group (Interactive Intelligence Lab). Please see [this page](https://docs.google.com/document/d/1-LeDW6IU24OhxY17iO1KpysMrO6HU8Ec6UMsFyjC1rU/edit?usp=sharing) for more details about the expectations and the application process.</span> 
+<span style="color: red; font-weight: bold;">I am actively recruiting students across all levels to join my group (Interactive Intelligence Lab). Please see [my group website](https://csie.ntu.edu.tw/~yichi/) for more details about the expectations and the application process.</span> 
+
+I am giving **Human-AI Interaction and Collaboration** this semester. The course does not accept pre-registration, and you must come to the first lecture for the registration code. Please see more details on [this page](https://www.csie.ntu.edu.tw/~yichi/course-haico-2026.html).
 
 ------ 
 
