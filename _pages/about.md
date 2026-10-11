@@ -9,7 +9,7 @@ redirect_from:
 ---
 # **Yi-Chi Liao (廖以圻)**
 **Assistant Professor at the Department of Computer Science and Information Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/),** 
-**leading the [Interactive Intelligence Lab](https://csie.ntu.edu.tw/~yichi/)** 
+**leading the [Interactive Intelligence Lab](https://csie.ntu.edu.tw/~yichi/).** 
 
 ------ 
 
@@ -19,6 +19,8 @@ I am giving **Human-AI Interaction and Collaboration** this semester. The course
 
 ------ 
 
+Research
+======
 My research sits at the intersection of human-computer interaction and machine learning.
 My ultimate vision is to transform modern AI models from *Trained Intelligence* to *Interactive Intelligence*. 
 Modern AI largely follows a train-then-deploy paradigm. They excel in one-time response, but usually strggule in learning from complex, evolving interactions. I envision Interactive Intelligence as a shift toward systems that learn through interaction in real time and continuously adapt their decisions and behaviors for more effective interactions.
@@ -229,12 +231,3 @@ ACM IUI 2022 Student Volunteer Chair<br>
 I constantly review papers for top-tier venues, including ACM CHI, UIST, TEI, MobileHCI, ToCHI, IJHCS, IEEE Transactions on Haptics, Haptics Symposium, etc. Please see my [CV (PDF)](https://yichiliao.com/files/YiChi_Liao.pdf) for more details.
 <br>
 
-------
-
-# Teaching
-
-At **ETH Zürich**, I teach and organize courses that introduce computational and learning-based perspectives to Human–Computer Interaction at both undergraduate and graduate levels. I lecture in the Bachelor’s *Introduction to Human-Computer Interaction* course, covering core topics in computational interaction, including visual search and design, input devices, experiment design, adaptive interfaces, optimization, and computational rationality. These lectures emphasize how formal models and learning methods can be used to analyze and design interactive systems.
-
-I am also the organizer for two seminar courses at ETH Zürich: *Adaptive User Interfaces via Machine Learning* (undergraduate) and *Reinforcement Learning for Modeling Humans* (graduate). In these seminars, students read and discuss recent research, critically analyze methods, and develop research ideas, with a strong focus on connecting theory and machine learning approaches to emerging HCI topics.
-
-Previously at **Aalto University**, I lectured in the Master’s-level *Computational Interface Design* course, teaching topics such as input and sensing, Bayesian optimization, deep learning for HCI, and probabilistic inference. I also gave guest lectures in *User Research* on Bayesian statistics and probabilistic programming, introducing rigorous statistical foundations for user-centered research and evaluation.
